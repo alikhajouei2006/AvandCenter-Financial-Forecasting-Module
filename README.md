@@ -299,3 +299,13 @@ Potential improvements include:
 - Exploring advanced time-series models
 - Incorporating user-specific behavior modeling
 - Improving uncertainty estimation for predictions
+
+---
+
+## Project Context
+
+This repository contains the machine learning component of the AvandCenter project.
+
+The ML component was independently designed and implemented by:
+
+- Ali Khajouei - Machine Learning Lead
