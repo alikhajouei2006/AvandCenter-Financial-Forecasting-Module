@@ -1,0 +1,2041 @@
+id,user_id,transaction_kind,amount,transaction_datetime,category,title,description,created_at
+1,U01,expense,28.28,1/3/2026 14:29,Shopping,Clothing Store Purchase,,1/5/2026 3:16
+2,U01,expense,15.34,1/3/2026 22:37,Entertainment,Streaming Subscription,Entertainment-related purchase,1/5/2026 5:19
+3,U01,expense,25.76,1/4/2026 22:37,Entertainment,Streaming Subscription,,1/5/2026 2:19
+4,U01,income,221.93,1/5/2026 9:47,Gift,Birthday Gift,Gift or one-off received money,1/5/2026 12:12
+5,U01,expense,13.48,1/6/2026 20:51,Food,Supermarket Grocery Purchase,Groceries or meals,1/8/2026 2:51
+6,U01,expense,7.69,1/6/2026 22:09,Food,Lunch Purchase,,1/7/2026 15:17
+7,U01,expense,8.19,1/9/2026 17:07,Food,Lunch Purchase,Groceries or meals,1/10/2026 7:31
+8,U01,expense,2.59,1/10/2026 14:20,Transport,Fuel Purchase,,1/11/2026 3:19
+9,U01,expense,4.85,1/10/2026 20:12,Food,Supermarket Grocery Purchase,Meal-related purchase,1/10/2026 22:44
+10,U01,expense,2.36,1/13/2026 15:02,Transport,Uber Ride,Local transport expense,1/14/2026 16:58
+11,U01,expense,2.92,1/17/2026 16:22,Transport,Metro Ticket,Ride or fuel cost,1/18/2026 7:45
+12,U01,expense,5.78,1/20/2026 10:15,Food,Café Order,Groceries or meals,1/20/2026 22:31
+13,U01,income,246.66,1/20/2026 12:45,Gift,Gift Received,Gift or one-off received money,1/21/2026 10:26
+14,U01,expense,10.29,1/21/2026 8:37,Other,Bank Charge,,1/21/2026 12:01
+15,U01,expense,3.17,1/23/2026 19:47,Transport,Uber Ride,Ride or fuel cost,1/24/2026 23:34
+16,U01,expense,3.07,1/28/2026 6:36,Transport,Uber Ride,Local transport expense,1/28/2026 9:32
+17,U01,expense,1.96,1/28/2026 9:49,Transport,Taxi Fare,Local transport expense,1/28/2026 20:37
+18,U01,expense,7.17,1/29/2026 14:53,Food,Restaurant Meal,,1/29/2026 22:26
+19,U01,expense,28.89,1/29/2026 18:25,Education,Book Purchase,Books or tuition payment,1/31/2026 0:49
+20,U01,expense,12.29,2/2/2026 7:20,Food,Supermarket Grocery Purchase,Groceries or meals,2/2/2026 13:41
+21,U01,income,160.17,2/5/2026 19:55,Gift,Gift Received,,2/5/2026 21:18
+22,U01,expense,2.11,2/9/2026 11:37,Transport,Taxi Fare,Ride or fuel cost,2/9/2026 12:44
+23,U01,expense,2.91,2/9/2026 17:15,Other,Service Fee,,2/10/2026 4:34
+24,U01,expense,2.08,2/9/2026 18:49,Other,Bank Charge,Non-categorized expense,2/10/2026 8:12
+25,U01,expense,6.71,2/10/2026 15:37,Food,Lunch Purchase,Groceries or meals,2/11/2026 11:04
+26,U01,expense,3.62,2/10/2026 22:28,Food,Restaurant Meal,,2/11/2026 6:04
+27,U01,expense,10.62,2/11/2026 22:16,Food,Lunch Purchase,Daily food spending,2/12/2026 10:20
+28,U01,expense,9.12,2/14/2026 9:09,Food,Restaurant Meal,Groceries or meals,2/14/2026 19:10
+29,U01,expense,4.28,2/14/2026 22:51,Transport,Fuel Purchase,,2/15/2026 0:37
+30,U01,expense,40.31,2/16/2026 20:21,Education,Tuition Payment,Learning-related expense,2/16/2026 21:34
+31,U01,expense,5.04,2/18/2026 11:15,Food,Supermarket Grocery Purchase,,2/19/2026 12:25
+32,U01,expense,21.68,2/18/2026 18:04,Food,Restaurant Meal,Meal-related purchase,2/19/2026 13:20
+33,U01,expense,8.74,2/18/2026 19:52,Entertainment,Movie Ticket,,2/19/2026 4:13
+34,U01,expense,4.49,2/19/2026 15:30,Transport,Uber Ride,Commute or travel cost,2/20/2026 3:39
+35,U01,expense,13.16,2/19/2026 21:06,Education,Book Purchase,Books or tuition payment,2/19/2026 22:27
+36,U01,income,400.34,2/20/2026 10:30,Gift,Gift Received,Occasional gift income,2/21/2026 1:22
+37,U01,expense,7.07,2/22/2026 21:14,Food,Café Order,Meal-related purchase,2/24/2026 15:15
+38,U01,expense,2.37,2/24/2026 23:40,Transport,Uber Ride,Ride or fuel cost,2/25/2026 3:36
+39,U01,expense,74.59,2/26/2026 13:29,Savings,Emergency Fund Transfer,Transfer to savings,2/26/2026 22:19
+40,U01,expense,2.14,2/26/2026 16:41,Transport,Fuel Purchase,Ride or fuel cost,2/26/2026 19:43
+41,U01,expense,4.42,2/28/2026 17:28,Transport,Fuel Purchase,Commute or travel cost,2/28/2026 19:25
+42,U01,expense,5.13,3/1/2026 20:43,Food,Restaurant Meal,Groceries or meals,3/2/2026 9:11
+43,U01,expense,13.23,3/2/2026 10:05,Food,Supermarket Grocery Purchase,,3/2/2026 22:32
+44,U01,expense,4.54,3/2/2026 12:06,Food,Lunch Purchase,Daily food spending,3/2/2026 14:10
+45,U01,expense,5.52,3/2/2026 14:36,Food,Restaurant Meal,,3/2/2026 18:54
+46,U01,expense,20.72,3/2/2026 16:17,Savings,Savings Transfer,,3/3/2026 4:45
+47,U01,expense,7.23,3/3/2026 12:25,Food,Café Order,Daily food spending,3/4/2026 15:54
+48,U01,income,236.16,3/5/2026 11:44,Salary,Monthly Salary Deposit,Employer salary deposit,3/6/2026 11:41
+49,U01,expense,4.66,3/6/2026 19:06,Transport,Uber Ride,Local transport expense,3/8/2026 1:20
+50,U01,expense,2.78,3/7/2026 10:56,Transport,Uber Ride,Local transport expense,3/7/2026 13:05
+51,U01,expense,4.38,3/9/2026 12:52,Transport,Metro Ticket,Ride or fuel cost,3/9/2026 20:37
+52,U01,expense,8.25,3/11/2026 12:40,Food,Restaurant Meal,Daily food spending,3/12/2026 10:18
+53,U01,expense,3.88,3/12/2026 11:03,Transport,Fuel Purchase,Ride or fuel cost,3/12/2026 13:30
+54,U01,expense,10.84,3/13/2026 11:48,Food,Café Order,Daily food spending,3/14/2026 8:36
+55,U01,expense,14.39,3/13/2026 19:34,Food,Lunch Purchase,Meal-related purchase,3/14/2026 13:03
+56,U01,expense,8.25,3/16/2026 13:23,Food,Lunch Purchase,Meal-related purchase,3/17/2026 6:19
+57,U01,expense,4.37,3/18/2026 8:15,Food,Supermarket Grocery Purchase,,3/20/2026 4:24
+58,U01,expense,7.15,3/18/2026 10:37,Transport,Uber Ride,Local transport expense,3/19/2026 8:08
+59,U01,income,308.18,3/20/2026 16:48,Gift,Birthday Gift,Gift or one-off received money,3/21/2026 7:49
+60,U01,expense,4.55,3/20/2026 20:04,Transport,Taxi Fare,Local transport expense,3/21/2026 8:43
+61,U01,expense,4.06,3/24/2026 19:49,Food,Lunch Purchase,Daily food spending,3/25/2026 7:44
+62,U01,expense,5.22,3/26/2026 7:44,Food,Supermarket Grocery Purchase,Groceries or meals,3/26/2026 13:43
+63,U01,expense,8.41,3/26/2026 13:21,Food,Lunch Purchase,Daily food spending,3/28/2026 4:35
+64,U01,expense,9.49,3/27/2026 19:39,Food,Lunch Purchase,Meal-related purchase,3/27/2026 21:50
+65,U01,expense,1.72,3/29/2026 21:35,Transport,Taxi Fare,Commute or travel cost,3/30/2026 22:07
+66,U01,income,177.93,4/5/2026 12:12,Freelance,Client Transfer,Payment for completed work,4/5/2026 12:51
+67,U01,expense,3.99,4/8/2026 7:24,Transport,Uber Ride,Ride or fuel cost,4/12/2026 3:50
+68,U01,expense,5.61,4/8/2026 13:52,Food,Supermarket Grocery Purchase,,4/9/2026 5:59
+69,U01,expense,4.18,4/9/2026 20:09,Transport,Taxi Fare,Commute or travel cost,4/10/2026 4:28
+70,U01,expense,7.64,4/12/2026 9:41,Food,Supermarket Grocery Purchase,Daily food spending,4/12/2026 16:36
+71,U01,expense,7.18,4/12/2026 14:42,Food,Café Order,Daily food spending,4/13/2026 0:15
+72,U01,expense,4.53,4/12/2026 15:57,Food,Restaurant Meal,Meal-related purchase,4/12/2026 18:29
+73,U01,expense,9.77,4/18/2026 19:57,Other,Miscellaneous Expense,Miscellaneous banking or cash-related entry,4/19/2026 6:16
+74,U01,expense,4.41,4/19/2026 12:32,Transport,Uber Ride,Commute or travel cost,4/19/2026 16:04
+75,U01,income,328.69,4/20/2026 11:05,Gift,Gift Received,,4/21/2026 3:50
+76,U01,expense,12.61,4/20/2026 20:34,Food,Supermarket Grocery Purchase,Meal-related purchase,4/20/2026 21:32
+77,U01,expense,3.45,4/20/2026 20:46,Transport,Metro Ticket,Local transport expense,4/21/2026 6:27
+78,U01,expense,27.54,4/25/2026 21:36,Education,Course Fee,Learning-related expense,4/27/2026 6:50
+79,U01,expense,25.73,4/26/2026 18:29,Entertainment,Weekend Restaurant Visit,Social outing expense,4/27/2026 14:17
+80,U01,expense,2.63,4/26/2026 21:58,Transport,Metro Ticket,Local transport expense,4/27/2026 1:16
+81,U01,expense,2.3,5/2/2026 14:11,Transport,Taxi Fare,Local transport expense,5/3/2026 1:51
+82,U01,expense,9.6,5/3/2026 22:11,Food,Restaurant Meal,Meal-related purchase,5/4/2026 1:15
+83,U01,expense,1.87,5/4/2026 10:33,Transport,Taxi Fare,Local transport expense,5/6/2026 2:59
+84,U01,expense,9.62,5/5/2026 12:11,Food,Supermarket Grocery Purchase,Meal-related purchase,5/6/2026 1:02
+85,U01,expense,5.62,5/5/2026 13:26,Other,Miscellaneous Expense,Miscellaneous banking or cash-related entry,5/8/2026 8:39
+86,U01,income,190.63,5/5/2026 17:51,Gift,Birthday Gift,,5/5/2026 20:20
+87,U01,expense,28.85,5/9/2026 19:12,Entertainment,Movie Ticket,Entertainment-related purchase,5/10/2026 1:40
+88,U01,expense,52.54,5/11/2026 15:19,Education,Course Fee,Books or tuition payment,5/12/2026 6:40
+89,U01,expense,2.13,5/12/2026 9:16,Transport,Taxi Fare,,5/13/2026 8:44
+90,U01,expense,8.23,5/13/2026 14:33,Food,Supermarket Grocery Purchase,Groceries or meals,5/14/2026 2:43
+91,U01,expense,1.95,5/15/2026 21:53,Transport,Taxi Fare,Local transport expense,5/16/2026 7:07
+92,U01,expense,4.99,5/18/2026 12:48,Food,Café Order,Daily food spending,5/24/2026 19:33
+93,U01,expense,12.44,5/18/2026 19:14,Food,Supermarket Grocery Purchase,Meal-related purchase,5/18/2026 19:37
+94,U01,income,169.87,5/20/2026 9:40,Gift,Gift Received,,5/21/2026 13:51
+95,U01,expense,13.79,5/22/2026 21:23,Entertainment,Movie Ticket,,5/23/2026 22:42
+96,U01,expense,10.11,5/24/2026 8:00,Food,Lunch Purchase,,5/25/2026 17:17
+97,U01,expense,6.5,5/24/2026 19:36,Food,Lunch Purchase,Groceries or meals,5/25/2026 22:20
+98,U01,expense,8.06,5/24/2026 21:47,Entertainment,Concert Ticket,Leisure or weekend spending,5/30/2026 15:44
+99,U01,expense,10.47,5/25/2026 7:52,Food,Lunch Purchase,Meal-related purchase,5/25/2026 21:05
+100,U01,expense,74.94,5/25/2026 10:49,Savings,Savings Transfer,,5/25/2026 15:29
+101,U01,expense,15.82,5/25/2026 14:25,Education,Book Purchase,,5/25/2026 16:28
+102,U01,expense,3.15,5/27/2026 11:20,Other,Service Fee,Non-categorized expense,5/28/2026 12:10
+103,U01,expense,4.57,5/27/2026 18:12,Transport,Uber Ride,,5/28/2026 8:21
+104,U01,expense,54.27,5/28/2026 17:47,Savings,Emergency Fund Transfer,Emergency reserve top-up,5/28/2026 19:38
+105,U01,expense,6.1,6/2/2026 16:15,Food,Supermarket Grocery Purchase,Daily food spending,6/2/2026 22:07
+106,U01,expense,4.71,6/2/2026 22:06,Transport,Uber Ride,Ride or fuel cost,6/3/2026 10:57
+107,U01,income,214.17,6/5/2026 13:05,Gift,Family Gift,,6/6/2026 17:06
+108,U01,expense,12.47,6/5/2026 22:08,Food,Restaurant Meal,Groceries or meals,6/6/2026 2:21
+109,U01,expense,21.33,6/7/2026 20:58,Education,Book Purchase,Study cost,6/7/2026 21:18
+110,U01,expense,10.85,6/9/2026 21:18,Education,Tuition Payment,Books or tuition payment,6/10/2026 8:25
+111,U01,expense,9.99,6/12/2026 14:39,Other,Miscellaneous Expense,Small incidental cost,6/13/2026 1:18
+112,U01,expense,13.23,6/20/2026 10:01,Food,Supermarket Grocery Purchase,Daily food spending,6/21/2026 16:32
+113,U01,income,157.17,6/20/2026 10:38,Gift,Gift Received,Personal transfer received,6/20/2026 19:59
+114,U01,expense,12.72,6/21/2026 7:59,Food,Café Order,,6/22/2026 19:04
+115,U01,expense,10.76,6/21/2026 15:09,Food,Café Order,Groceries or meals,6/22/2026 12:23
+116,U01,expense,5.84,6/24/2026 11:10,Food,Restaurant Meal,Groceries or meals,6/24/2026 14:12
+117,U01,expense,4.44,6/25/2026 20:30,Transport,Taxi Fare,Local transport expense,6/26/2026 1:14
+118,U01,expense,10.45,6/28/2026 16:12,Food,Supermarket Grocery Purchase,Daily food spending,6/29/2026 12:25
+119,U01,expense,122.24,6/29/2026 13:29,Savings,Emergency Fund Transfer,Emergency reserve top-up,6/30/2026 14:31
+120,U01,expense,18.48,6/30/2026 8:33,Food,Restaurant Meal,Groceries or meals,7/1/2026 0:42
+121,U02,income,304.07,1/1/2026 9:04,Salary,Monthly Salary Deposit,Regular monthly paycheck,1/2/2026 20:39
+122,U02,expense,5.37,1/4/2026 9:04,Transport,Uber Ride,,1/5/2026 5:08
+123,U02,expense,14.13,1/4/2026 13:48,Food,Restaurant Meal,Groceries or meals,1/4/2026 23:54
+124,U02,expense,15.12,1/5/2026 10:46,Food,Restaurant Meal,Groceries or meals,1/5/2026 23:07
+125,U02,expense,16.38,1/5/2026 16:26,Food,Lunch Purchase,Daily food spending,1/5/2026 22:41
+126,U02,expense,108.08,1/7/2026 10:52,Savings,Deposit to Savings,Routine savings allocation,1/8/2026 8:26
+127,U02,income,274.99,1/8/2026 11:57,Salary,Payroll Credit,Scheduled salary payment,1/9/2026 13:32
+128,U02,expense,3.47,1/9/2026 9:58,Transport,Uber Ride,Commute or travel cost,1/10/2026 3:13
+129,U02,expense,5.46,1/10/2026 13:21,Food,Restaurant Meal,Groceries or meals,1/11/2026 13:54
+130,U02,expense,17.91,1/12/2026 12:40,Food,Supermarket Grocery Purchase,Groceries or meals,1/12/2026 15:36
+131,U02,expense,3.45,1/13/2026 10:33,Transport,Metro Ticket,,1/13/2026 14:31
+132,U02,expense,3.99,1/15/2026 7:09,Transport,Uber Ride,Local transport expense,1/16/2026 2:16
+133,U02,income,351.13,1/15/2026 12:44,Salary,Payroll Credit,Employer salary deposit,1/15/2026 14:12
+134,U02,expense,14.39,1/16/2026 8:06,Food,Supermarket Grocery Purchase,Meal-related purchase,1/16/2026 20:26
+135,U02,expense,9.03,1/18/2026 11:28,Food,Lunch Purchase,,1/18/2026 23:54
+136,U02,expense,12.1,1/20/2026 13:48,Food,Restaurant Meal,,1/20/2026 23:47
+137,U02,expense,4.06,1/21/2026 15:18,Transport,Metro Ticket,Ride or fuel cost,1/22/2026 15:30
+138,U02,expense,16.4,1/22/2026 7:26,Food,Café Order,,1/23/2026 11:50
+139,U02,expense,15.15,1/22/2026 13:04,Food,Restaurant Meal,Meal-related purchase,1/23/2026 8:35
+140,U02,income,197.08,1/22/2026 13:54,Salary,Monthly Salary Deposit,Employer salary deposit,1/23/2026 10:00
+141,U02,expense,15.64,1/23/2026 8:08,Food,Restaurant Meal,,1/23/2026 8:25
+142,U02,expense,5.48,1/24/2026 22:51,Other,Bank Charge,,1/26/2026 13:22
+143,U02,expense,6.56,1/25/2026 13:50,Food,Lunch Purchase,Groceries or meals,1/26/2026 0:13
+144,U02,expense,12.75,1/26/2026 10:30,Food,Lunch Purchase,Meal-related purchase,1/27/2026 13:33
+145,U02,expense,9.03,1/26/2026 22:53,Food,Lunch Purchase,Groceries or meals,1/28/2026 7:08
+146,U02,expense,44.83,1/27/2026 22:04,Shopping,Household Shopping,Non-essential household or personal purchase,1/28/2026 21:48
+147,U02,expense,4.47,1/28/2026 16:52,Transport,Taxi Fare,,1/29/2026 9:50
+148,U02,expense,112.08,1/29/2026 11:54,Savings,Deposit to Savings,,1/29/2026 16:22
+149,U02,expense,21.81,1/30/2026 18:42,Entertainment,Concert Ticket,Entertainment-related purchase,1/31/2026 9:01
+150,U02,expense,5.41,1/31/2026 9:35,Food,Lunch Purchase,,2/6/2026 1:38
+151,U02,expense,43.12,1/31/2026 12:01,Shopping,Online Shopping,Retail purchase,2/1/2026 13:41
+152,U02,expense,2.71,1/31/2026 17:01,Transport,Taxi Fare,Ride or fuel cost,2/1/2026 18:36
+153,U02,expense,38.99,1/31/2026 22:34,Entertainment,Streaming Subscription,Entertainment-related purchase,2/4/2026 10:57
+154,U02,income,304.74,2/1/2026 10:00,Gift,Family Gift,,2/2/2026 8:23
+155,U02,expense,44.66,2/2/2026 20:24,Shopping,Clothing Store Purchase,Non-essential household or personal purchase,2/2/2026 22:14
+156,U02,expense,18.87,2/4/2026 17:54,Other,Miscellaneous Expense,Small incidental cost,2/5/2026 14:43
+157,U02,expense,9.75,2/4/2026 18:28,Food,Restaurant Meal,,2/5/2026 0:11
+158,U02,expense,10.51,2/8/2026 9:43,Other,Service Fee,,2/9/2026 20:02
+159,U02,income,275.44,2/8/2026 11:18,Salary,Payroll Credit,Regular monthly paycheck,2/8/2026 22:47
+160,U02,expense,12.85,2/9/2026 22:47,Food,Restaurant Meal,Meal-related purchase,2/10/2026 16:57
+161,U02,expense,40.16,2/11/2026 14:30,Education,Tuition Payment,Books or tuition payment,2/12/2026 10:53
+162,U02,expense,15.68,2/11/2026 14:41,Food,Supermarket Grocery Purchase,Daily food spending,2/11/2026 16:45
+163,U02,expense,1.94,2/12/2026 12:29,Transport,Uber Ride,Local transport expense,2/12/2026 15:19
+164,U02,expense,1.91,2/13/2026 16:58,Transport,Metro Ticket,Local transport expense,2/14/2026 12:24
+165,U02,expense,4.82,2/13/2026 21:46,Transport,Fuel Purchase,,2/14/2026 19:44
+166,U02,income,272.33,2/15/2026 11:15,Salary,Monthly Salary Deposit,,2/15/2026 14:41
+167,U02,expense,5.35,2/15/2026 14:15,Transport,Uber Ride,Local transport expense,2/15/2026 21:04
+168,U02,expense,75.84,2/17/2026 13:42,Shopping,Online Shopping,Discretionary shopping expense,2/18/2026 22:40
+169,U02,expense,10.87,2/17/2026 19:02,Food,Restaurant Meal,Daily food spending,2/18/2026 4:10
+170,U02,income,272.88,2/22/2026 10:45,Salary,Monthly Salary Deposit,,2/23/2026 22:10
+171,U02,expense,5.9,2/22/2026 20:44,Transport,Metro Ticket,Commute or travel cost,2/22/2026 21:46
+172,U02,expense,19.05,2/25/2026 14:31,Food,Lunch Purchase,Meal-related purchase,2/26/2026 21:30
+173,U02,expense,13.15,2/26/2026 13:28,Food,Lunch Purchase,Groceries or meals,2/26/2026 20:27
+174,U02,expense,10.6,2/27/2026 21:43,Entertainment,Weekend Restaurant Visit,Leisure or weekend spending,2/28/2026 6:14
+175,U02,expense,11.23,2/28/2026 18:45,Food,Supermarket Grocery Purchase,Groceries or meals,3/2/2026 1:22
+176,U02,expense,5.4,3/1/2026 12:16,Transport,Uber Ride,Commute or travel cost,3/1/2026 14:21
+177,U02,expense,3.63,3/1/2026 12:31,Transport,Metro Ticket,,3/1/2026 14:04
+178,U02,income,235.82,3/1/2026 13:39,Salary,Payroll Credit,Regular monthly paycheck,3/1/2026 16:17
+179,U02,expense,3.6,3/4/2026 7:06,Transport,Taxi Fare,Local transport expense,3/5/2026 7:29
+180,U02,income,202.69,3/8/2026 10:57,Salary,Salary Payment,Regular monthly paycheck,3/11/2026 7:54
+181,U02,expense,16.41,3/10/2026 8:13,Food,Restaurant Meal,Meal-related purchase,3/10/2026 12:15
+182,U02,expense,17.05,3/12/2026 21:22,Food,Café Order,Groceries or meals,3/14/2026 6:14
+183,U02,expense,37.22,3/13/2026 13:01,Shopping,Clothing Store Purchase,Non-essential household or personal purchase,3/14/2026 10:54
+184,U02,expense,5.17,3/13/2026 13:47,Transport,Taxi Fare,Commute or travel cost,3/13/2026 17:41
+185,U02,expense,46.97,3/13/2026 21:30,Shopping,Online Shopping,Non-essential household or personal purchase,3/14/2026 0:08
+186,U02,expense,4.92,3/14/2026 17:40,Transport,Taxi Fare,Ride or fuel cost,3/14/2026 21:28
+187,U02,expense,12.37,3/14/2026 17:52,Food,Café Order,Groceries or meals,3/15/2026 5:16
+188,U02,income,219.24,3/15/2026 13:41,Salary,Payroll Credit,Employer salary deposit,3/15/2026 21:23
+189,U02,expense,20.44,3/15/2026 20:46,Shopping,Clothing Store Purchase,Retail purchase,3/16/2026 22:07
+190,U02,expense,4.59,3/16/2026 8:06,Transport,Taxi Fare,Ride or fuel cost,3/16/2026 18:57
+191,U02,expense,12.99,3/16/2026 19:25,Food,Café Order,Groceries or meals,3/17/2026 1:20
+192,U02,expense,6.75,3/18/2026 7:43,Food,Café Order,Groceries or meals,3/19/2026 12:21
+193,U02,expense,12.34,3/21/2026 17:35,Other,Bank Charge,,3/22/2026 0:16
+194,U02,expense,8.09,3/22/2026 7:12,Food,Café Order,,3/22/2026 7:51
+195,U02,income,263.77,3/22/2026 10:03,Salary,Monthly Salary Deposit,Scheduled salary payment,3/23/2026 19:34
+196,U02,expense,11.16,3/22/2026 17:14,Food,Lunch Purchase,Groceries or meals,3/26/2026 4:44
+197,U02,expense,3.29,3/22/2026 20:40,Transport,Taxi Fare,Commute or travel cost,3/23/2026 9:50
+198,U02,expense,5.34,3/22/2026 20:56,Food,Café Order,Meal-related purchase,3/23/2026 7:04
+199,U02,expense,2.38,3/22/2026 21:00,Transport,Taxi Fare,Commute or travel cost,3/23/2026 1:33
+200,U02,expense,5.99,3/23/2026 14:43,Food,Restaurant Meal,Groceries or meals,3/24/2026 2:52
+201,U02,expense,15.87,3/24/2026 16:35,Food,Restaurant Meal,Groceries or meals,3/26/2026 7:17
+202,U02,expense,16.24,3/24/2026 20:25,Food,Restaurant Meal,Groceries or meals,3/24/2026 23:45
+203,U02,expense,13.89,3/24/2026 22:50,Transport,Taxi Fare,Commute or travel cost,3/25/2026 14:21
+204,U02,expense,16.76,3/26/2026 10:01,Education,Course Fee,Study cost,3/27/2026 7:12
+205,U02,expense,4.1,3/29/2026 13:19,Transport,Uber Ride,Local transport expense,3/30/2026 14:24
+206,U02,expense,4.13,3/29/2026 17:32,Transport,Fuel Purchase,Ride or fuel cost,3/30/2026 0:00
+207,U02,expense,9.83,3/29/2026 21:36,Entertainment,Streaming Subscription,Entertainment-related purchase,3/31/2026 0:03
+208,U02,expense,12.39,3/31/2026 19:38,Entertainment,Weekend Restaurant Visit,Entertainment-related purchase,4/1/2026 9:51
+209,U02,income,274.54,4/1/2026 11:30,Gift,Family Gift,,4/1/2026 16:25
+210,U02,expense,2.48,4/4/2026 9:42,Transport,Uber Ride,,4/4/2026 13:20
+211,U02,expense,4.75,4/4/2026 19:15,Transport,Metro Ticket,Commute or travel cost,4/5/2026 16:51
+212,U02,expense,5.77,4/6/2026 17:23,Transport,Fuel Purchase,,4/7/2026 23:03
+213,U02,expense,21.84,4/6/2026 20:57,Food,Lunch Purchase,,4/8/2026 12:53
+214,U02,expense,4.8,4/6/2026 22:06,Transport,Fuel Purchase,Commute or travel cost,4/7/2026 5:46
+215,U02,income,236.16,4/8/2026 13:47,Salary,Salary Payment,Regular monthly paycheck,4/9/2026 7:48
+216,U02,expense,9.77,4/9/2026 13:12,Food,Lunch Purchase,Groceries or meals,4/10/2026 4:30
+217,U02,expense,8.78,4/14/2026 18:15,Food,Supermarket Grocery Purchase,,4/16/2026 9:44
+218,U02,expense,36.95,4/14/2026 21:42,Shopping,Electronics Purchase,,4/16/2026 6:18
+219,U02,income,197.79,4/15/2026 17:57,Gift,Gift Received,Personal transfer received,4/15/2026 22:20
+220,U02,expense,13.9,4/16/2026 17:40,Education,Book Purchase,Learning-related expense,4/17/2026 7:46
+221,U02,expense,32.7,4/18/2026 13:26,Shopping,Clothing Store Purchase,Non-essential household or personal purchase,4/20/2026 3:18
+222,U02,expense,41.98,4/19/2026 18:14,Entertainment,Streaming Subscription,,4/19/2026 22:54
+223,U02,income,316.88,4/22/2026 13:53,Freelance,Freelance Payout,,4/23/2026 13:22
+224,U02,expense,51.75,4/25/2026 14:32,Shopping,Household Shopping,Non-essential household or personal purchase,4/26/2026 2:16
+225,U02,expense,131.11,4/25/2026 18:09,Savings,Savings Transfer,Transfer to savings,4/27/2026 11:59
+226,U02,expense,38.98,4/26/2026 22:02,Entertainment,Streaming Subscription,,5/1/2026 13:15
+227,U02,expense,3.87,4/27/2026 17:20,Transport,Taxi Fare,,4/29/2026 6:00
+228,U02,expense,8.46,4/27/2026 19:09,Food,Supermarket Grocery Purchase,Daily food spending,4/27/2026 23:55
+229,U02,expense,5.41,4/28/2026 18:10,Transport,Uber Ride,,4/29/2026 3:56
+230,U02,expense,17.34,4/28/2026 20:00,Food,Café Order,Meal-related purchase,5/2/2026 8:00
+231,U02,expense,8.75,4/28/2026 22:25,Food,Supermarket Grocery Purchase,Meal-related purchase,4/30/2026 3:13
+232,U02,income,277.85,5/1/2026 11:40,Salary,Salary Payment,Scheduled salary payment,5/2/2026 17:26
+233,U02,expense,4.15,5/2/2026 12:12,Transport,Metro Ticket,Ride or fuel cost,5/3/2026 15:15
+234,U02,expense,52.82,5/3/2026 8:14,Education,Tuition Payment,Learning-related expense,5/4/2026 23:42
+235,U02,expense,12.05,5/4/2026 16:07,Food,Lunch Purchase,Meal-related purchase,5/4/2026 20:18
+236,U02,expense,5.67,5/6/2026 20:37,Food,Restaurant Meal,Groceries or meals,5/8/2026 4:58
+237,U02,income,298,5/8/2026 16:39,Gift,Gift Received,Occasional gift income,5/8/2026 17:19
+238,U02,expense,35.69,5/13/2026 10:17,Shopping,Household Shopping,Retail purchase,5/17/2026 0:48
+239,U02,expense,16.38,5/14/2026 8:41,Food,Lunch Purchase,,5/14/2026 23:57
+240,U02,income,220.74,5/15/2026 11:07,Salary,Monthly Salary Deposit,Employer salary deposit,5/15/2026 16:17
+241,U02,expense,178.79,5/15/2026 12:36,Savings,Savings Transfer,Emergency reserve top-up,5/16/2026 15:06
+242,U02,expense,13.36,5/17/2026 10:17,Food,Café Order,Meal-related purchase,5/17/2026 19:40
+243,U02,expense,4.53,5/18/2026 13:53,Transport,Uber Ride,Ride or fuel cost,5/18/2026 14:32
+244,U02,expense,28.64,5/19/2026 21:52,Education,Tuition Payment,,5/21/2026 7:26
+245,U02,expense,36.06,5/21/2026 16:34,Shopping,Electronics Purchase,Retail purchase,5/22/2026 19:42
+246,U02,expense,28.39,5/21/2026 20:59,Entertainment,Weekend Restaurant Visit,Social outing expense,5/23/2026 6:11
+247,U02,expense,30.29,5/21/2026 21:53,Shopping,Online Shopping,Non-essential household or personal purchase,5/22/2026 8:27
+248,U02,income,344.92,5/22/2026 11:29,Salary,Payroll Credit,,5/23/2026 8:43
+249,U02,expense,8.49,5/28/2026 23:43,Entertainment,Streaming Subscription,Entertainment-related purchase,5/29/2026 21:33
+250,U02,expense,25.98,5/30/2026 22:34,Shopping,Electronics Purchase,Non-essential household or personal purchase,5/30/2026 23:00
+251,U02,income,200.03,6/1/2026 12:47,Salary,Monthly Salary Deposit,,6/2/2026 19:19
+252,U02,expense,3.49,6/2/2026 11:26,Transport,Taxi Fare,Local transport expense,6/3/2026 3:12
+253,U02,expense,16.63,6/3/2026 17:36,Food,Restaurant Meal,,6/3/2026 17:47
+254,U02,expense,11.6,6/4/2026 13:44,Food,Café Order,,6/5/2026 8:51
+255,U02,expense,17.82,6/5/2026 17:27,Other,Bank Charge,Non-categorized expense,6/7/2026 4:01
+256,U02,expense,4.77,6/6/2026 7:05,Transport,Fuel Purchase,,6/6/2026 7:12
+257,U02,expense,13.67,6/6/2026 7:10,Food,Supermarket Grocery Purchase,Daily food spending,6/6/2026 11:35
+258,U02,expense,9.3,6/7/2026 7:59,Food,Lunch Purchase,Daily food spending,6/8/2026 19:42
+259,U02,income,391.84,6/8/2026 10:25,Salary,Salary Payment,Regular monthly paycheck,6/14/2026 7:12
+260,U02,expense,6.86,6/8/2026 18:36,Food,Lunch Purchase,Daily food spending,6/9/2026 7:49
+261,U02,expense,7.43,6/9/2026 13:04,Food,Supermarket Grocery Purchase,,6/10/2026 3:59
+262,U02,expense,19.04,6/11/2026 14:24,Food,Supermarket Grocery Purchase,Meal-related purchase,6/13/2026 6:51
+263,U02,expense,37.97,6/13/2026 10:32,Food,Café Order,,6/14/2026 10:35
+264,U02,expense,14.15,6/15/2026 13:00,Food,Restaurant Meal,Meal-related purchase,6/15/2026 16:15
+265,U02,income,274.87,6/15/2026 20:28,Freelance,Project Payment,Client settlement transfer,6/17/2026 6:37
+266,U02,expense,14.08,6/16/2026 17:19,Food,Restaurant Meal,Meal-related purchase,6/17/2026 1:46
+267,U02,income,228.13,6/22/2026 9:37,Salary,Salary Payment,Employer salary deposit,6/23/2026 22:21
+268,U02,expense,3.53,6/23/2026 8:36,Transport,Uber Ride,,6/24/2026 2:00
+269,U02,expense,4.02,6/26/2026 11:02,Transport,Fuel Purchase,Ride or fuel cost,6/27/2026 13:26
+270,U02,expense,6.26,6/30/2026 11:32,Transport,Metro Ticket,Ride or fuel cost,7/1/2026 11:41
+271,U03,income,3026.56,1/1/2026 9:43,Salary,Payroll Credit,Scheduled salary payment,1/2/2026 1:10
+272,U03,expense,3.85,1/1/2026 10:20,Transport,Uber Ride,Local transport expense,1/2/2026 5:17
+273,U03,expense,7.39,1/1/2026 18:19,Other,Bank Charge,,1/2/2026 9:49
+274,U03,expense,15.31,1/3/2026 9:36,Food,Restaurant Meal,Daily food spending,1/3/2026 22:09
+275,U03,expense,111.67,1/4/2026 16:37,Shopping,Clothing Store Purchase,Discretionary shopping expense,1/6/2026 14:16
+276,U03,expense,22.66,1/4/2026 20:27,Food,Lunch Purchase,,1/10/2026 5:23
+277,U03,expense,512.63,1/5/2026 10:55,Rent,Monthly Rent Payment,Housing payment for the month,1/6/2026 12:16
+278,U03,expense,19.78,1/8/2026 18:57,Food,Lunch Purchase,,1/8/2026 19:43
+279,U03,expense,310.36,1/9/2026 12:50,Investment,Fund Purchase,Periodic portfolio contribution,1/9/2026 15:32
+280,U03,expense,53.78,1/10/2026 11:18,Shopping,Electronics Purchase,Retail purchase,1/10/2026 20:47
+281,U03,expense,2.91,1/11/2026 16:26,Transport,Fuel Purchase,Commute or travel cost,1/17/2026 9:05
+282,U03,expense,43.27,1/13/2026 16:38,Utilities,Internet Bill Payment,Service bill settlement,1/15/2026 5:38
+283,U03,expense,20.66,1/14/2026 21:00,Food,Restaurant Meal,Meal-related purchase,1/15/2026 4:56
+284,U03,expense,4.11,1/14/2026 21:00,Other,Miscellaneous Expense,Small incidental cost,1/15/2026 8:20
+285,U03,expense,18.13,1/15/2026 13:49,Healthcare,Clinic Payment,Health-related purchase,1/16/2026 14:03
+286,U03,expense,18.49,1/15/2026 18:36,Food,Lunch Purchase,Daily food spending,1/16/2026 15:15
+287,U03,expense,251.84,1/17/2026 17:36,Investment,Brokerage Deposit,Capital allocation,1/18/2026 20:02
+288,U03,expense,63.33,1/17/2026 19:48,Entertainment,Streaming Subscription,Leisure or weekend spending,1/18/2026 2:18
+289,U03,expense,198.85,1/21/2026 13:27,Investment,Investment Transfer,Transfer into investments,1/21/2026 22:02
+290,U03,expense,79.31,1/21/2026 17:36,Shopping,Household Shopping,Discretionary shopping expense,1/21/2026 23:13
+291,U03,expense,21.76,1/23/2026 9:47,Food,Lunch Purchase,,1/23/2026 15:42
+292,U03,expense,21.43,1/23/2026 11:09,Food,Lunch Purchase,,1/23/2026 11:34
+293,U03,expense,18.13,1/23/2026 22:42,Entertainment,Weekend Restaurant Visit,,1/24/2026 9:57
+294,U03,expense,21.03,1/24/2026 15:30,Food,Lunch Purchase,Daily food spending,1/25/2026 4:00
+295,U03,expense,12.54,1/26/2026 10:41,Food,Café Order,Daily food spending,1/27/2026 6:56
+296,U03,expense,22.53,1/26/2026 13:49,Food,Restaurant Meal,Daily food spending,1/27/2026 15:21
+297,U03,expense,539.57,1/27/2026 16:22,Savings,Emergency Fund Transfer,,1/27/2026 21:16
+298,U03,expense,2.34,1/28/2026 6:09,Transport,Taxi Fare,,1/28/2026 19:39
+299,U03,expense,7.59,1/28/2026 11:41,Food,Restaurant Meal,Daily food spending,2/2/2026 9:41
+300,U03,expense,5.42,1/29/2026 12:08,Transport,Uber Ride,Ride or fuel cost,1/29/2026 23:10
+301,U03,expense,45.89,1/29/2026 21:18,Entertainment,Streaming Subscription,Social outing expense,2/3/2026 19:42
+302,U03,expense,12.83,1/31/2026 19:01,Other,Service Fee,Miscellaneous banking or cash-related entry,2/1/2026 15:11
+303,U03,income,2749.86,2/1/2026 11:06,Salary,Salary Payment,Regular monthly paycheck,2/3/2026 1:01
+304,U03,expense,8.28,2/1/2026 20:38,Other,Miscellaneous Expense,Non-categorized expense,2/1/2026 21:27
+305,U03,expense,24.07,2/3/2026 18:09,Food,Supermarket Grocery Purchase,Daily food spending,2/4/2026 21:20
+306,U03,expense,892.94,2/4/2026 10:43,Rent,Apartment Rent,Scheduled rent transfer,2/5/2026 8:24
+307,U03,expense,10.48,2/4/2026 14:38,Food,Supermarket Grocery Purchase,Daily food spending,2/8/2026 4:35
+308,U03,expense,13.97,2/4/2026 22:39,Food,Café Order,Daily food spending,2/5/2026 4:29
+309,U03,expense,23.6,2/5/2026 13:18,Food,Restaurant Meal,Daily food spending,2/6/2026 3:22
+310,U03,expense,4.12,2/5/2026 20:40,Transport,Uber Ride,Commute or travel cost,2/7/2026 6:58
+311,U03,expense,8.62,2/6/2026 20:57,Transport,Taxi Fare,Local transport expense,2/6/2026 22:45
+312,U03,expense,5.18,2/7/2026 12:45,Transport,Uber Ride,Ride or fuel cost,2/7/2026 13:01
+313,U03,expense,29.16,2/7/2026 19:27,Shopping,Clothing Store Purchase,Retail purchase,2/7/2026 21:07
+314,U03,expense,362.79,2/9/2026 10:26,Investment,Fund Purchase,Capital allocation,2/9/2026 14:26
+315,U03,expense,6.64,2/9/2026 21:10,Other,ATM Withdrawal,Non-categorized expense,2/10/2026 11:41
+316,U03,expense,213.87,2/10/2026 12:23,Shopping,Household Shopping,Retail purchase,2/12/2026 2:26
+317,U03,expense,23.93,2/10/2026 21:55,Entertainment,Streaming Subscription,Leisure or weekend spending,2/12/2026 4:53
+318,U03,expense,7.49,2/11/2026 8:33,Food,Café Order,Meal-related purchase,2/15/2026 3:12
+319,U03,expense,6.22,2/13/2026 11:58,Transport,Fuel Purchase,Local transport expense,2/14/2026 14:17
+320,U03,expense,22.98,2/13/2026 15:43,Food,Lunch Purchase,,2/13/2026 18:48
+321,U03,expense,10.43,2/13/2026 20:21,Entertainment,Concert Ticket,,2/14/2026 10:02
+322,U03,expense,9.72,2/13/2026 21:11,Food,Supermarket Grocery Purchase,,2/14/2026 7:32
+323,U03,expense,121.18,2/14/2026 15:44,Shopping,Household Shopping,Non-essential household or personal purchase,2/15/2026 0:51
+324,U03,expense,12.05,2/15/2026 9:02,Other,Miscellaneous Expense,Miscellaneous banking or cash-related entry,2/16/2026 2:04
+325,U03,expense,241.46,2/16/2026 15:41,Investment,Brokerage Deposit,Capital allocation,2/16/2026 16:46
+326,U03,expense,8.09,2/17/2026 8:51,Transport,Uber Ride,Commute or travel cost,2/17/2026 15:11
+327,U03,expense,56.1,2/17/2026 12:46,Utilities,Internet Bill Payment,Household bill payment,2/18/2026 4:31
+328,U03,expense,20.39,2/18/2026 13:05,Food,Restaurant Meal,,2/18/2026 19:02
+329,U03,expense,175.52,2/19/2026 13:16,Savings,Savings Transfer,Transfer to savings,2/20/2026 1:39
+330,U03,expense,7.98,2/20/2026 10:54,Food,Restaurant Meal,Meal-related purchase,2/20/2026 16:07
+331,U03,expense,106.98,2/21/2026 12:28,Investment,Fund Purchase,Transfer into investments,2/21/2026 13:51
+332,U03,expense,3.16,2/22/2026 6:19,Transport,Taxi Fare,Local transport expense,2/22/2026 16:14
+333,U03,expense,11.31,2/24/2026 16:00,Food,Restaurant Meal,Daily food spending,2/26/2026 2:16
+334,U03,expense,20.14,2/24/2026 21:42,Entertainment,Streaming Subscription,Leisure or weekend spending,2/25/2026 3:49
+335,U03,expense,6.85,2/27/2026 8:20,Transport,Metro Ticket,Commute or travel cost,2/27/2026 18:08
+336,U03,expense,19.89,2/27/2026 9:48,Food,Café Order,Groceries or meals,2/28/2026 6:00
+337,U03,expense,92.27,2/27/2026 12:20,Shopping,Clothing Store Purchase,Discretionary shopping expense,2/28/2026 2:05
+338,U03,income,2916.75,3/1/2026 9:44,Salary,Salary Payment,Regular monthly paycheck,3/1/2026 23:48
+339,U03,expense,7.36,3/1/2026 11:10,Transport,Metro Ticket,Local transport expense,3/1/2026 21:00
+340,U03,expense,6.3,3/2/2026 12:49,Food,Restaurant Meal,,3/3/2026 1:09
+341,U03,expense,24.05,3/3/2026 11:30,Food,Café Order,,3/4/2026 2:22
+342,U03,expense,7.12,3/4/2026 13:55,Transport,Metro Ticket,Ride or fuel cost,3/4/2026 16:45
+343,U03,expense,47.46,3/4/2026 15:07,Shopping,Clothing Store Purchase,Discretionary shopping expense,3/4/2026 22:40
+344,U03,expense,700.1,3/5/2026 9:42,Rent,Monthly Rent Payment,Scheduled rent transfer,3/5/2026 18:32
+345,U03,expense,4.9,3/6/2026 16:01,Transport,Metro Ticket,Ride or fuel cost,3/6/2026 18:02
+346,U03,expense,10.71,3/7/2026 13:34,Food,Café Order,Meal-related purchase,3/7/2026 15:25
+347,U03,expense,1.99,3/8/2026 21:08,Transport,Taxi Fare,,3/10/2026 6:19
+348,U03,expense,4.05,3/9/2026 19:04,Transport,Uber Ride,Local transport expense,3/9/2026 20:50
+349,U03,expense,21.71,3/10/2026 19:52,Food,Restaurant Meal,Meal-related purchase,3/11/2026 12:59
+350,U03,expense,218.25,3/13/2026 10:18,Savings,Emergency Fund Transfer,,3/14/2026 5:45
+351,U03,expense,7.38,3/13/2026 22:29,Transport,Fuel Purchase,Ride or fuel cost,3/15/2026 10:28
+352,U03,expense,6.96,3/17/2026 6:31,Transport,Taxi Fare,Local transport expense,3/17/2026 16:24
+353,U03,expense,20.7,3/17/2026 12:56,Food,Restaurant Meal,Groceries or meals,3/17/2026 19:36
+354,U03,expense,40.24,3/17/2026 22:53,Shopping,Household Shopping,Retail purchase,3/18/2026 19:17
+355,U03,expense,22.58,3/18/2026 9:04,Food,Supermarket Grocery Purchase,Groceries or meals,3/19/2026 22:45
+356,U03,expense,3.88,3/18/2026 11:14,Transport,Uber Ride,Ride or fuel cost,3/19/2026 7:06
+357,U03,expense,14.65,3/18/2026 18:30,Food,Supermarket Grocery Purchase,,3/19/2026 11:07
+358,U03,expense,40.71,3/18/2026 22:43,Entertainment,Weekend Restaurant Visit,Entertainment-related purchase,3/19/2026 7:28
+359,U03,expense,61.39,3/19/2026 15:02,Investment,Brokerage Deposit,,3/20/2026 4:37
+360,U03,expense,5.21,3/19/2026 17:01,Transport,Metro Ticket,Ride or fuel cost,3/20/2026 19:07
+361,U03,expense,40.68,3/19/2026 18:17,Utilities,Gas Bill Payment,,3/22/2026 13:37
+362,U03,expense,5.44,3/19/2026 19:37,Transport,Uber Ride,Local transport expense,3/20/2026 17:57
+363,U03,expense,13.24,3/21/2026 20:51,Other,Miscellaneous Expense,Small incidental cost,3/22/2026 23:09
+364,U03,expense,13.99,3/23/2026 18:35,Food,Restaurant Meal,Groceries or meals,3/24/2026 0:28
+365,U03,expense,22.22,3/24/2026 9:30,Food,Restaurant Meal,Daily food spending,3/25/2026 21:32
+366,U03,expense,5.75,3/24/2026 18:54,Transport,Metro Ticket,Local transport expense,3/25/2026 6:59
+367,U03,expense,34.79,3/24/2026 19:05,Shopping,Online Shopping,Non-essential household or personal purchase,3/24/2026 19:08
+368,U03,expense,390.23,3/25/2026 11:52,Savings,Emergency Fund Transfer,,3/25/2026 20:35
+369,U03,expense,255.13,3/26/2026 14:13,Savings,Savings Transfer,,3/28/2026 12:13
+370,U03,expense,3.12,3/28/2026 15:25,Transport,Taxi Fare,Local transport expense,3/29/2026 13:45
+371,U03,expense,18.8,3/28/2026 18:29,Food,Restaurant Meal,Daily food spending,3/28/2026 20:43
+372,U03,expense,7.27,3/29/2026 20:08,Transport,Uber Ride,Commute or travel cost,3/30/2026 5:34
+373,U03,expense,6.74,3/31/2026 9:17,Transport,Taxi Fare,Commute or travel cost,4/1/2026 0:36
+374,U03,expense,22.27,3/31/2026 21:03,Entertainment,Movie Ticket,Leisure or weekend spending,4/2/2026 4:32
+375,U03,expense,7.55,4/1/2026 9:09,Food,Lunch Purchase,Groceries or meals,4/2/2026 13:21
+376,U03,income,3355.8,4/1/2026 9:22,Salary,Salary Payment,Regular monthly paycheck,4/3/2026 5:07
+377,U03,expense,22.05,4/1/2026 13:08,Food,Restaurant Meal,,4/2/2026 11:51
+378,U03,expense,552.75,4/1/2026 14:48,Savings,Emergency Fund Transfer,Transfer to savings,4/2/2026 10:50
+379,U03,expense,16.64,4/1/2026 16:53,Food,Lunch Purchase,Meal-related purchase,4/2/2026 0:46
+380,U03,expense,593.22,4/1/2026 17:23,Rent,Monthly Rent Payment,Scheduled rent transfer,4/3/2026 13:04
+381,U03,expense,6.4,4/2/2026 6:37,Transport,Metro Ticket,Ride or fuel cost,4/3/2026 0:24
+382,U03,expense,10.42,4/2/2026 7:42,Food,Café Order,,4/2/2026 13:07
+383,U03,expense,3.78,4/3/2026 22:47,Transport,Metro Ticket,Local transport expense,4/4/2026 12:52
+384,U03,expense,33.23,4/3/2026 23:13,Entertainment,Movie Ticket,Social outing expense,4/4/2026 17:01
+385,U03,expense,27.3,4/5/2026 18:03,Food,Restaurant Meal,Meal-related purchase,4/6/2026 13:33
+386,U03,expense,5.48,4/6/2026 8:36,Transport,Taxi Fare,Local transport expense,4/7/2026 8:54
+387,U03,expense,9.4,4/6/2026 8:42,Food,Café Order,Daily food spending,4/7/2026 13:15
+388,U03,expense,2.32,4/6/2026 11:13,Transport,Taxi Fare,Commute or travel cost,4/7/2026 3:06
+389,U03,expense,42.35,4/8/2026 11:59,Shopping,Clothing Store Purchase,Non-essential household or personal purchase,4/8/2026 20:20
+390,U03,expense,5.32,4/9/2026 15:46,Transport,Taxi Fare,Commute or travel cost,4/9/2026 16:23
+391,U03,expense,503.17,4/9/2026 16:14,Savings,Savings Transfer,,4/11/2026 2:20
+392,U03,expense,93.53,4/12/2026 13:04,Shopping,Online Shopping,,4/12/2026 14:48
+393,U03,expense,20.57,4/12/2026 21:59,Food,Café Order,Meal-related purchase,4/14/2026 11:13
+394,U03,expense,6.18,4/13/2026 7:53,Transport,Fuel Purchase,Local transport expense,4/13/2026 19:54
+395,U03,expense,7.83,4/13/2026 15:32,Transport,Uber Ride,Ride or fuel cost,4/13/2026 18:21
+396,U03,expense,18.26,4/13/2026 15:44,Food,Café Order,,4/13/2026 16:49
+397,U03,expense,91.26,4/14/2026 17:45,Utilities,Gas Bill Payment,Service bill settlement,4/15/2026 1:36
+398,U03,expense,12.55,4/15/2026 16:34,Food,Café Order,Daily food spending,4/17/2026 15:17
+399,U03,expense,14.96,4/16/2026 8:20,Food,Supermarket Grocery Purchase,,4/16/2026 15:11
+400,U03,expense,44.02,4/16/2026 22:08,Entertainment,Concert Ticket,Entertainment-related purchase,4/18/2026 12:33
+401,U03,expense,8.73,4/17/2026 7:44,Food,Café Order,Meal-related purchase,4/19/2026 4:41
+402,U03,expense,6.28,4/17/2026 9:54,Other,Miscellaneous Expense,Small incidental cost,4/18/2026 9:58
+403,U03,expense,15.21,4/17/2026 10:37,Food,Supermarket Grocery Purchase,Groceries or meals,4/18/2026 12:28
+404,U03,expense,22.55,4/18/2026 21:10,Food,Café Order,Daily food spending,4/19/2026 0:47
+405,U03,expense,25.82,4/19/2026 10:54,Healthcare,Clinic Payment,Clinic or medicine payment,4/21/2026 0:09
+406,U03,expense,6.23,4/19/2026 12:06,Transport,Uber Ride,Ride or fuel cost,4/20/2026 3:59
+407,U03,expense,4.51,4/19/2026 12:23,Transport,Uber Ride,Ride or fuel cost,4/20/2026 1:04
+408,U03,expense,2.26,4/20/2026 22:11,Transport,Uber Ride,Local transport expense,4/22/2026 2:43
+409,U03,expense,3.56,4/20/2026 23:18,Transport,Uber Ride,Commute or travel cost,4/26/2026 4:45
+410,U03,expense,11.65,4/21/2026 22:09,Other,Service Fee,Miscellaneous banking or cash-related entry,4/21/2026 22:37
+411,U03,expense,40.77,4/21/2026 22:24,Entertainment,Weekend Restaurant Visit,Social outing expense,4/23/2026 6:20
+412,U03,expense,15.88,4/23/2026 9:15,Food,Lunch Purchase,Groceries or meals,4/23/2026 10:27
+413,U03,expense,16.67,4/23/2026 15:46,Food,Lunch Purchase,Groceries or meals,4/23/2026 17:25
+414,U03,expense,95.51,4/24/2026 14:53,Shopping,Electronics Purchase,Retail purchase,4/27/2026 13:38
+415,U03,expense,20.93,4/24/2026 22:02,Food,Café Order,,4/25/2026 2:23
+416,U03,expense,17.13,4/25/2026 22:31,Other,Service Fee,Non-categorized expense,4/26/2026 2:57
+417,U03,expense,229.72,4/26/2026 16:31,Investment,Investment Transfer,Capital allocation,4/27/2026 0:22
+418,U03,expense,38.88,4/26/2026 22:03,Entertainment,Weekend Restaurant Visit,Entertainment-related purchase,5/3/2026 2:25
+419,U03,expense,18.72,4/27/2026 9:32,Food,Restaurant Meal,Groceries or meals,4/27/2026 10:19
+420,U03,expense,4.09,4/30/2026 22:16,Transport,Metro Ticket,Commute or travel cost,5/1/2026 0:36
+421,U03,expense,356.3,5/1/2026 10:37,Investment,Fund Purchase,Transfer into investments,5/3/2026 8:49
+422,U03,expense,12.77,5/1/2026 12:58,Food,Café Order,Groceries or meals,5/2/2026 12:25
+423,U03,income,2879.48,5/1/2026 13:44,Salary,Salary Payment,Scheduled salary payment,5/3/2026 5:19
+424,U03,expense,25.21,5/2/2026 12:45,Food,Café Order,,5/3/2026 14:40
+425,U03,expense,197.58,5/2/2026 18:27,Savings,Savings Transfer,Transfer to savings,5/3/2026 4:57
+426,U03,expense,65,5/3/2026 15:20,Investment,Fund Purchase,Transfer into investments,5/4/2026 4:29
+427,U03,expense,42.48,5/3/2026 16:43,Healthcare,Doctor Visit,Clinic or medicine payment,5/3/2026 20:36
+428,U03,expense,33.26,5/3/2026 21:05,Entertainment,Weekend Restaurant Visit,,5/4/2026 14:40
+429,U03,expense,450.16,5/4/2026 16:07,Rent,Monthly Rent Payment,Apartment rent settlement,5/5/2026 16:32
+430,U03,expense,109.46,5/5/2026 11:28,Shopping,Household Shopping,Retail purchase,5/8/2026 23:06
+431,U03,expense,30.53,5/7/2026 10:51,Food,Café Order,Daily food spending,5/8/2026 2:55
+432,U03,expense,4.34,5/7/2026 15:39,Transport,Taxi Fare,Local transport expense,5/8/2026 20:42
+433,U03,expense,16.69,5/12/2026 21:00,Food,Restaurant Meal,Daily food spending,5/13/2026 19:36
+434,U03,expense,2.23,5/15/2026 21:01,Transport,Uber Ride,Local transport expense,5/19/2026 1:01
+435,U03,expense,10.8,5/16/2026 8:12,Food,Lunch Purchase,,5/16/2026 9:56
+436,U03,expense,22.64,5/16/2026 13:20,Food,Restaurant Meal,Daily food spending,5/16/2026 19:01
+437,U03,expense,20.34,5/16/2026 15:56,Food,Lunch Purchase,Meal-related purchase,5/16/2026 16:59
+438,U03,expense,1.9,5/17/2026 12:07,Transport,Metro Ticket,Commute or travel cost,5/18/2026 15:58
+439,U03,expense,13.46,5/17/2026 14:01,Food,Restaurant Meal,Meal-related purchase,5/17/2026 17:01
+440,U03,expense,4.46,5/18/2026 16:45,Transport,Fuel Purchase,,5/18/2026 18:10
+441,U03,expense,59.83,5/19/2026 12:36,Utilities,Water Bill Payment,,5/20/2026 6:43
+442,U03,expense,3.05,5/20/2026 21:53,Transport,Uber Ride,,5/21/2026 13:56
+443,U03,expense,6.99,5/23/2026 13:31,Food,Restaurant Meal,Meal-related purchase,5/24/2026 8:12
+444,U03,expense,18.66,5/23/2026 13:55,Food,Café Order,Meal-related purchase,5/25/2026 2:23
+445,U03,expense,3.5,5/23/2026 22:07,Transport,Fuel Purchase,Commute or travel cost,5/24/2026 10:35
+446,U03,expense,21.06,5/26/2026 8:12,Food,Supermarket Grocery Purchase,Groceries or meals,5/26/2026 18:56
+447,U03,expense,15.67,5/26/2026 9:13,Food,Supermarket Grocery Purchase,Meal-related purchase,5/26/2026 13:07
+448,U03,expense,185.3,5/26/2026 15:06,Investment,Investment Transfer,,5/26/2026 21:45
+449,U03,expense,27.13,5/28/2026 17:32,Food,Restaurant Meal,Daily food spending,5/29/2026 19:28
+450,U03,expense,2.51,5/29/2026 11:38,Transport,Fuel Purchase,Ride or fuel cost,5/29/2026 12:17
+451,U03,expense,21.61,5/29/2026 13:44,Food,Café Order,Daily food spending,5/31/2026 0:34
+452,U03,expense,30.04,5/29/2026 18:09,Entertainment,Concert Ticket,,5/30/2026 22:27
+453,U03,expense,17.78,5/31/2026 17:42,Food,Café Order,Daily food spending,6/1/2026 13:31
+454,U03,expense,7.12,6/1/2026 10:58,Food,Restaurant Meal,Daily food spending,6/1/2026 20:14
+455,U03,expense,12.8,6/1/2026 13:10,Food,Supermarket Grocery Purchase,,6/2/2026 4:04
+456,U03,income,2308.87,6/1/2026 13:19,Salary,Payroll Credit,Employer salary deposit,6/2/2026 10:21
+457,U03,expense,238.86,6/1/2026 16:23,Investment,Investment Transfer,Transfer into investments,6/1/2026 16:29
+458,U03,expense,459.47,6/2/2026 11:35,Rent,Apartment Rent,Apartment rent settlement,6/3/2026 22:36
+459,U03,expense,24.64,6/2/2026 18:29,Food,Restaurant Meal,,6/4/2026 11:20
+460,U03,expense,599.24,6/3/2026 15:58,Rent,Apartment Rent,Scheduled rent transfer,6/4/2026 1:40
+461,U03,expense,2.2,6/5/2026 16:32,Transport,Taxi Fare,Local transport expense,6/5/2026 23:32
+462,U03,expense,7.15,6/5/2026 20:16,Transport,Metro Ticket,Commute or travel cost,6/6/2026 7:22
+463,U03,expense,8.82,6/6/2026 13:18,Food,Café Order,Daily food spending,6/7/2026 15:06
+464,U03,expense,4.65,6/6/2026 23:42,Transport,Taxi Fare,,6/8/2026 7:14
+465,U03,expense,23.09,6/7/2026 22:06,Food,Supermarket Grocery Purchase,Meal-related purchase,6/8/2026 13:39
+466,U03,expense,18.66,6/8/2026 18:28,Food,Restaurant Meal,Groceries or meals,6/9/2026 13:42
+467,U03,expense,472.78,6/9/2026 12:46,Rent,Monthly Rent Payment,,6/11/2026 5:02
+468,U03,expense,43.92,6/9/2026 13:25,Utilities,Internet Bill Payment,Household bill payment,6/9/2026 16:10
+469,U03,expense,16,6/10/2026 17:15,Food,Lunch Purchase,Meal-related purchase,6/11/2026 3:45
+470,U03,expense,14.6,6/10/2026 20:37,Food,Supermarket Grocery Purchase,Daily food spending,6/11/2026 10:09
+471,U03,expense,9.51,6/11/2026 17:45,Food,Lunch Purchase,Meal-related purchase,6/12/2026 22:00
+472,U03,expense,12.11,6/12/2026 8:50,Food,Café Order,,6/12/2026 17:03
+473,U03,expense,25.7,6/12/2026 18:59,Food,Supermarket Grocery Purchase,Daily food spending,6/13/2026 2:39
+474,U03,expense,125.05,6/13/2026 14:22,Shopping,Electronics Purchase,,6/14/2026 6:00
+475,U03,expense,16.53,6/13/2026 20:35,Food,Restaurant Meal,Groceries or meals,6/14/2026 6:25
+476,U03,expense,6.34,6/18/2026 15:14,Transport,Fuel Purchase,Ride or fuel cost,6/18/2026 20:47
+477,U03,expense,6.5,6/21/2026 22:11,Transport,Metro Ticket,Commute or travel cost,6/22/2026 8:47
+478,U03,expense,13.26,6/22/2026 20:11,Food,Café Order,,6/24/2026 8:47
+479,U03,expense,61.57,6/23/2026 19:43,Food,Supermarket Grocery Purchase,Daily food spending,6/25/2026 10:25
+480,U03,expense,13.73,6/24/2026 8:29,Food,Café Order,Groceries or meals,6/25/2026 5:03
+481,U03,expense,319.41,6/24/2026 14:59,Investment,Fund Purchase,Capital allocation,6/25/2026 21:07
+482,U03,expense,7.98,6/24/2026 15:11,Food,Restaurant Meal,,6/24/2026 21:19
+483,U03,expense,7.69,6/24/2026 16:26,Transport,Metro Ticket,Local transport expense,6/26/2026 12:08
+484,U03,expense,18.84,6/24/2026 17:53,Food,Supermarket Grocery Purchase,Daily food spending,6/29/2026 18:06
+485,U03,expense,18.69,6/25/2026 11:07,Food,Café Order,Meal-related purchase,6/26/2026 17:40
+486,U03,expense,111.97,6/25/2026 13:41,Shopping,Electronics Purchase,Discretionary shopping expense,6/26/2026 23:15
+487,U03,expense,20.24,6/26/2026 13:23,Food,Lunch Purchase,Meal-related purchase,6/26/2026 19:46
+488,U03,expense,24.24,6/26/2026 19:39,Food,Supermarket Grocery Purchase,Meal-related purchase,6/27/2026 20:13
+489,U03,expense,19.34,6/27/2026 14:21,Food,Supermarket Grocery Purchase,Meal-related purchase,6/28/2026 21:16
+490,U03,expense,6.62,6/27/2026 19:28,Food,Restaurant Meal,Groceries or meals,6/27/2026 21:24
+491,U04,expense,40.52,1/1/2026 13:15,Food,Lunch Purchase,Groceries or meals,1/2/2026 11:51
+492,U04,expense,12.13,1/1/2026 17:11,Food,Supermarket Grocery Purchase,Daily food spending,1/2/2026 20:10
+493,U04,expense,112.11,1/1/2026 21:31,Entertainment,Movie Ticket,,1/3/2026 4:46
+494,U04,income,10519.51,1/2/2026 10:44,Salary,Salary Payment,,1/2/2026 12:05
+495,U04,expense,97.98,1/3/2026 14:49,Shopping,Clothing Store Purchase,,1/3/2026 18:27
+496,U04,expense,36.8,1/3/2026 17:36,Other,ATM Withdrawal,Small incidental cost,1/4/2026 12:45
+497,U04,expense,144.78,1/4/2026 21:30,Entertainment,Streaming Subscription,,1/5/2026 8:23
+498,U04,expense,3076.18,1/5/2026 9:42,Rent,Apartment Rent,Housing payment for the month,1/6/2026 12:11
+499,U04,expense,19.68,1/5/2026 15:04,Food,Café Order,Daily food spending,1/6/2026 4:47
+500,U04,expense,2200.2,1/6/2026 16:25,Savings,Savings Transfer,Transfer to savings,1/7/2026 21:29
+501,U04,expense,5.82,1/6/2026 17:03,Transport,Fuel Purchase,Commute or travel cost,1/7/2026 5:30
+502,U04,expense,14.6,1/7/2026 16:40,Transport,Fuel Purchase,Commute or travel cost,1/9/2026 3:21
+503,U04,expense,8.56,1/7/2026 19:50,Transport,Fuel Purchase,,1/8/2026 9:16
+504,U04,expense,228.58,1/10/2026 13:06,Utilities,Internet Bill Payment,Monthly utility bill,1/11/2026 3:02
+505,U04,expense,11.17,1/10/2026 16:15,Transport,Metro Ticket,,1/12/2026 4:41
+506,U04,expense,29.65,1/10/2026 19:11,Food,Restaurant Meal,Daily food spending,1/10/2026 20:51
+507,U04,expense,27.86,1/11/2026 12:56,Other,Bank Charge,,1/12/2026 7:19
+508,U04,expense,34.39,1/12/2026 10:47,Food,Supermarket Grocery Purchase,Meal-related purchase,1/13/2026 7:48
+509,U04,expense,24.51,1/12/2026 11:05,Food,Lunch Purchase,Daily food spending,1/17/2026 5:57
+510,U04,expense,26.05,1/13/2026 10:27,Food,Café Order,Meal-related purchase,1/14/2026 13:22
+511,U04,expense,13.93,1/13/2026 14:18,Other,Miscellaneous Expense,,1/14/2026 6:00
+512,U04,expense,24.89,1/13/2026 18:49,Food,Lunch Purchase,,1/14/2026 15:14
+513,U04,expense,22.61,1/14/2026 19:35,Food,Restaurant Meal,Groceries or meals,1/15/2026 5:59
+514,U04,expense,37.16,1/15/2026 8:02,Food,Supermarket Grocery Purchase,Daily food spending,1/15/2026 20:57
+515,U04,expense,2902.46,1/15/2026 9:45,Investment,Brokerage Deposit,Transfer into investments,1/16/2026 3:55
+516,U04,expense,10.65,1/17/2026 15:54,Food,Restaurant Meal,,1/18/2026 9:12
+517,U04,expense,4.55,1/18/2026 8:50,Transport,Uber Ride,Ride or fuel cost,1/18/2026 9:58
+518,U04,expense,118.43,1/18/2026 13:26,Utilities,Water Bill Payment,,1/20/2026 0:22
+519,U04,expense,12,1/19/2026 11:46,Food,Restaurant Meal,Meal-related purchase,1/19/2026 22:48
+520,U04,expense,28.59,1/19/2026 12:36,Food,Lunch Purchase,Daily food spending,1/20/2026 16:43
+521,U04,expense,14.66,1/19/2026 12:58,Food,Café Order,Daily food spending,1/19/2026 17:30
+522,U04,expense,8.27,1/19/2026 13:12,Transport,Uber Ride,,1/19/2026 19:14
+523,U04,expense,6.89,1/20/2026 15:47,Transport,Taxi Fare,Local transport expense,1/21/2026 8:22
+524,U04,expense,9.39,1/20/2026 23:55,Transport,Metro Ticket,Commute or travel cost,1/21/2026 4:34
+525,U04,expense,18.93,1/21/2026 12:53,Food,Lunch Purchase,Meal-related purchase,1/21/2026 18:40
+526,U04,expense,20.84,1/22/2026 10:48,Food,Café Order,Meal-related purchase,1/24/2026 6:12
+527,U04,expense,332.5,1/22/2026 14:32,Shopping,Household Shopping,Non-essential household or personal purchase,1/23/2026 4:40
+528,U04,expense,6.79,1/22/2026 17:03,Transport,Fuel Purchase,,1/23/2026 13:35
+529,U04,expense,2147.91,1/23/2026 9:25,Investment,Fund Purchase,Capital allocation,1/23/2026 13:44
+530,U04,expense,36.92,1/24/2026 7:18,Food,Café Order,Groceries or meals,1/24/2026 10:37
+531,U04,expense,22.15,1/24/2026 22:25,Food,Restaurant Meal,Meal-related purchase,1/25/2026 19:07
+532,U04,expense,2124.96,1/25/2026 17:39,Savings,Emergency Fund Transfer,Emergency reserve top-up,1/25/2026 19:49
+533,U04,expense,53.01,1/25/2026 21:10,Shopping,Electronics Purchase,,1/26/2026 7:57
+534,U04,expense,82.44,1/26/2026 13:15,Healthcare,Doctor Visit,Medical or pharmacy expense,1/28/2026 0:08
+535,U04,expense,16.4,1/28/2026 14:14,Food,Café Order,,1/29/2026 12:17
+536,U04,expense,27.02,1/28/2026 18:01,Food,Lunch Purchase,Daily food spending,1/28/2026 22:48
+537,U04,expense,23.1,1/30/2026 18:51,Food,Café Order,Groceries or meals,1/31/2026 13:26
+538,U04,expense,22.96,1/30/2026 19:19,Food,Restaurant Meal,Daily food spending,2/1/2026 3:28
+539,U04,expense,24.17,1/31/2026 23:49,Transport,Metro Ticket,,2/1/2026 15:22
+540,U04,income,7948.32,2/2/2026 9:00,Gift,Gift Received,Occasional gift income,2/2/2026 18:35
+541,U04,expense,6.45,2/3/2026 20:44,Transport,Uber Ride,,2/4/2026 5:42
+542,U04,expense,11.38,2/4/2026 7:56,Food,Café Order,Daily food spending,2/8/2026 16:06
+543,U04,expense,12.8,2/4/2026 8:11,Food,Supermarket Grocery Purchase,Daily food spending,2/4/2026 23:19
+544,U04,expense,10.86,2/4/2026 9:20,Transport,Fuel Purchase,Local transport expense,2/6/2026 5:27
+545,U04,expense,40.85,2/4/2026 13:25,Food,Café Order,Daily food spending,2/4/2026 17:00
+546,U04,expense,2305.4,2/4/2026 13:30,Rent,Monthly Rent Payment,,2/4/2026 23:47
+547,U04,expense,26.95,2/4/2026 19:59,Food,Café Order,,2/5/2026 6:46
+548,U04,expense,1541.62,2/5/2026 12:46,Savings,Emergency Fund Transfer,,2/7/2026 11:23
+549,U04,expense,1197.84,2/5/2026 12:54,Savings,Emergency Fund Transfer,,2/5/2026 22:47
+550,U04,expense,154.7,2/6/2026 22:53,Entertainment,Streaming Subscription,Entertainment-related purchase,2/7/2026 5:17
+551,U04,expense,176.26,2/7/2026 10:29,Shopping,Clothing Store Purchase,Retail purchase,2/7/2026 12:44
+552,U04,expense,351.87,2/7/2026 22:08,Shopping,Clothing Store Purchase,Non-essential household or personal purchase,2/8/2026 10:32
+553,U04,expense,38.16,2/9/2026 21:48,Food,Café Order,Daily food spending,2/10/2026 13:14
+554,U04,expense,365.25,2/12/2026 14:12,Shopping,Electronics Purchase,,2/13/2026 13:08
+555,U04,expense,11.48,2/12/2026 22:14,Food,Lunch Purchase,,2/13/2026 20:12
+556,U04,expense,7.53,2/13/2026 11:18,Transport,Metro Ticket,,2/13/2026 13:52
+557,U04,expense,108.11,2/13/2026 12:57,Shopping,Electronics Purchase,Discretionary shopping expense,2/14/2026 2:01
+558,U04,expense,34.5,2/13/2026 21:55,Food,Restaurant Meal,,2/14/2026 14:55
+559,U04,expense,137.41,2/13/2026 23:40,Entertainment,Concert Ticket,Social outing expense,2/14/2026 11:44
+560,U04,expense,32.66,2/14/2026 18:22,Food,Supermarket Grocery Purchase,Meal-related purchase,2/16/2026 4:06
+561,U04,expense,34.98,2/15/2026 20:05,Food,Café Order,Groceries or meals,2/16/2026 10:41
+562,U04,expense,16.92,2/16/2026 7:21,Food,Supermarket Grocery Purchase,Daily food spending,2/16/2026 20:50
+563,U04,expense,37.16,2/16/2026 13:21,Food,Supermarket Grocery Purchase,Groceries or meals,2/16/2026 14:23
+564,U04,expense,122.67,2/16/2026 16:17,Utilities,Electricity Bill Payment,Monthly utility bill,2/17/2026 8:57
+565,U04,expense,386.66,2/17/2026 10:12,Shopping,Clothing Store Purchase,Retail purchase,2/17/2026 11:03
+566,U04,expense,28.31,2/17/2026 18:32,Food,Supermarket Grocery Purchase,Meal-related purchase,2/18/2026 3:28
+567,U04,expense,4.31,2/18/2026 12:48,Transport,Uber Ride,,2/19/2026 16:06
+568,U04,expense,14.29,2/18/2026 16:57,Food,Lunch Purchase,Meal-related purchase,2/19/2026 11:14
+569,U04,expense,14.23,2/21/2026 9:20,Food,Café Order,Meal-related purchase,2/21/2026 15:14
+570,U04,expense,4.59,2/21/2026 19:46,Transport,Uber Ride,,2/22/2026 8:44
+571,U04,expense,2329.17,2/22/2026 10:42,Investment,Investment Transfer,Periodic portfolio contribution,2/23/2026 0:52
+572,U04,expense,26.19,2/22/2026 21:57,Food,Lunch Purchase,Groceries or meals,2/24/2026 0:00
+573,U04,expense,60.53,2/22/2026 22:05,Entertainment,Weekend Restaurant Visit,Social outing expense,2/23/2026 16:52
+574,U04,expense,23.64,2/23/2026 15:43,Food,Café Order,Meal-related purchase,2/24/2026 2:59
+575,U04,expense,7.19,2/24/2026 18:00,Transport,Uber Ride,,2/25/2026 17:14
+576,U04,expense,173.94,2/24/2026 18:56,Shopping,Electronics Purchase,Discretionary shopping expense,2/25/2026 19:26
+577,U04,expense,82.85,2/26/2026 7:49,Food,Supermarket Grocery Purchase,Meal-related purchase,2/26/2026 9:54
+578,U04,expense,34.56,2/27/2026 7:08,Food,Restaurant Meal,,2/28/2026 13:02
+579,U04,expense,15.73,2/27/2026 9:24,Food,Supermarket Grocery Purchase,Meal-related purchase,3/1/2026 8:02
+580,U04,expense,149.26,2/27/2026 23:31,Entertainment,Streaming Subscription,Social outing expense,3/3/2026 22:42
+581,U04,expense,26.24,2/28/2026 12:51,Other,Bank Charge,Small incidental cost,3/1/2026 4:44
+582,U04,expense,98.69,3/1/2026 13:41,Healthcare,Clinic Payment,Clinic or medicine payment,3/6/2026 17:51
+583,U04,expense,5.74,3/1/2026 18:53,Transport,Metro Ticket,Ride or fuel cost,3/2/2026 6:45
+584,U04,expense,14.27,3/2/2026 9:09,Transport,Fuel Purchase,Local transport expense,3/2/2026 16:27
+585,U04,expense,9.34,3/2/2026 11:01,Transport,Metro Ticket,Commute or travel cost,3/3/2026 17:15
+586,U04,expense,18.7,3/2/2026 12:16,Food,Restaurant Meal,,3/2/2026 19:37
+587,U04,expense,1551.34,3/2/2026 12:23,Rent,Apartment Rent,,3/4/2026 1:39
+588,U04,income,9057.84,3/2/2026 13:21,Salary,Payroll Credit,Employer salary deposit,3/3/2026 4:31
+589,U04,expense,1877.55,3/2/2026 17:59,Savings,Savings Transfer,Transfer to savings,3/3/2026 6:56
+590,U04,expense,35.07,3/2/2026 18:48,Food,Café Order,,3/4/2026 1:24
+591,U04,expense,1366.99,3/3/2026 11:04,Investment,Fund Purchase,Periodic portfolio contribution,3/3/2026 17:07
+592,U04,expense,17.25,3/4/2026 10:52,Food,Restaurant Meal,,3/5/2026 15:09
+593,U04,expense,35.31,3/5/2026 13:21,Food,Café Order,Groceries or meals,3/5/2026 19:00
+594,U04,expense,8.99,3/7/2026 16:44,Transport,Uber Ride,Ride or fuel cost,3/13/2026 1:35
+595,U04,expense,75.22,3/7/2026 19:51,Shopping,Electronics Purchase,Discretionary shopping expense,3/8/2026 17:29
+596,U04,expense,14.97,3/8/2026 14:19,Food,Restaurant Meal,Groceries or meals,3/9/2026 4:09
+597,U04,expense,228.87,3/8/2026 19:02,Utilities,Electricity Bill Payment,Household bill payment,3/9/2026 5:58
+598,U04,expense,27.37,3/9/2026 7:10,Food,Café Order,Groceries or meals,3/9/2026 11:58
+599,U04,expense,296.39,3/9/2026 17:58,Shopping,Household Shopping,Non-essential household or personal purchase,3/10/2026 5:52
+600,U04,expense,305.41,3/10/2026 21:10,Shopping,Household Shopping,Non-essential household or personal purchase,3/11/2026 7:37
+601,U04,expense,10.9,3/11/2026 6:38,Transport,Fuel Purchase,,3/15/2026 16:39
+602,U04,expense,10.08,3/11/2026 9:19,Transport,Fuel Purchase,Local transport expense,3/12/2026 4:30
+603,U04,expense,37.89,3/12/2026 12:30,Food,Café Order,,3/12/2026 17:02
+604,U04,expense,12.11,3/13/2026 22:21,Food,Supermarket Grocery Purchase,Daily food spending,3/14/2026 2:21
+605,U04,expense,33.99,3/14/2026 8:48,Food,Café Order,Daily food spending,3/14/2026 20:50
+606,U04,expense,103.32,3/14/2026 19:35,Food,Lunch Purchase,,3/15/2026 14:03
+607,U04,expense,35.44,3/15/2026 22:06,Food,Restaurant Meal,Groceries or meals,3/17/2026 13:37
+608,U04,expense,15.96,3/15/2026 22:59,Food,Lunch Purchase,Groceries or meals,3/16/2026 6:25
+609,U04,expense,294.69,3/16/2026 20:40,Shopping,Electronics Purchase,Retail purchase,3/16/2026 22:02
+610,U04,expense,30.43,3/17/2026 7:43,Food,Supermarket Grocery Purchase,,3/18/2026 3:27
+611,U04,expense,32.71,3/17/2026 20:37,Food,Restaurant Meal,Meal-related purchase,3/22/2026 11:15
+612,U04,expense,9.33,3/18/2026 10:11,Transport,Taxi Fare,,3/18/2026 21:08
+613,U04,expense,36.81,3/19/2026 20:38,Food,Café Order,,3/21/2026 6:24
+614,U04,expense,18.95,3/20/2026 21:31,Food,Supermarket Grocery Purchase,,3/21/2026 23:08
+615,U04,expense,36.34,3/25/2026 14:33,Food,Lunch Purchase,Daily food spending,3/26/2026 12:34
+616,U04,expense,20.82,3/26/2026 8:28,Food,Café Order,,3/27/2026 21:18
+617,U04,expense,24.89,3/26/2026 19:59,Food,Supermarket Grocery Purchase,Groceries or meals,3/27/2026 1:23
+618,U04,expense,32.56,3/27/2026 17:58,Other,Miscellaneous Expense,Miscellaneous banking or cash-related entry,3/29/2026 6:11
+619,U04,expense,34.33,3/28/2026 7:34,Food,Lunch Purchase,,3/29/2026 15:02
+620,U04,expense,12.59,3/28/2026 9:04,Transport,Taxi Fare,,3/28/2026 14:30
+621,U04,expense,13.03,3/29/2026 18:10,Transport,Fuel Purchase,,3/30/2026 18:45
+622,U04,expense,12.97,3/30/2026 23:18,Transport,Metro Ticket,,3/31/2026 3:29
+623,U04,expense,27,4/1/2026 7:43,Food,Supermarket Grocery Purchase,,4/1/2026 17:46
+624,U04,income,9063.71,4/2/2026 10:00,Salary,Salary Payment,Regular monthly paycheck,4/4/2026 6:23
+625,U04,expense,332.42,4/2/2026 18:03,Shopping,Electronics Purchase,Retail purchase,4/3/2026 17:59
+626,U04,expense,17.36,4/3/2026 16:07,Food,Restaurant Meal,,4/4/2026 9:30
+627,U04,expense,1888.5,4/3/2026 17:10,Rent,Apartment Rent,Housing payment for the month,4/4/2026 22:10
+628,U04,expense,2747.65,4/4/2026 17:49,Investment,Investment Transfer,Periodic portfolio contribution,4/4/2026 18:06
+629,U04,expense,387.34,4/5/2026 16:20,Shopping,Electronics Purchase,Non-essential household or personal purchase,4/7/2026 3:22
+630,U04,expense,39.5,4/6/2026 19:11,Food,Restaurant Meal,,4/7/2026 7:47
+631,U04,expense,219.73,4/7/2026 22:26,Shopping,Household Shopping,Retail purchase,4/8/2026 7:07
+632,U04,expense,18.55,4/8/2026 8:25,Food,Supermarket Grocery Purchase,Daily food spending,4/11/2026 7:51
+633,U04,expense,35.75,4/8/2026 20:11,Food,Café Order,Meal-related purchase,4/9/2026 14:01
+634,U04,expense,6.47,4/10/2026 8:27,Transport,Taxi Fare,Commute or travel cost,4/11/2026 23:03
+635,U04,expense,18.86,4/10/2026 11:02,Food,Lunch Purchase,,4/10/2026 13:23
+636,U04,expense,31.07,4/10/2026 13:37,Food,Supermarket Grocery Purchase,,4/10/2026 17:05
+637,U04,expense,13.94,4/10/2026 19:21,Transport,Taxi Fare,Local transport expense,4/11/2026 2:16
+638,U04,expense,185.73,4/11/2026 16:42,Utilities,Internet Bill Payment,Service bill settlement,4/11/2026 18:33
+639,U04,expense,103.98,4/11/2026 17:02,Healthcare,Clinic Payment,Medical or pharmacy expense,4/12/2026 12:44
+640,U04,expense,28.71,4/14/2026 9:52,Food,Restaurant Meal,Daily food spending,4/14/2026 13:16
+641,U04,expense,35.59,4/14/2026 21:19,Food,Restaurant Meal,Meal-related purchase,4/15/2026 19:58
+642,U04,expense,2374.11,4/15/2026 14:52,Investment,Brokerage Deposit,Transfer into investments,4/15/2026 18:18
+643,U04,expense,150.29,4/17/2026 10:55,Shopping,Online Shopping,Retail purchase,4/17/2026 12:58
+644,U04,expense,135.79,4/17/2026 23:58,Entertainment,Movie Ticket,Social outing expense,4/18/2026 12:49
+645,U04,expense,23.12,4/18/2026 7:44,Food,Restaurant Meal,Meal-related purchase,4/18/2026 23:53
+646,U04,expense,6.62,4/18/2026 18:01,Transport,Taxi Fare,,4/19/2026 4:09
+647,U04,expense,181.71,4/18/2026 20:53,Entertainment,Weekend Restaurant Visit,Social outing expense,4/20/2026 4:54
+648,U04,expense,158.2,4/18/2026 23:04,Entertainment,Movie Ticket,,4/19/2026 4:03
+649,U04,expense,48.88,4/19/2026 12:09,Food,Lunch Purchase,Daily food spending,4/19/2026 19:59
+650,U04,expense,31.72,4/20/2026 8:55,Food,Café Order,,4/21/2026 9:01
+651,U04,expense,11.86,4/21/2026 8:28,Transport,Fuel Purchase,Local transport expense,4/21/2026 20:06
+652,U04,expense,12.86,4/21/2026 20:00,Food,Lunch Purchase,Groceries or meals,4/21/2026 22:28
+653,U04,expense,38.11,4/22/2026 13:52,Other,Bank Charge,,4/23/2026 21:53
+654,U04,expense,26.38,4/23/2026 18:31,Food,Restaurant Meal,,4/25/2026 5:41
+655,U04,expense,11.73,4/25/2026 8:38,Food,Supermarket Grocery Purchase,Meal-related purchase,4/26/2026 12:27
+656,U04,expense,32.76,4/26/2026 12:44,Food,Lunch Purchase,,4/26/2026 15:37
+657,U04,expense,9.97,4/26/2026 23:55,Transport,Metro Ticket,,4/27/2026 2:20
+658,U04,expense,54.98,4/27/2026 19:02,Food,Restaurant Meal,Meal-related purchase,4/28/2026 3:36
+659,U04,expense,30.25,4/27/2026 19:09,Food,Café Order,Daily food spending,4/28/2026 18:20
+660,U04,expense,28.38,4/27/2026 20:05,Food,Lunch Purchase,Meal-related purchase,4/29/2026 0:41
+661,U04,expense,206.31,4/29/2026 22:22,Shopping,Household Shopping,Discretionary shopping expense,4/29/2026 23:46
+662,U04,expense,2327.19,5/1/2026 10:08,Rent,Apartment Rent,Housing payment for the month,5/2/2026 11:19
+663,U04,expense,397.04,5/1/2026 21:01,Shopping,Clothing Store Purchase,,5/3/2026 0:56
+664,U04,expense,18.53,5/2/2026 10:35,Food,Lunch Purchase,Meal-related purchase,5/2/2026 20:55
+665,U04,income,11949.11,5/2/2026 12:42,Salary,Payroll Credit,Scheduled salary payment,5/3/2026 6:58
+666,U04,expense,37.52,5/2/2026 15:21,Food,Café Order,Daily food spending,5/3/2026 16:31
+667,U04,expense,231.89,5/2/2026 15:55,Shopping,Online Shopping,,5/2/2026 18:18
+668,U04,expense,18.04,5/3/2026 12:47,Food,Lunch Purchase,Meal-related purchase,5/3/2026 19:30
+669,U04,expense,21.68,5/4/2026 18:04,Food,Restaurant Meal,,5/5/2026 7:06
+670,U04,expense,13.69,5/4/2026 18:37,Food,Lunch Purchase,Daily food spending,5/9/2026 8:47
+671,U04,expense,30.59,5/6/2026 19:54,Food,Lunch Purchase,Meal-related purchase,5/6/2026 22:02
+672,U04,expense,31.57,5/6/2026 23:19,Entertainment,Streaming Subscription,Leisure or weekend spending,5/8/2026 11:03
+673,U04,expense,14.27,5/7/2026 9:37,Transport,Fuel Purchase,Commute or travel cost,5/7/2026 13:47
+674,U04,expense,8.5,5/7/2026 10:24,Transport,Uber Ride,Local transport expense,5/8/2026 1:47
+675,U04,expense,25.2,5/7/2026 13:03,Food,Restaurant Meal,Groceries or meals,5/7/2026 21:21
+676,U04,expense,16.87,5/9/2026 9:04,Food,Supermarket Grocery Purchase,Meal-related purchase,5/9/2026 11:05
+677,U04,expense,151.14,5/9/2026 19:51,Shopping,Clothing Store Purchase,Discretionary shopping expense,5/10/2026 23:52
+678,U04,expense,21.27,5/10/2026 10:30,Food,Restaurant Meal,,5/10/2026 18:17
+679,U04,expense,354.14,5/10/2026 18:49,Shopping,Electronics Purchase,,5/10/2026 22:43
+680,U04,expense,111.63,5/11/2026 20:02,Entertainment,Weekend Restaurant Visit,,5/12/2026 15:15
+681,U04,expense,14.49,5/12/2026 17:18,Other,Service Fee,Miscellaneous banking or cash-related entry,5/15/2026 13:38
+682,U04,expense,397.54,5/13/2026 14:59,Shopping,Electronics Purchase,Non-essential household or personal purchase,5/13/2026 23:36
+683,U04,expense,56.18,5/15/2026 11:11,Food,Café Order,,5/16/2026 22:06
+684,U04,expense,128.56,5/15/2026 16:23,Utilities,Electricity Bill Payment,,5/16/2026 11:32
+685,U04,expense,38.61,5/16/2026 18:28,Food,Restaurant Meal,,5/17/2026 8:56
+686,U04,expense,1428.03,5/17/2026 15:20,Savings,Savings Transfer,Emergency reserve top-up,5/17/2026 16:52
+687,U04,expense,92.79,5/17/2026 21:56,Shopping,Clothing Store Purchase,,5/18/2026 3:43
+688,U04,expense,32.22,5/22/2026 9:17,Food,Supermarket Grocery Purchase,Daily food spending,5/22/2026 20:43
+689,U04,expense,9.13,5/24/2026 16:12,Transport,Uber Ride,Ride or fuel cost,5/24/2026 18:46
+690,U04,expense,22.67,5/24/2026 18:14,Food,Restaurant Meal,Daily food spending,5/26/2026 5:02
+691,U04,expense,1288.63,5/25/2026 9:32,Savings,Deposit to Savings,Routine savings allocation,5/25/2026 16:37
+692,U04,expense,22.46,5/25/2026 10:27,Food,Supermarket Grocery Purchase,Groceries or meals,5/25/2026 21:30
+693,U04,expense,3397.67,5/28/2026 11:19,Investment,Investment Transfer,Periodic portfolio contribution,5/28/2026 19:42
+694,U04,expense,15.58,5/28/2026 20:50,Food,Café Order,Meal-related purchase,5/29/2026 23:58
+695,U04,expense,17.84,5/29/2026 14:00,Other,Service Fee,,5/29/2026 17:42
+696,U04,expense,15.51,5/30/2026 15:09,Transport,Taxi Fare,Local transport expense,5/31/2026 23:08
+697,U04,expense,38.38,6/1/2026 11:31,Food,Café Order,Daily food spending,6/2/2026 8:07
+698,U04,expense,14.76,6/1/2026 11:59,Transport,Fuel Purchase,Local transport expense,6/1/2026 17:04
+699,U04,expense,25.26,6/1/2026 19:27,Food,Restaurant Meal,Meal-related purchase,6/2/2026 18:51
+700,U04,expense,35.42,6/2/2026 12:20,Food,Café Order,,6/3/2026 4:02
+701,U04,income,15025.88,6/2/2026 12:37,Salary,Monthly Salary Deposit,,6/2/2026 18:44
+702,U04,expense,1438.22,6/2/2026 14:44,Rent,Monthly Rent Payment,Housing payment for the month,6/2/2026 16:03
+703,U04,expense,14.71,6/4/2026 16:57,Transport,Metro Ticket,Commute or travel cost,6/6/2026 2:21
+704,U04,expense,206.52,6/6/2026 15:39,Shopping,Household Shopping,Discretionary shopping expense,6/7/2026 7:31
+705,U04,expense,4.65,6/6/2026 17:31,Transport,Fuel Purchase,Commute or travel cost,6/7/2026 21:07
+706,U04,expense,19.79,6/9/2026 16:41,Food,Café Order,Groceries or meals,6/13/2026 2:45
+707,U04,expense,29.82,6/9/2026 22:26,Food,Café Order,,6/10/2026 0:59
+708,U04,expense,18.57,6/12/2026 17:49,Food,Café Order,Groceries or meals,6/12/2026 23:12
+709,U04,expense,4.51,6/14/2026 11:08,Transport,Uber Ride,Local transport expense,6/15/2026 8:38
+710,U04,expense,10.89,6/14/2026 11:46,Transport,Uber Ride,Ride or fuel cost,6/15/2026 8:30
+711,U04,expense,369.46,6/14/2026 19:22,Shopping,Clothing Store Purchase,Non-essential household or personal purchase,6/15/2026 11:39
+712,U04,expense,15.07,6/14/2026 20:12,Food,Supermarket Grocery Purchase,Groceries or meals,6/16/2026 4:25
+713,U04,expense,17.72,6/15/2026 16:32,Food,Café Order,,6/16/2026 16:44
+714,U04,expense,32.34,6/15/2026 21:11,Food,Lunch Purchase,Meal-related purchase,6/16/2026 7:12
+715,U04,expense,276.3,6/17/2026 12:33,Shopping,Online Shopping,Non-essential household or personal purchase,6/17/2026 13:04
+716,U04,expense,162.52,6/17/2026 15:46,Shopping,Household Shopping,Non-essential household or personal purchase,6/17/2026 20:54
+717,U04,expense,13.13,6/18/2026 13:10,Food,Lunch Purchase,Meal-related purchase,6/18/2026 18:32
+718,U04,expense,79.69,6/18/2026 15:26,Utilities,Electricity Bill Payment,Monthly utility bill,6/18/2026 19:03
+719,U04,expense,24.43,6/19/2026 18:53,Food,Café Order,Daily food spending,6/20/2026 3:36
+720,U04,expense,74.55,6/20/2026 15:59,Food,Café Order,,6/21/2026 17:58
+721,U04,expense,34.42,6/21/2026 11:23,Food,Café Order,,6/22/2026 5:31
+722,U04,expense,19.5,6/22/2026 17:40,Food,Café Order,,6/24/2026 11:53
+723,U04,expense,26.61,6/24/2026 9:51,Food,Restaurant Meal,Meal-related purchase,6/25/2026 6:46
+724,U04,expense,15.29,6/24/2026 22:40,Food,Supermarket Grocery Purchase,Meal-related purchase,6/25/2026 2:39
+725,U04,expense,20.98,6/27/2026 18:22,Other,Bank Charge,Small incidental cost,6/28/2026 22:16
+726,U04,expense,4.18,6/28/2026 8:09,Transport,Metro Ticket,,6/29/2026 4:52
+727,U04,expense,143.88,6/28/2026 21:32,Entertainment,Streaming Subscription,,6/29/2026 8:19
+728,U04,expense,33.07,6/29/2026 10:09,Food,Restaurant Meal,Groceries or meals,6/30/2026 3:47
+729,U04,expense,783.2,6/30/2026 12:56,Investment,Fund Purchase,Transfer into investments,7/1/2026 13:01
+730,U04,expense,28.16,6/30/2026 19:01,Food,Restaurant Meal,Meal-related purchase,6/30/2026 21:14
+731,U05,expense,16.87,1/1/2026 7:29,Food,Café Order,,1/1/2026 8:10
+732,U05,expense,9.02,1/1/2026 17:06,Food,Supermarket Grocery Purchase,Meal-related purchase,1/2/2026 1:09
+733,U05,expense,14.35,1/2/2026 15:30,Food,Restaurant Meal,Daily food spending,1/3/2026 0:26
+734,U05,income,998.02,1/2/2026 19:37,Freelance,Project Payment,Payment for completed work,1/3/2026 12:15
+735,U05,expense,29.77,1/4/2026 11:34,Other,Service Fee,Non-categorized expense,1/5/2026 2:12
+736,U05,income,192.13,1/4/2026 13:58,Freelance,Freelance Payout,Payment for completed work,1/4/2026 17:42
+737,U05,expense,4.62,1/6/2026 11:45,Transport,Fuel Purchase,,1/7/2026 5:24
+738,U05,income,539.52,1/6/2026 15:02,Freelance,Project Payment,Project milestone payout,1/7/2026 3:16
+739,U05,expense,37.56,1/6/2026 20:28,Entertainment,Streaming Subscription,Entertainment-related purchase,1/7/2026 7:54
+740,U05,income,358.51,1/7/2026 11:45,Freelance,Client Transfer,Payment for completed work,1/8/2026 7:19
+741,U05,income,398.29,1/8/2026 13:58,Freelance,Freelance Payout,Client settlement transfer,1/9/2026 9:21
+742,U05,expense,8.43,1/8/2026 16:52,Food,Lunch Purchase,Groceries or meals,1/9/2026 0:52
+743,U05,expense,6.07,1/9/2026 10:01,Transport,Fuel Purchase,Local transport expense,1/9/2026 12:07
+744,U05,income,612.7,1/9/2026 19:07,Gift,Gift Received,Gift or one-off received money,1/11/2026 1:02
+745,U05,expense,41.13,1/9/2026 19:59,Entertainment,Streaming Subscription,Social outing expense,1/13/2026 4:20
+746,U05,expense,4.75,1/11/2026 17:41,Other,ATM Withdrawal,,1/13/2026 0:18
+747,U05,expense,19.02,1/12/2026 9:34,Food,Supermarket Grocery Purchase,,1/12/2026 15:55
+748,U05,expense,245.74,1/12/2026 9:56,Investment,Brokerage Deposit,Capital allocation,1/13/2026 2:47
+749,U05,expense,514.58,1/14/2026 11:35,Savings,Deposit to Savings,Routine savings allocation,1/15/2026 7:57
+750,U05,expense,327.86,1/14/2026 16:06,Savings,Savings Transfer,Transfer to savings,1/15/2026 7:43
+751,U05,expense,91.81,1/16/2026 13:16,Shopping,Household Shopping,Retail purchase,1/17/2026 12:28
+752,U05,expense,29.76,1/16/2026 19:11,Food,Restaurant Meal,Groceries or meals,1/17/2026 16:17
+753,U05,expense,24.65,1/16/2026 20:50,Food,Supermarket Grocery Purchase,Groceries or meals,1/17/2026 8:47
+754,U05,expense,82.37,1/18/2026 18:26,Entertainment,Weekend Restaurant Visit,,1/19/2026 10:07
+755,U05,expense,14.61,1/19/2026 15:53,Food,Supermarket Grocery Purchase,Groceries or meals,1/19/2026 18:37
+756,U05,income,513.15,1/19/2026 15:54,Freelance,Freelance Payout,Project milestone payout,1/20/2026 23:12
+757,U05,expense,87.86,1/20/2026 12:18,Shopping,Household Shopping,,1/21/2026 15:12
+758,U05,expense,222.01,1/21/2026 14:19,Investment,Fund Purchase,Periodic portfolio contribution,1/22/2026 18:39
+759,U05,expense,12.3,1/22/2026 12:19,Other,Bank Charge,Small incidental cost,1/22/2026 18:42
+760,U05,expense,557.01,1/22/2026 13:36,Investment,Brokerage Deposit,Capital allocation,1/24/2026 7:26
+761,U05,expense,173.11,1/22/2026 19:16,Shopping,Online Shopping,Discretionary shopping expense,1/23/2026 20:59
+762,U05,expense,57.9,1/23/2026 19:41,Entertainment,Weekend Restaurant Visit,Social outing expense,1/25/2026 3:04
+763,U05,expense,16.63,1/24/2026 7:01,Food,Restaurant Meal,Meal-related purchase,1/25/2026 12:02
+764,U05,expense,3.7,1/25/2026 17:28,Transport,Fuel Purchase,Ride or fuel cost,1/26/2026 4:43
+765,U05,income,579.5,1/25/2026 20:39,Salary,Monthly Salary Deposit,Regular monthly paycheck,1/26/2026 7:28
+766,U05,income,657.08,1/26/2026 13:43,Freelance,Client Transfer,Payment for completed work,1/27/2026 1:58
+767,U05,expense,5.35,1/27/2026 6:31,Transport,Metro Ticket,,1/27/2026 12:17
+768,U05,expense,47.42,1/27/2026 11:48,Healthcare,Clinic Payment,Clinic or medicine payment,1/27/2026 18:58
+769,U05,expense,20.52,1/27/2026 13:14,Other,Service Fee,Small incidental cost,1/27/2026 23:27
+770,U05,expense,7.16,1/27/2026 21:43,Transport,Taxi Fare,Local transport expense,1/28/2026 19:17
+771,U05,expense,7.16,1/27/2026 22:04,Transport,Uber Ride,Commute or travel cost,1/28/2026 19:44
+772,U05,expense,14.98,1/28/2026 15:24,Food,Restaurant Meal,Groceries or meals,1/29/2026 1:37
+773,U05,expense,11.54,1/30/2026 14:48,Other,Bank Charge,Miscellaneous banking or cash-related entry,1/31/2026 11:21
+774,U05,income,1652.75,1/30/2026 18:31,Gift,Family Gift,Personal transfer received,2/1/2026 9:43
+775,U05,expense,6.47,1/30/2026 21:38,Transport,Uber Ride,Local transport expense,1/31/2026 19:14
+776,U05,expense,27.63,1/31/2026 10:49,Food,Lunch Purchase,Groceries or meals,2/1/2026 13:06
+777,U05,expense,82.56,1/31/2026 12:15,Shopping,Household Shopping,Discretionary shopping expense,2/1/2026 4:52
+778,U05,expense,21.18,1/31/2026 13:33,Other,ATM Withdrawal,Miscellaneous banking or cash-related entry,2/2/2026 2:21
+779,U05,expense,28.8,2/2/2026 9:23,Healthcare,Clinic Payment,,2/3/2026 13:58
+780,U05,expense,11.77,2/5/2026 11:00,Food,Café Order,Groceries or meals,2/6/2026 12:42
+781,U05,expense,2.45,2/5/2026 12:50,Transport,Metro Ticket,,2/6/2026 7:35
+782,U05,income,757.96,2/5/2026 14:46,Freelance,Freelance Payout,,2/7/2026 4:29
+783,U05,expense,25.26,2/5/2026 18:05,Food,Lunch Purchase,Daily food spending,2/6/2026 7:31
+784,U05,expense,21.36,2/5/2026 18:31,Food,Café Order,,2/5/2026 19:46
+785,U05,expense,17.18,2/7/2026 8:51,Food,Café Order,Meal-related purchase,2/9/2026 1:57
+786,U05,expense,36.75,2/7/2026 16:40,Shopping,Household Shopping,Retail purchase,2/8/2026 11:19
+787,U05,expense,411.7,2/7/2026 17:06,Investment,Brokerage Deposit,Transfer into investments,2/8/2026 18:28
+788,U05,expense,11.84,2/8/2026 13:58,Food,Lunch Purchase,Daily food spending,2/9/2026 15:07
+789,U05,income,1601.55,2/8/2026 15:52,Freelance,Project Payment,Payment for completed work,2/13/2026 14:56
+790,U05,expense,17.77,2/8/2026 19:41,Food,Café Order,,2/9/2026 2:13
+791,U05,expense,2.66,2/9/2026 6:16,Transport,Taxi Fare,Ride or fuel cost,2/13/2026 18:11
+792,U05,expense,7.79,2/9/2026 13:08,Transport,Taxi Fare,Ride or fuel cost,2/10/2026 0:11
+793,U05,expense,617.98,2/9/2026 14:23,Investment,Brokerage Deposit,Capital allocation,2/9/2026 22:23
+794,U05,expense,256.3,2/10/2026 12:23,Savings,Savings Transfer,Emergency reserve top-up,2/10/2026 18:59
+795,U05,expense,26.23,2/10/2026 18:13,Food,Supermarket Grocery Purchase,Meal-related purchase,2/11/2026 2:59
+796,U05,expense,6.59,2/11/2026 15:28,Transport,Fuel Purchase,Ride or fuel cost,2/11/2026 16:57
+797,U05,expense,248.11,2/12/2026 13:39,Savings,Deposit to Savings,Transfer to savings,2/12/2026 23:07
+798,U05,expense,190.25,2/12/2026 15:20,Shopping,Clothing Store Purchase,Non-essential household or personal purchase,2/13/2026 5:24
+799,U05,income,1052.42,2/12/2026 16:27,Freelance,Project Payment,Client settlement transfer,2/13/2026 15:53
+800,U05,income,1075.93,2/13/2026 14:37,Freelance,Client Transfer,Client settlement transfer,2/14/2026 1:30
+801,U05,expense,19.26,2/13/2026 15:35,Food,Restaurant Meal,Groceries or meals,2/14/2026 9:41
+802,U05,expense,25.36,2/13/2026 18:23,Food,Supermarket Grocery Purchase,Daily food spending,2/13/2026 18:45
+803,U05,expense,18.95,2/13/2026 19:49,Shopping,Online Shopping,Discretionary shopping expense,2/14/2026 8:30
+804,U05,expense,66.18,2/13/2026 22:27,Entertainment,Movie Ticket,Social outing expense,2/15/2026 2:02
+805,U05,expense,16.1,2/14/2026 8:31,Other,ATM Withdrawal,Miscellaneous banking or cash-related entry,2/14/2026 19:22
+806,U05,income,356.1,2/14/2026 11:43,Freelance,Freelance Payout,,2/15/2026 10:51
+807,U05,expense,550.25,2/14/2026 11:46,Savings,Emergency Fund Transfer,Emergency reserve top-up,2/14/2026 18:03
+808,U05,expense,12.14,2/14/2026 12:04,Food,Supermarket Grocery Purchase,Daily food spending,2/14/2026 14:20
+809,U05,expense,17.02,2/15/2026 19:09,Food,Supermarket Grocery Purchase,Groceries or meals,2/16/2026 4:24
+810,U05,expense,164.35,2/16/2026 14:25,Savings,Emergency Fund Transfer,Routine savings allocation,2/17/2026 5:44
+811,U05,expense,4.39,2/17/2026 12:05,Transport,Taxi Fare,Commute or travel cost,2/18/2026 22:52
+812,U05,income,640.68,2/17/2026 17:41,Freelance,Client Transfer,Client settlement transfer,2/18/2026 13:24
+813,U05,expense,20.67,2/17/2026 19:51,Other,Bank Charge,Small incidental cost,2/18/2026 2:24
+814,U05,expense,54.17,2/19/2026 18:05,Entertainment,Weekend Restaurant Visit,Leisure or weekend spending,2/21/2026 3:43
+815,U05,expense,4.16,2/20/2026 16:51,Transport,Taxi Fare,Local transport expense,2/21/2026 1:48
+816,U05,income,2327.64,2/22/2026 10:51,Salary,Salary Payment,Employer salary deposit,2/23/2026 3:08
+817,U05,expense,23.71,2/22/2026 14:20,Food,Restaurant Meal,Groceries or meals,2/24/2026 3:42
+818,U05,expense,37.98,2/23/2026 20:55,Entertainment,Streaming Subscription,Social outing expense,2/24/2026 10:35
+819,U05,expense,6.74,2/24/2026 15:21,Food,Supermarket Grocery Purchase,,2/26/2026 7:17
+820,U05,income,1223.97,2/24/2026 17:51,Freelance,Freelance Payout,Payment for completed work,2/24/2026 21:30
+821,U05,expense,74.9,2/24/2026 20:44,Shopping,Clothing Store Purchase,Retail purchase,2/26/2026 6:59
+822,U05,income,755.2,2/26/2026 12:45,Freelance,Client Transfer,Client settlement transfer,2/27/2026 8:07
+823,U05,expense,113.98,2/27/2026 20:48,Shopping,Household Shopping,Retail purchase,2/28/2026 7:05
+824,U05,income,538.95,2/28/2026 13:44,Freelance,Project Payment,Project milestone payout,3/1/2026 10:40
+825,U05,expense,33.54,2/28/2026 21:16,Entertainment,Concert Ticket,Entertainment-related purchase,3/1/2026 5:31
+826,U05,expense,3.05,3/1/2026 7:57,Transport,Fuel Purchase,Commute or travel cost,3/2/2026 21:24
+827,U05,expense,3,3/1/2026 20:16,Transport,Fuel Purchase,,3/2/2026 11:36
+828,U05,expense,134.54,3/1/2026 20:48,Shopping,Household Shopping,Discretionary shopping expense,3/3/2026 14:32
+829,U05,expense,80.64,3/1/2026 21:30,Entertainment,Concert Ticket,Social outing expense,3/3/2026 6:06
+830,U05,expense,261.73,3/2/2026 12:39,Savings,Emergency Fund Transfer,Transfer to savings,3/3/2026 12:13
+831,U05,expense,9.12,3/2/2026 20:21,Food,Café Order,Daily food spending,3/3/2026 3:23
+832,U05,income,828.83,3/3/2026 13:36,Gift,Family Gift,Personal transfer received,3/4/2026 8:27
+833,U05,expense,12.94,3/3/2026 16:51,Food,Restaurant Meal,Daily food spending,3/4/2026 2:36
+834,U05,income,773.06,3/4/2026 13:11,Freelance,Client Transfer,Client settlement transfer,3/4/2026 22:22
+835,U05,expense,79.64,3/4/2026 16:59,Investment,Brokerage Deposit,,3/4/2026 23:17
+836,U05,expense,4.65,3/5/2026 21:23,Transport,Fuel Purchase,Ride or fuel cost,3/7/2026 3:48
+837,U05,expense,169.25,3/6/2026 10:25,Investment,Brokerage Deposit,Periodic portfolio contribution,3/7/2026 23:25
+838,U05,expense,531.39,3/6/2026 12:15,Savings,Deposit to Savings,,3/6/2026 16:55
+839,U05,expense,16.84,3/6/2026 14:12,Food,Restaurant Meal,Groceries or meals,3/8/2026 1:41
+840,U05,income,320.08,3/6/2026 18:01,Freelance,Client Transfer,Project milestone payout,3/7/2026 22:44
+841,U05,expense,50.58,3/7/2026 7:35,Food,Café Order,,3/9/2026 3:47
+842,U05,expense,13.83,3/8/2026 15:14,Food,Restaurant Meal,Meal-related purchase,3/9/2026 20:12
+843,U05,expense,63.66,3/8/2026 20:32,Entertainment,Concert Ticket,Leisure or weekend spending,3/8/2026 22:33
+844,U05,expense,23.42,3/8/2026 21:56,Food,Café Order,Daily food spending,3/9/2026 1:38
+845,U05,expense,172.67,3/9/2026 12:25,Shopping,Online Shopping,Non-essential household or personal purchase,3/9/2026 14:09
+846,U05,expense,662.16,3/10/2026 16:03,Investment,Brokerage Deposit,,3/12/2026 0:34
+847,U05,expense,4.22,3/10/2026 22:31,Transport,Metro Ticket,Ride or fuel cost,3/11/2026 20:26
+848,U05,expense,9.63,3/10/2026 22:41,Food,Restaurant Meal,Groceries or meals,3/11/2026 14:39
+849,U05,expense,3.02,3/11/2026 14:25,Transport,Uber Ride,Local transport expense,3/11/2026 18:50
+850,U05,expense,18.92,3/12/2026 11:11,Other,Service Fee,,3/13/2026 12:55
+851,U05,income,1040.34,3/13/2026 11:34,Salary,Monthly Salary Deposit,,3/13/2026 13:31
+852,U05,expense,6.99,3/14/2026 11:51,Transport,Uber Ride,Ride or fuel cost,3/15/2026 4:43
+853,U05,expense,36.62,3/14/2026 19:44,Entertainment,Streaming Subscription,Leisure or weekend spending,3/15/2026 20:15
+854,U05,expense,6.43,3/14/2026 22:48,Food,Restaurant Meal,Daily food spending,3/16/2026 7:23
+855,U05,expense,84.16,3/15/2026 11:19,Shopping,Clothing Store Purchase,Retail purchase,3/15/2026 12:01
+856,U05,expense,23.6,3/16/2026 10:12,Food,Restaurant Meal,Groceries or meals,3/18/2026 0:42
+857,U05,income,467.89,3/16/2026 15:17,Salary,Monthly Salary Deposit,,3/17/2026 5:42
+858,U05,expense,10.96,3/17/2026 19:31,Transport,Uber Ride,Local transport expense,3/17/2026 21:26
+859,U05,expense,6.14,3/19/2026 9:22,Food,Restaurant Meal,Meal-related purchase,3/20/2026 17:34
+860,U05,income,685.52,3/19/2026 16:58,Freelance,Project Payment,Payment for completed work,3/20/2026 18:17
+861,U05,expense,8.1,3/20/2026 19:55,Other,ATM Withdrawal,Miscellaneous banking or cash-related entry,3/22/2026 4:21
+862,U05,income,1312.07,3/21/2026 9:42,Salary,Payroll Credit,Employer salary deposit,3/22/2026 10:11
+863,U05,expense,498.58,3/21/2026 12:07,Savings,Deposit to Savings,Routine savings allocation,3/22/2026 15:20
+864,U05,expense,28.66,3/21/2026 21:23,Entertainment,Movie Ticket,Social outing expense,3/22/2026 16:58
+865,U05,expense,25.69,3/22/2026 22:41,Entertainment,Streaming Subscription,Entertainment-related purchase,3/23/2026 6:43
+866,U05,expense,17.09,3/23/2026 13:37,Food,Lunch Purchase,Groceries or meals,3/24/2026 18:38
+867,U05,expense,3.28,3/24/2026 19:00,Transport,Uber Ride,Commute or travel cost,3/25/2026 3:38
+868,U05,expense,376.77,3/25/2026 11:45,Shopping,Household Shopping,,3/27/2026 0:26
+869,U05,expense,35.87,3/25/2026 19:36,Food,Café Order,Meal-related purchase,3/27/2026 3:00
+870,U05,income,1093.09,3/26/2026 10:30,Freelance,Freelance Payout,,3/26/2026 17:55
+871,U05,income,433.78,3/27/2026 10:46,Freelance,Client Transfer,,3/28/2026 7:13
+872,U05,expense,301.64,3/29/2026 11:50,Savings,Emergency Fund Transfer,,3/30/2026 15:56
+873,U05,expense,18.39,3/29/2026 16:03,Shopping,Household Shopping,Retail purchase,3/29/2026 21:59
+874,U05,expense,17.22,3/30/2026 17:18,Food,Supermarket Grocery Purchase,Daily food spending,3/31/2026 2:42
+875,U05,expense,71.87,3/31/2026 19:19,Entertainment,Movie Ticket,Entertainment-related purchase,4/1/2026 13:06
+876,U05,expense,1.85,3/31/2026 23:45,Transport,Taxi Fare,Ride or fuel cost,4/1/2026 3:43
+877,U05,income,1257.9,4/1/2026 20:00,Freelance,Project Payment,Project milestone payout,4/2/2026 14:19
+878,U05,expense,11.53,4/2/2026 15:01,Food,Restaurant Meal,,4/4/2026 3:32
+879,U05,expense,21.42,4/3/2026 12:27,Food,Supermarket Grocery Purchase,Daily food spending,4/3/2026 18:45
+880,U05,expense,28.82,4/4/2026 11:13,Healthcare,Pharmacy Purchase,,4/4/2026 12:17
+881,U05,expense,11.89,4/5/2026 8:17,Food,Restaurant Meal,Meal-related purchase,4/6/2026 1:24
+882,U05,expense,290.58,4/5/2026 9:16,Savings,Emergency Fund Transfer,Emergency reserve top-up,4/9/2026 13:27
+883,U05,expense,77.98,4/5/2026 12:38,Investment,Investment Transfer,Periodic portfolio contribution,4/6/2026 3:00
+884,U05,expense,427.66,4/5/2026 14:51,Investment,Brokerage Deposit,,4/6/2026 6:31
+885,U05,income,513.64,4/5/2026 17:33,Salary,Payroll Credit,Scheduled salary payment,4/6/2026 18:06
+886,U05,expense,190.27,4/6/2026 16:21,Savings,Deposit to Savings,,4/7/2026 10:19
+887,U05,expense,18.71,4/7/2026 9:01,Food,Café Order,Daily food spending,4/7/2026 10:02
+888,U05,expense,13.81,4/7/2026 15:26,Food,Supermarket Grocery Purchase,Daily food spending,4/7/2026 19:29
+889,U05,income,476.64,4/7/2026 20:16,Gift,Family Gift,Occasional gift income,4/7/2026 21:14
+890,U05,expense,8.21,4/8/2026 7:48,Transport,Fuel Purchase,Commute or travel cost,4/9/2026 4:27
+891,U05,expense,8.55,4/9/2026 9:11,Transport,Taxi Fare,Commute or travel cost,4/10/2026 21:06
+892,U05,expense,9.08,4/9/2026 12:20,Food,Restaurant Meal,,4/13/2026 11:36
+893,U05,expense,13.59,4/9/2026 12:24,Food,Restaurant Meal,Daily food spending,4/9/2026 18:32
+894,U05,expense,354.59,4/9/2026 15:14,Savings,Deposit to Savings,Emergency reserve top-up,4/9/2026 23:21
+895,U05,expense,1080.95,4/10/2026 13:15,Investment,Brokerage Deposit,Periodic portfolio contribution,4/10/2026 17:45
+896,U05,expense,16.84,4/10/2026 15:33,Food,Supermarket Grocery Purchase,Daily food spending,4/14/2026 3:49
+897,U05,expense,505.78,4/10/2026 16:28,Investment,Brokerage Deposit,Capital allocation,4/10/2026 17:03
+898,U05,expense,13.04,4/10/2026 17:26,Other,Miscellaneous Expense,,4/10/2026 22:19
+899,U05,income,444.13,4/12/2026 16:28,Freelance,Freelance Payout,Payment for completed work,4/13/2026 1:54
+900,U05,expense,13.52,4/13/2026 8:27,Food,Lunch Purchase,Groceries or meals,4/13/2026 11:29
+901,U05,expense,5.4,4/14/2026 8:26,Transport,Metro Ticket,,4/15/2026 1:19
+902,U05,income,314.08,4/14/2026 10:19,Gift,Birthday Gift,Gift or one-off received money,4/15/2026 8:58
+903,U05,expense,12.98,4/15/2026 9:51,Food,Café Order,Meal-related purchase,4/15/2026 17:52
+904,U05,income,404.87,4/15/2026 11:27,Salary,Monthly Salary Deposit,,4/15/2026 16:38
+905,U05,expense,22.16,4/15/2026 12:51,Shopping,Online Shopping,,4/16/2026 1:04
+906,U05,expense,8.34,4/15/2026 16:19,Food,Café Order,Meal-related purchase,4/16/2026 20:57
+907,U05,expense,12.43,4/16/2026 8:51,Food,Café Order,,4/16/2026 13:59
+908,U05,expense,18.68,4/16/2026 15:31,Food,Supermarket Grocery Purchase,Daily food spending,4/17/2026 2:10
+909,U05,expense,12.99,4/18/2026 18:54,Food,Café Order,Meal-related purchase,4/19/2026 22:09
+910,U05,expense,2.8,4/18/2026 19:13,Transport,Taxi Fare,,4/19/2026 5:40
+911,U05,expense,9.84,4/18/2026 23:25,Transport,Taxi Fare,,4/20/2026 3:53
+912,U05,expense,10.74,4/19/2026 6:39,Transport,Uber Ride,Ride or fuel cost,4/19/2026 8:08
+913,U05,income,648.36,4/21/2026 11:37,Freelance,Project Payment,Payment for completed work,4/21/2026 18:31
+914,U05,expense,3.18,4/21/2026 13:53,Transport,Fuel Purchase,Local transport expense,4/22/2026 4:15
+915,U05,expense,40.57,4/21/2026 18:20,Entertainment,Concert Ticket,Social outing expense,4/22/2026 19:59
+916,U05,expense,152.73,4/21/2026 20:16,Shopping,Electronics Purchase,Discretionary shopping expense,4/22/2026 8:50
+917,U05,expense,147.44,4/22/2026 11:27,Shopping,Clothing Store Purchase,Retail purchase,4/22/2026 13:12
+918,U05,expense,49.83,4/22/2026 21:17,Entertainment,Weekend Restaurant Visit,Social outing expense,4/23/2026 3:44
+919,U05,expense,6.7,4/24/2026 9:12,Food,Supermarket Grocery Purchase,Daily food spending,4/25/2026 19:48
+920,U05,expense,13.2,4/24/2026 18:48,Food,Restaurant Meal,Daily food spending,4/25/2026 12:31
+921,U05,expense,8.67,4/24/2026 23:55,Transport,Fuel Purchase,Commute or travel cost,4/25/2026 15:40
+922,U05,expense,136.18,4/25/2026 14:35,Savings,Savings Transfer,Routine savings allocation,4/26/2026 18:51
+923,U05,expense,13.84,4/26/2026 11:23,Other,ATM Withdrawal,Miscellaneous banking or cash-related entry,4/26/2026 12:37
+924,U05,expense,6.56,4/26/2026 17:40,Food,Lunch Purchase,,4/27/2026 4:03
+925,U05,income,188.99,4/28/2026 13:21,Freelance,Client Transfer,Client settlement transfer,4/29/2026 5:44
+926,U05,expense,8.7,4/29/2026 8:26,Transport,Taxi Fare,Ride or fuel cost,4/30/2026 3:03
+927,U05,expense,8.35,4/29/2026 9:16,Food,Supermarket Grocery Purchase,Daily food spending,4/30/2026 19:31
+928,U05,expense,18.59,4/30/2026 9:28,Food,Lunch Purchase,Groceries or meals,5/1/2026 20:05
+929,U05,expense,11.83,4/30/2026 17:23,Food,Café Order,Daily food spending,5/3/2026 7:18
+930,U05,expense,5.21,5/2/2026 8:34,Transport,Taxi Fare,Commute or travel cost,5/2/2026 10:33
+931,U05,expense,33.75,5/2/2026 22:14,Entertainment,Concert Ticket,Entertainment-related purchase,5/4/2026 6:25
+932,U05,expense,22.72,5/3/2026 12:51,Other,Bank Charge,Non-categorized expense,5/4/2026 0:37
+933,U05,expense,15.8,5/3/2026 17:51,Food,Lunch Purchase,Daily food spending,5/4/2026 7:56
+934,U05,expense,9.2,5/4/2026 11:34,Food,Café Order,Meal-related purchase,5/5/2026 10:13
+935,U05,expense,6.85,5/4/2026 23:26,Transport,Taxi Fare,Commute or travel cost,5/6/2026 2:01
+936,U05,income,661.75,5/5/2026 13:41,Freelance,Project Payment,Client settlement transfer,5/5/2026 20:28
+937,U05,expense,509.99,5/5/2026 14:31,Investment,Fund Purchase,,5/6/2026 9:26
+938,U05,expense,4.1,5/5/2026 14:53,Transport,Fuel Purchase,Ride or fuel cost,5/6/2026 0:17
+939,U05,expense,15.13,5/5/2026 17:11,Food,Restaurant Meal,Meal-related purchase,5/6/2026 0:02
+940,U05,income,1109.42,5/6/2026 12:58,Freelance,Freelance Payout,Client settlement transfer,5/7/2026 14:40
+941,U05,expense,169.99,5/7/2026 10:05,Shopping,Online Shopping,Discretionary shopping expense,5/8/2026 8:48
+942,U05,expense,3.47,5/8/2026 7:56,Transport,Taxi Fare,Local transport expense,5/9/2026 4:07
+943,U05,expense,5.24,5/8/2026 11:44,Transport,Metro Ticket,Commute or travel cost,5/11/2026 23:20
+944,U05,expense,28.93,5/8/2026 12:13,Healthcare,Doctor Visit,,5/9/2026 7:19
+945,U05,expense,13.06,5/8/2026 19:16,Food,Restaurant Meal,,5/9/2026 5:47
+946,U05,expense,12.43,5/9/2026 15:05,Food,Lunch Purchase,Meal-related purchase,5/10/2026 3:16
+947,U05,expense,18.69,5/9/2026 16:26,Food,Supermarket Grocery Purchase,,5/10/2026 5:32
+948,U05,expense,9.32,5/11/2026 16:18,Transport,Fuel Purchase,Ride or fuel cost,5/12/2026 22:40
+949,U05,expense,11.16,5/12/2026 8:30,Food,Lunch Purchase,Meal-related purchase,5/12/2026 18:47
+950,U05,expense,3.02,5/12/2026 13:17,Transport,Metro Ticket,Commute or travel cost,5/13/2026 10:40
+951,U05,expense,6.58,5/12/2026 19:07,Transport,Metro Ticket,Ride or fuel cost,5/14/2026 7:06
+952,U05,expense,6.53,5/13/2026 12:02,Food,Lunch Purchase,Meal-related purchase,5/14/2026 1:17
+953,U05,income,1263.2,5/13/2026 15:28,Salary,Salary Payment,,5/14/2026 4:51
+954,U05,expense,6.32,5/14/2026 8:23,Transport,Metro Ticket,Commute or travel cost,5/15/2026 23:34
+955,U05,income,1056.49,5/14/2026 14:43,Freelance,Project Payment,Project milestone payout,5/15/2026 3:43
+956,U05,expense,18.49,5/14/2026 17:31,Food,Café Order,,5/14/2026 22:32
+957,U05,expense,79.65,5/14/2026 19:00,Entertainment,Concert Ticket,Leisure or weekend spending,5/19/2026 9:52
+958,U05,expense,18.13,5/15/2026 14:41,Food,Lunch Purchase,,5/15/2026 14:55
+959,U05,expense,127.68,5/16/2026 11:23,Shopping,Household Shopping,,5/16/2026 22:02
+960,U05,expense,14.51,5/17/2026 15:35,Healthcare,Pharmacy Purchase,,5/18/2026 12:15
+961,U05,expense,8.42,5/18/2026 8:54,Transport,Taxi Fare,Local transport expense,5/18/2026 9:09
+962,U05,expense,7.3,5/18/2026 13:28,Food,Café Order,,5/20/2026 1:30
+963,U05,expense,19.36,5/18/2026 14:00,Other,Miscellaneous Expense,,5/18/2026 22:01
+964,U05,expense,8.59,5/18/2026 20:06,Transport,Metro Ticket,,5/19/2026 7:57
+965,U05,income,293.79,5/19/2026 14:35,Freelance,Project Payment,Client settlement transfer,5/19/2026 15:56
+966,U05,income,273.18,5/21/2026 19:55,Freelance,Freelance Payout,Payment for completed work,5/22/2026 0:50
+967,U05,expense,7.61,5/22/2026 8:13,Transport,Fuel Purchase,Commute or travel cost,5/23/2026 17:33
+968,U05,expense,184.01,5/23/2026 19:00,Shopping,Household Shopping,Discretionary shopping expense,5/24/2026 0:22
+969,U05,expense,7.78,5/23/2026 19:11,Food,Café Order,Meal-related purchase,5/25/2026 0:58
+970,U05,income,692.66,5/24/2026 10:15,Freelance,Client Transfer,Client settlement transfer,5/24/2026 15:06
+971,U05,expense,23.04,5/24/2026 17:40,Food,Restaurant Meal,Daily food spending,5/25/2026 22:00
+972,U05,expense,26.22,5/25/2026 8:18,Other,Service Fee,Small incidental cost,5/25/2026 14:29
+973,U05,income,426.53,5/25/2026 19:51,Freelance,Project Payment,Project milestone payout,5/25/2026 23:51
+974,U05,expense,28.16,5/26/2026 20:45,Other,Service Fee,Small incidental cost,5/27/2026 5:11
+975,U05,expense,28.79,5/28/2026 12:09,Food,Supermarket Grocery Purchase,Daily food spending,5/28/2026 12:50
+976,U05,expense,206.7,5/28/2026 17:41,Investment,Investment Transfer,Capital allocation,5/28/2026 22:28
+977,U05,expense,93.96,5/29/2026 13:29,Investment,Investment Transfer,,5/30/2026 12:33
+978,U05,expense,23.45,5/29/2026 14:55,Food,Restaurant Meal,Groceries or meals,5/30/2026 14:41
+979,U05,expense,332.96,5/31/2026 15:42,Savings,Emergency Fund Transfer,Routine savings allocation,6/1/2026 8:15
+980,U05,expense,20.96,5/31/2026 19:02,Entertainment,Streaming Subscription,,6/1/2026 18:19
+981,U05,expense,8.98,5/31/2026 21:37,Food,Lunch Purchase,,6/1/2026 18:44
+982,U05,expense,58.01,5/31/2026 22:24,Entertainment,Streaming Subscription,,6/1/2026 11:18
+983,U05,income,662.37,6/1/2026 10:39,Salary,Monthly Salary Deposit,Regular monthly paycheck,6/1/2026 11:19
+984,U05,expense,22.51,6/1/2026 15:24,Food,Restaurant Meal,Daily food spending,6/3/2026 2:17
+985,U05,expense,38.01,6/2/2026 19:08,Entertainment,Movie Ticket,Entertainment-related purchase,6/3/2026 16:48
+986,U05,income,911.37,6/3/2026 14:37,Freelance,Freelance Payout,Client settlement transfer,6/4/2026 4:38
+987,U05,income,452.06,6/4/2026 10:52,Salary,Salary Payment,Regular monthly paycheck,6/5/2026 14:41
+988,U05,expense,12.03,6/4/2026 14:20,Food,Café Order,Daily food spending,6/4/2026 18:42
+989,U05,expense,7.19,6/4/2026 21:45,Food,Supermarket Grocery Purchase,Daily food spending,6/6/2026 12:09
+990,U05,expense,6.02,6/6/2026 11:15,Food,Lunch Purchase,Daily food spending,6/6/2026 22:50
+991,U05,expense,150.19,6/6/2026 12:07,Shopping,Electronics Purchase,,6/7/2026 12:24
+992,U05,expense,32.58,6/6/2026 18:43,Food,Restaurant Meal,Groceries or meals,6/6/2026 22:38
+993,U05,expense,25.39,6/6/2026 18:56,Food,Supermarket Grocery Purchase,Groceries or meals,6/7/2026 18:58
+994,U05,expense,155.9,6/7/2026 14:19,Shopping,Clothing Store Purchase,Non-essential household or personal purchase,6/7/2026 18:23
+995,U05,expense,555.28,6/7/2026 15:42,Investment,Fund Purchase,,6/9/2026 2:01
+996,U05,expense,4.52,6/7/2026 18:23,Transport,Uber Ride,Ride or fuel cost,6/8/2026 1:32
+997,U05,income,318.16,6/7/2026 21:55,Freelance,Freelance Payout,,6/8/2026 3:00
+998,U05,expense,53.28,6/7/2026 22:18,Food,Supermarket Grocery Purchase,Daily food spending,6/8/2026 4:37
+999,U05,expense,14.77,6/9/2026 22:19,Other,Service Fee,Non-categorized expense,6/10/2026 4:43
+1000,U05,expense,140.76,6/9/2026 22:59,Shopping,Online Shopping,Non-essential household or personal purchase,6/10/2026 17:47
+1001,U05,expense,20.39,6/10/2026 12:05,Food,Café Order,Daily food spending,6/11/2026 1:39
+1002,U05,expense,5.21,6/11/2026 10:17,Transport,Taxi Fare,Commute or travel cost,6/11/2026 23:50
+1003,U05,expense,6.22,6/11/2026 22:15,Transport,Fuel Purchase,Local transport expense,6/12/2026 13:49
+1004,U05,expense,68.17,6/12/2026 19:16,Entertainment,Concert Ticket,,6/13/2026 1:21
+1005,U05,expense,11.6,6/12/2026 19:27,Food,Restaurant Meal,Meal-related purchase,6/14/2026 11:02
+1006,U05,expense,5.67,6/13/2026 8:26,Transport,Uber Ride,Commute or travel cost,6/14/2026 12:39
+1007,U05,expense,6.97,6/13/2026 19:45,Food,Supermarket Grocery Purchase,Daily food spending,6/14/2026 5:33
+1008,U05,income,447.6,6/14/2026 10:57,Freelance,Client Transfer,Payment for completed work,6/15/2026 0:19
+1009,U05,expense,45.1,6/14/2026 17:25,Healthcare,Pharmacy Purchase,Health-related purchase,6/15/2026 4:52
+1010,U05,expense,8.76,6/15/2026 9:23,Food,Restaurant Meal,Groceries or meals,6/15/2026 20:44
+1011,U05,expense,18.36,6/15/2026 17:52,Other,Bank Charge,,6/16/2026 2:29
+1012,U05,income,1101.59,6/16/2026 11:05,Gift,Family Gift,Gift or one-off received money,6/18/2026 0:50
+1013,U05,expense,14.7,6/16/2026 19:51,Food,Restaurant Meal,Groceries or meals,6/17/2026 6:29
+1014,U05,income,475.16,6/18/2026 13:03,Freelance,Client Transfer,Project milestone payout,6/18/2026 23:53
+1015,U05,expense,10.89,6/18/2026 14:31,Food,Lunch Purchase,Daily food spending,6/18/2026 21:55
+1016,U05,expense,18.16,6/18/2026 15:04,Food,Restaurant Meal,,6/18/2026 23:02
+1017,U05,expense,7.79,6/20/2026 7:29,Transport,Fuel Purchase,,6/20/2026 9:43
+1018,U05,income,272.66,6/21/2026 13:13,Freelance,Project Payment,Client settlement transfer,6/22/2026 3:13
+1019,U05,expense,5.23,6/22/2026 11:39,Transport,Taxi Fare,Local transport expense,6/22/2026 20:04
+1020,U05,expense,165.7,6/22/2026 15:48,Shopping,Online Shopping,Non-essential household or personal purchase,6/22/2026 16:39
+1021,U05,expense,11.54,6/23/2026 16:44,Food,Restaurant Meal,Meal-related purchase,6/23/2026 22:41
+1022,U05,income,448.09,6/23/2026 18:26,Freelance,Client Transfer,Project milestone payout,6/24/2026 1:57
+1023,U05,expense,3.2,6/25/2026 13:03,Transport,Taxi Fare,Local transport expense,6/27/2026 2:36
+1024,U05,expense,71.14,6/26/2026 21:08,Entertainment,Movie Ticket,,6/27/2026 21:14
+1025,U05,expense,26.18,6/27/2026 18:42,Food,Restaurant Meal,,6/28/2026 20:45
+1026,U05,expense,23.68,6/27/2026 20:47,Food,Supermarket Grocery Purchase,,6/28/2026 7:42
+1027,U05,expense,23.76,6/28/2026 9:26,Food,Restaurant Meal,Daily food spending,6/29/2026 15:16
+1028,U05,expense,62.15,6/28/2026 18:40,Entertainment,Streaming Subscription,Leisure or weekend spending,6/28/2026 21:58
+1029,U05,expense,17.94,6/29/2026 22:21,Food,Supermarket Grocery Purchase,Daily food spending,6/30/2026 3:39
+1030,U05,expense,7.9,6/30/2026 6:54,Transport,Metro Ticket,Commute or travel cost,6/30/2026 11:43
+1031,U06,expense,485.18,1/1/2026 11:00,Business,Sales Revenue,,1/1/2026 14:04
+1032,U06,income,1588.84,1/1/2026 13:51,Business,Business Income,,1/2/2026 13:48
+1033,U06,expense,25.82,1/2/2026 17:19,Food,Lunch Purchase,Groceries or meals,1/3/2026 17:47
+1034,U06,expense,100.5,1/4/2026 15:42,Shopping,Clothing Store Purchase,Non-essential household or personal purchase,1/7/2026 9:18
+1035,U06,income,1432.95,1/4/2026 16:35,Freelance,Project Payment,,1/5/2026 18:53
+1036,U06,income,1130.34,1/4/2026 18:36,Business,POS Settlement,,1/5/2026 4:11
+1037,U06,expense,926.47,1/4/2026 19:24,Business,POS Settlement,Business account inflow,1/5/2026 10:56
+1038,U06,expense,831.13,1/6/2026 15:01,Business,Sales Revenue,,1/7/2026 13:56
+1039,U06,income,1193.39,1/6/2026 18:14,Business,Business Income,Daily merchant settlement,1/10/2026 13:02
+1040,U06,expense,11.39,1/6/2026 19:00,Transport,Fuel Purchase,Commute or travel cost,1/8/2026 6:09
+1041,U06,expense,7.88,1/7/2026 12:11,Transport,Taxi Fare,Ride or fuel cost,1/7/2026 13:21
+1042,U06,income,1380.57,1/7/2026 19:54,Freelance,Client Transfer,Project milestone payout,1/7/2026 20:26
+1043,U06,expense,21.18,1/8/2026 14:17,Shopping,Clothing Store Purchase,,1/10/2026 11:11
+1044,U06,expense,4.96,1/9/2026 6:27,Transport,Taxi Fare,Local transport expense,1/9/2026 21:33
+1045,U06,expense,22.52,1/9/2026 11:07,Food,Café Order,Daily food spending,1/10/2026 11:47
+1046,U06,expense,584.28,1/10/2026 13:54,Savings,Emergency Fund Transfer,Routine savings allocation,1/11/2026 11:03
+1047,U06,expense,258.42,1/11/2026 9:32,Investment,Investment Transfer,Transfer into investments,1/11/2026 21:50
+1048,U06,expense,634.55,1/11/2026 14:22,Investment,Brokerage Deposit,Transfer into investments,1/12/2026 20:23
+1049,U06,income,670.64,1/11/2026 15:05,Business,Sales Revenue,Daily merchant settlement,1/11/2026 19:17
+1050,U06,expense,32.98,1/11/2026 19:37,Other,Miscellaneous Expense,,1/11/2026 21:16
+1051,U06,expense,6.42,1/12/2026 6:51,Transport,Metro Ticket,Commute or travel cost,1/17/2026 14:31
+1052,U06,expense,1599.39,1/12/2026 16:08,Business,Business Income,Business account inflow,1/13/2026 0:39
+1053,U06,expense,6.23,1/13/2026 9:07,Transport,Fuel Purchase,Commute or travel cost,1/14/2026 3:49
+1054,U06,expense,12.25,1/15/2026 13:58,Food,Lunch Purchase,Groceries or meals,1/16/2026 3:44
+1055,U06,expense,5.4,1/15/2026 22:39,Transport,Taxi Fare,Commute or travel cost,1/16/2026 10:51
+1056,U06,income,588.58,1/16/2026 14:02,Freelance,Project Payment,Project milestone payout,1/17/2026 4:03
+1057,U06,expense,1066.08,1/17/2026 9:15,Investment,Fund Purchase,Periodic portfolio contribution,1/17/2026 16:07
+1058,U06,income,725.17,1/17/2026 16:16,Business,Sales Revenue,Business account inflow,1/21/2026 2:59
+1059,U06,expense,133.74,1/17/2026 18:37,Utilities,Water Bill Payment,Monthly utility bill,1/22/2026 1:23
+1060,U06,expense,12.1,1/18/2026 11:20,Food,Supermarket Grocery Purchase,,1/19/2026 0:20
+1061,U06,expense,12.59,1/18/2026 12:54,Transport,Fuel Purchase,Local transport expense,1/19/2026 6:26
+1062,U06,expense,58.65,1/18/2026 18:43,Shopping,Online Shopping,,1/19/2026 9:28
+1063,U06,expense,288.85,1/19/2026 12:38,Shopping,Clothing Store Purchase,Retail purchase,1/20/2026 18:04
+1064,U06,expense,147.06,1/19/2026 15:27,Shopping,Online Shopping,,1/20/2026 1:11
+1065,U06,income,809.2,1/19/2026 15:37,Business,Sales Revenue,,1/22/2026 16:19
+1066,U06,expense,17.42,1/20/2026 19:47,Food,Lunch Purchase,Meal-related purchase,1/22/2026 7:51
+1067,U06,expense,9.38,1/21/2026 9:42,Transport,Fuel Purchase,Commute or travel cost,1/22/2026 10:39
+1068,U06,expense,6.81,1/21/2026 14:17,Transport,Fuel Purchase,Local transport expense,1/22/2026 10:17
+1069,U06,expense,25.02,1/22/2026 15:37,Food,Restaurant Meal,Groceries or meals,1/24/2026 6:54
+1070,U06,income,979.86,1/23/2026 19:29,Freelance,Project Payment,,1/24/2026 11:35
+1071,U06,income,350.68,1/24/2026 10:42,Business,Business Income,Business account inflow,1/25/2026 21:41
+1072,U06,expense,12.05,1/25/2026 19:13,Transport,Fuel Purchase,Local transport expense,1/27/2026 1:32
+1073,U06,expense,13.3,1/25/2026 19:35,Food,Restaurant Meal,,1/26/2026 6:35
+1074,U06,expense,11.99,1/26/2026 14:27,Other,Bank Charge,,1/26/2026 23:15
+1075,U06,income,507.43,1/26/2026 18:55,Business,POS Settlement,Revenue from sales and services,1/26/2026 21:53
+1076,U06,expense,111.63,1/27/2026 11:48,Shopping,Online Shopping,Retail purchase,2/1/2026 3:01
+1077,U06,expense,14.89,1/28/2026 10:05,Food,Lunch Purchase,Daily food spending,1/28/2026 14:24
+1078,U06,expense,7.76,1/28/2026 13:38,Food,Supermarket Grocery Purchase,,1/28/2026 15:35
+1079,U06,expense,13.98,1/28/2026 16:10,Food,Restaurant Meal,Meal-related purchase,1/29/2026 1:03
+1080,U06,expense,15.46,1/29/2026 12:35,Food,Café Order,Daily food spending,1/29/2026 16:40
+1081,U06,expense,19.86,1/29/2026 13:13,Food,Lunch Purchase,,1/30/2026 16:49
+1082,U06,expense,9.75,1/29/2026 13:38,Food,Restaurant Meal,Meal-related purchase,1/30/2026 14:12
+1083,U06,expense,1053.01,1/29/2026 14:28,Savings,Deposit to Savings,Transfer to savings,1/29/2026 21:36
+1084,U06,expense,28.42,1/29/2026 16:53,Food,Restaurant Meal,,2/4/2026 3:02
+1085,U06,expense,112.21,1/29/2026 20:06,Shopping,Household Shopping,,1/31/2026 6:16
+1086,U06,expense,6.79,1/31/2026 22:30,Transport,Uber Ride,Ride or fuel cost,2/1/2026 3:12
+1087,U06,expense,37.9,2/1/2026 16:36,Other,Service Fee,Non-categorized expense,2/2/2026 8:27
+1088,U06,income,513.09,2/3/2026 15:18,Business,Business Income,,2/4/2026 7:55
+1089,U06,income,1226.38,2/4/2026 9:42,Business,Business Income,Revenue from sales and services,2/5/2026 1:56
+1090,U06,income,965.19,2/6/2026 16:33,Business,Business Income,Revenue from sales and services,2/7/2026 16:05
+1091,U06,income,543.53,2/7/2026 10:11,Business,Sales Revenue,Daily merchant settlement,2/7/2026 18:19
+1092,U06,expense,668.59,2/7/2026 17:39,Business,Business Income,,2/8/2026 0:40
+1093,U06,expense,19.55,2/7/2026 18:29,Food,Restaurant Meal,Daily food spending,2/7/2026 21:42
+1094,U06,expense,19.01,2/9/2026 13:17,Other,Service Fee,Non-categorized expense,2/11/2026 11:11
+1095,U06,expense,7.54,2/9/2026 19:19,Food,Lunch Purchase,Meal-related purchase,2/10/2026 16:29
+1096,U06,expense,46.1,2/9/2026 19:22,Utilities,Water Bill Payment,,2/10/2026 5:23
+1097,U06,expense,146.56,2/10/2026 11:33,Shopping,Clothing Store Purchase,Retail purchase,2/16/2026 9:25
+1098,U06,expense,1000.08,2/10/2026 16:30,Business,Sales Revenue,,2/11/2026 16:37
+1099,U06,expense,22.73,2/11/2026 12:35,Food,Restaurant Meal,,2/12/2026 7:57
+1100,U06,income,1338.03,2/12/2026 17:12,Business,POS Settlement,,2/13/2026 10:42
+1101,U06,expense,11.64,2/13/2026 14:14,Transport,Uber Ride,,2/17/2026 8:41
+1102,U06,expense,350.69,2/13/2026 17:25,Savings,Emergency Fund Transfer,,2/14/2026 19:59
+1103,U06,expense,829.4,2/14/2026 16:42,Business,Business Income,,2/15/2026 3:42
+1104,U06,expense,66,2/14/2026 19:03,Shopping,Online Shopping,Discretionary shopping expense,2/15/2026 14:28
+1105,U06,expense,10.12,2/14/2026 20:23,Transport,Fuel Purchase,Local transport expense,2/15/2026 19:17
+1106,U06,expense,16.87,2/15/2026 19:33,Food,Supermarket Grocery Purchase,Meal-related purchase,2/16/2026 1:43
+1107,U06,expense,12.32,2/17/2026 14:02,Food,Lunch Purchase,Meal-related purchase,2/17/2026 22:52
+1108,U06,expense,11.18,2/18/2026 13:23,Transport,Uber Ride,,2/18/2026 22:03
+1109,U06,income,741.54,2/18/2026 17:30,Business,POS Settlement,Business account inflow,2/18/2026 19:47
+1110,U06,expense,40.75,2/19/2026 12:26,Shopping,Online Shopping,,2/22/2026 3:29
+1111,U06,expense,12.46,2/20/2026 9:31,Food,Lunch Purchase,Groceries or meals,2/20/2026 20:00
+1112,U06,expense,14.65,2/20/2026 14:12,Food,Café Order,Groceries or meals,2/20/2026 22:35
+1113,U06,income,1204.59,2/20/2026 18:13,Business,POS Settlement,Daily merchant settlement,2/21/2026 2:29
+1114,U06,expense,13.28,2/20/2026 20:45,Other,Service Fee,Miscellaneous banking or cash-related entry,2/21/2026 23:37
+1115,U06,expense,1456.75,2/22/2026 10:40,Investment,Brokerage Deposit,,2/23/2026 2:05
+1116,U06,expense,7.56,2/23/2026 23:19,Transport,Fuel Purchase,Commute or travel cost,2/24/2026 8:45
+1117,U06,income,1463.69,2/24/2026 11:40,Business,POS Settlement,Business account inflow,2/24/2026 22:14
+1118,U06,expense,34.95,2/24/2026 15:56,Other,Service Fee,Non-categorized expense,2/25/2026 17:09
+1119,U06,expense,304.6,2/25/2026 9:11,Business,Business Income,,2/26/2026 9:52
+1120,U06,income,341.07,2/25/2026 10:42,Business,Business Income,Business account inflow,2/27/2026 3:05
+1121,U06,expense,1497.73,2/25/2026 11:34,Investment,Fund Purchase,Periodic portfolio contribution,2/25/2026 22:18
+1122,U06,expense,184.23,2/25/2026 16:30,Investment,Fund Purchase,Capital allocation,2/26/2026 12:36
+1123,U06,expense,18.95,2/25/2026 18:00,Food,Restaurant Meal,,2/27/2026 6:26
+1124,U06,expense,8.19,2/25/2026 22:51,Transport,Uber Ride,,2/26/2026 2:51
+1125,U06,income,1186.93,2/26/2026 16:08,Business,Business Income,Revenue from sales and services,2/28/2026 9:34
+1126,U06,expense,27.05,2/26/2026 19:51,Shopping,Online Shopping,Non-essential household or personal purchase,2/26/2026 22:25
+1127,U06,expense,4.77,2/27/2026 7:46,Transport,Fuel Purchase,Local transport expense,2/27/2026 12:36
+1128,U06,income,1012.48,2/27/2026 16:54,Business,Sales Revenue,Daily merchant settlement,2/27/2026 17:11
+1129,U06,expense,149.49,2/27/2026 22:50,Shopping,Electronics Purchase,,2/28/2026 3:44
+1130,U06,expense,55.03,2/28/2026 14:42,Business,Sales Revenue,Business account inflow,2/28/2026 23:13
+1131,U06,expense,13.16,2/28/2026 16:59,Food,Lunch Purchase,Meal-related purchase,3/1/2026 7:03
+1132,U06,expense,1797.89,3/1/2026 9:28,Business,POS Settlement,Business account inflow,3/2/2026 16:31
+1133,U06,expense,11.54,3/1/2026 10:27,Transport,Fuel Purchase,Local transport expense,3/1/2026 16:04
+1134,U06,expense,1885.27,3/1/2026 14:57,Business,POS Settlement,,3/2/2026 7:19
+1135,U06,income,1093.2,3/2/2026 13:06,Business,Business Income,Revenue from sales and services,3/2/2026 13:50
+1136,U06,expense,4.67,3/3/2026 21:05,Transport,Taxi Fare,Commute or travel cost,3/4/2026 14:40
+1137,U06,expense,1425.34,3/4/2026 11:50,Business,POS Settlement,Revenue from sales and services,3/4/2026 12:58
+1138,U06,expense,13.25,3/5/2026 8:50,Food,Lunch Purchase,,3/6/2026 15:13
+1139,U06,expense,8.7,3/5/2026 10:02,Food,Lunch Purchase,,3/6/2026 4:50
+1140,U06,expense,5.31,3/5/2026 11:17,Transport,Taxi Fare,Ride or fuel cost,3/6/2026 4:55
+1141,U06,expense,403.81,3/5/2026 16:09,Savings,Savings Transfer,Emergency reserve top-up,3/9/2026 1:09
+1142,U06,income,3044.68,3/6/2026 10:58,Business,Sales Revenue,Daily merchant settlement,3/7/2026 6:07
+1143,U06,expense,5.51,3/6/2026 13:09,Transport,Uber Ride,,3/7/2026 4:40
+1144,U06,expense,30.14,3/7/2026 8:36,Food,Lunch Purchase,Daily food spending,3/8/2026 0:59
+1145,U06,expense,15.65,3/7/2026 14:11,Food,Supermarket Grocery Purchase,Meal-related purchase,3/9/2026 2:29
+1146,U06,income,956.25,3/7/2026 19:14,Business,Business Income,,3/9/2026 0:55
+1147,U06,expense,1802.3,3/7/2026 19:42,Business,Sales Revenue,Revenue from sales and services,3/8/2026 3:30
+1148,U06,expense,44.11,3/8/2026 14:57,Shopping,Household Shopping,,3/10/2026 0:37
+1149,U06,expense,29.33,3/9/2026 14:47,Food,Lunch Purchase,Groceries or meals,3/10/2026 3:36
+1150,U06,income,3697.48,3/9/2026 15:44,Business,Sales Revenue,,3/10/2026 2:21
+1151,U06,income,1398.13,3/10/2026 10:43,Business,Sales Revenue,,3/11/2026 18:25
+1152,U06,expense,1396.61,3/10/2026 17:57,Business,POS Settlement,Revenue from sales and services,3/11/2026 8:06
+1153,U06,income,763.34,3/11/2026 12:31,Business,Business Income,Business account inflow,3/12/2026 14:24
+1154,U06,expense,748.81,3/14/2026 17:29,Savings,Savings Transfer,,3/15/2026 20:06
+1155,U06,expense,26.6,3/15/2026 22:20,Food,Restaurant Meal,Daily food spending,3/16/2026 5:07
+1156,U06,expense,24.38,3/16/2026 18:53,Food,Supermarket Grocery Purchase,Daily food spending,3/17/2026 15:51
+1157,U06,expense,21.84,3/16/2026 20:31,Food,Lunch Purchase,,3/17/2026 20:41
+1158,U06,expense,10.95,3/18/2026 10:01,Food,Restaurant Meal,,3/19/2026 6:19
+1159,U06,expense,21.33,3/18/2026 10:17,Food,Café Order,Groceries or meals,3/18/2026 15:20
+1160,U06,expense,35.71,3/18/2026 15:41,Other,Miscellaneous Expense,Small incidental cost,3/19/2026 9:58
+1161,U06,expense,85.45,3/19/2026 12:07,Shopping,Clothing Store Purchase,Discretionary shopping expense,3/23/2026 21:33
+1162,U06,expense,4.91,3/19/2026 13:42,Transport,Fuel Purchase,,3/19/2026 23:31
+1163,U06,expense,24.72,3/19/2026 21:12,Food,Restaurant Meal,Meal-related purchase,3/20/2026 2:03
+1164,U06,income,600.25,3/20/2026 12:56,Gift,Birthday Gift,,3/20/2026 14:36
+1165,U06,expense,125.92,3/20/2026 15:57,Shopping,Electronics Purchase,Non-essential household or personal purchase,3/21/2026 4:01
+1166,U06,expense,16.33,3/22/2026 7:18,Food,Supermarket Grocery Purchase,Daily food spending,3/22/2026 13:43
+1167,U06,income,875.47,3/23/2026 13:48,Salary,Salary Payment,Regular monthly paycheck,3/25/2026 3:34
+1168,U06,income,421.71,3/24/2026 14:37,Business,Sales Revenue,Revenue from sales and services,3/24/2026 20:51
+1169,U06,expense,8.91,3/24/2026 17:13,Food,Supermarket Grocery Purchase,,3/25/2026 2:13
+1170,U06,expense,13.61,3/26/2026 21:23,Food,Lunch Purchase,Daily food spending,3/27/2026 17:12
+1171,U06,expense,13.6,3/27/2026 14:47,Food,Restaurant Meal,,3/28/2026 19:12
+1172,U06,expense,816.48,3/27/2026 14:56,Savings,Deposit to Savings,Routine savings allocation,3/28/2026 6:05
+1173,U06,income,661.41,3/27/2026 17:32,Business,POS Settlement,Business account inflow,3/29/2026 1:33
+1174,U06,expense,308.45,3/27/2026 18:02,Investment,Investment Transfer,Transfer into investments,3/29/2026 17:23
+1175,U06,income,1180.39,3/28/2026 17:06,Business,POS Settlement,Business account inflow,3/31/2026 3:22
+1176,U06,expense,27.78,3/29/2026 17:17,Shopping,Online Shopping,Retail purchase,3/30/2026 16:34
+1177,U06,income,737.16,3/30/2026 10:45,Business,Sales Revenue,Business account inflow,3/30/2026 23:55
+1178,U06,income,915.88,3/31/2026 11:48,Business,Sales Revenue,,4/3/2026 16:43
+1179,U06,income,370.9,4/1/2026 10:29,Freelance,Client Transfer,,4/2/2026 21:42
+1180,U06,expense,1062.19,4/1/2026 12:13,Investment,Brokerage Deposit,,4/1/2026 15:55
+1181,U06,expense,1135.16,4/1/2026 12:26,Investment,Fund Purchase,Transfer into investments,4/1/2026 14:42
+1182,U06,expense,934.28,4/2/2026 16:50,Business,Sales Revenue,Business account inflow,4/3/2026 20:13
+1183,U06,income,414.88,4/3/2026 19:14,Business,Sales Revenue,Daily merchant settlement,4/5/2026 8:12
+1184,U06,expense,5.58,4/3/2026 22:28,Transport,Fuel Purchase,Ride or fuel cost,4/4/2026 15:04
+1185,U06,income,1130.16,4/5/2026 10:18,Business,POS Settlement,Revenue from sales and services,4/6/2026 3:17
+1186,U06,expense,9.04,4/5/2026 12:03,Food,Supermarket Grocery Purchase,Groceries or meals,4/5/2026 14:26
+1187,U06,expense,838.39,4/6/2026 11:39,Savings,Savings Transfer,,4/7/2026 6:19
+1188,U06,expense,28.35,4/7/2026 9:03,Food,Lunch Purchase,,4/7/2026 16:45
+1189,U06,income,774.88,4/7/2026 11:38,Business,POS Settlement,,4/8/2026 6:58
+1190,U06,expense,475.34,4/7/2026 16:09,Business,POS Settlement,Revenue from sales and services,4/8/2026 0:25
+1191,U06,expense,9.9,4/8/2026 11:58,Transport,Metro Ticket,Ride or fuel cost,4/8/2026 17:04
+1192,U06,expense,7.42,4/9/2026 8:40,Transport,Taxi Fare,Ride or fuel cost,4/9/2026 11:29
+1193,U06,expense,10.86,4/9/2026 11:19,Transport,Taxi Fare,Commute or travel cost,4/9/2026 23:02
+1194,U06,income,1204.71,4/9/2026 13:40,Freelance,Client Transfer,Client settlement transfer,4/10/2026 21:28
+1195,U06,expense,41.73,4/9/2026 18:08,Other,Bank Charge,,4/9/2026 22:37
+1196,U06,expense,7.46,4/9/2026 20:05,Transport,Taxi Fare,,4/10/2026 19:04
+1197,U06,income,740.4,4/10/2026 16:30,Business,Business Income,Revenue from sales and services,4/10/2026 22:14
+1198,U06,income,3842.62,4/10/2026 19:33,Business,POS Settlement,Revenue from sales and services,4/11/2026 8:30
+1199,U06,income,2870.52,4/11/2026 19:07,Business,POS Settlement,Business account inflow,4/12/2026 8:31
+1200,U06,expense,1723.56,4/12/2026 13:01,Business,Sales Revenue,Business account inflow,4/13/2026 2:06
+1201,U06,expense,140.16,4/14/2026 12:20,Business,POS Settlement,Business account inflow,4/14/2026 22:51
+1202,U06,expense,10.23,4/15/2026 10:51,Transport,Uber Ride,Commute or travel cost,4/15/2026 22:33
+1203,U06,income,725.3,4/15/2026 11:28,Business,Business Income,Daily merchant settlement,4/16/2026 14:10
+1204,U06,expense,346.05,4/16/2026 9:15,Business,POS Settlement,Daily merchant settlement,4/17/2026 4:52
+1205,U06,expense,13.16,4/17/2026 9:02,Other,Bank Charge,Non-categorized expense,4/18/2026 10:45
+1206,U06,expense,21.68,4/17/2026 10:41,Food,Lunch Purchase,Groceries or meals,4/18/2026 14:25
+1207,U06,expense,386.45,4/17/2026 14:58,Business,Business Income,Revenue from sales and services,4/18/2026 12:58
+1208,U06,expense,12.17,4/19/2026 9:52,Food,Supermarket Grocery Purchase,,4/22/2026 8:17
+1209,U06,expense,108.6,4/19/2026 15:37,Shopping,Electronics Purchase,Discretionary shopping expense,4/20/2026 8:12
+1210,U06,expense,23.55,4/19/2026 15:42,Food,Supermarket Grocery Purchase,,4/21/2026 0:46
+1211,U06,expense,12.22,4/19/2026 16:02,Food,Lunch Purchase,Daily food spending,4/20/2026 18:43
+1212,U06,expense,26.96,4/20/2026 13:32,Food,Supermarket Grocery Purchase,,4/20/2026 14:38
+1213,U06,expense,159.4,4/20/2026 16:58,Shopping,Household Shopping,Retail purchase,4/21/2026 9:13
+1214,U06,expense,34.82,4/21/2026 9:39,Other,Miscellaneous Expense,,4/21/2026 11:00
+1215,U06,expense,23.72,4/21/2026 10:36,Food,Lunch Purchase,Daily food spending,4/22/2026 12:57
+1216,U06,expense,37.33,4/22/2026 14:21,Other,ATM Withdrawal,Miscellaneous banking or cash-related entry,4/22/2026 19:45
+1217,U06,expense,40.77,4/22/2026 19:09,Utilities,Internet Bill Payment,Service bill settlement,4/24/2026 0:21
+1218,U06,expense,20.25,4/23/2026 7:57,Food,Lunch Purchase,Daily food spending,4/23/2026 23:16
+1219,U06,expense,759.17,4/23/2026 10:45,Savings,Emergency Fund Transfer,,4/23/2026 18:14
+1220,U06,expense,64.6,4/23/2026 12:03,Shopping,Electronics Purchase,,4/23/2026 13:04
+1221,U06,expense,86.67,4/24/2026 22:43,Food,Supermarket Grocery Purchase,Groceries or meals,4/25/2026 0:45
+1222,U06,income,452.35,4/25/2026 19:11,Business,Business Income,Revenue from sales and services,4/25/2026 20:26
+1223,U06,expense,398.44,4/26/2026 12:24,Shopping,Electronics Purchase,Retail purchase,4/26/2026 14:01
+1224,U06,expense,684.37,4/26/2026 19:30,Business,Sales Revenue,Business account inflow,4/27/2026 15:31
+1225,U06,income,758.07,4/27/2026 15:16,Business,Business Income,Daily merchant settlement,4/28/2026 8:33
+1226,U06,expense,1322.48,4/27/2026 15:54,Business,Business Income,Revenue from sales and services,4/28/2026 0:48
+1227,U06,expense,15.42,4/28/2026 21:27,Food,Supermarket Grocery Purchase,,4/29/2026 1:22
+1228,U06,expense,16.41,4/29/2026 8:14,Food,Supermarket Grocery Purchase,Meal-related purchase,5/4/2026 3:31
+1229,U06,income,1174.38,4/29/2026 9:40,Business,POS Settlement,Revenue from sales and services,4/29/2026 18:09
+1230,U06,expense,101.03,4/30/2026 14:25,Shopping,Household Shopping,,5/2/2026 7:36
+1231,U06,expense,79.1,4/30/2026 17:58,Shopping,Clothing Store Purchase,,4/30/2026 20:16
+1232,U06,income,418.94,5/2/2026 14:32,Business,POS Settlement,Business account inflow,5/3/2026 8:22
+1233,U06,expense,26.86,5/2/2026 17:17,Food,Supermarket Grocery Purchase,Meal-related purchase,5/4/2026 8:44
+1234,U06,expense,1840.52,5/4/2026 14:08,Business,Business Income,Revenue from sales and services,5/4/2026 14:35
+1235,U06,expense,1908.42,5/6/2026 19:21,Business,POS Settlement,Business account inflow,5/6/2026 20:58
+1236,U06,income,1120.86,5/6/2026 21:37,Freelance,Client Transfer,,5/7/2026 19:41
+1237,U06,expense,128.37,5/10/2026 19:03,Shopping,Online Shopping,Retail purchase,5/11/2026 22:02
+1238,U06,expense,5.04,5/11/2026 11:59,Transport,Fuel Purchase,,5/11/2026 18:16
+1239,U06,income,763.72,5/11/2026 16:42,Freelance,Client Transfer,,5/11/2026 23:27
+1240,U06,expense,221,5/12/2026 11:40,Shopping,Household Shopping,Non-essential household or personal purchase,5/13/2026 7:44
+1241,U06,income,936.14,5/12/2026 11:56,Business,POS Settlement,Revenue from sales and services,5/13/2026 13:52
+1242,U06,expense,5.87,5/12/2026 13:34,Transport,Fuel Purchase,Commute or travel cost,5/13/2026 9:13
+1243,U06,expense,1000.81,5/13/2026 9:43,Business,Business Income,Daily merchant settlement,5/15/2026 0:58
+1244,U06,expense,700.55,5/13/2026 12:49,Savings,Savings Transfer,Transfer to savings,5/18/2026 23:32
+1245,U06,expense,510.58,5/13/2026 18:49,Business,POS Settlement,Daily merchant settlement,5/15/2026 1:08
+1246,U06,expense,3.53,5/13/2026 19:41,Transport,Taxi Fare,,5/14/2026 7:09
+1247,U06,expense,22.69,5/14/2026 21:58,Food,Restaurant Meal,Groceries or meals,5/16/2026 1:40
+1248,U06,expense,14.82,5/16/2026 12:52,Other,Service Fee,Miscellaneous banking or cash-related entry,5/17/2026 3:32
+1249,U06,income,2094.01,5/16/2026 13:06,Business,Sales Revenue,Business account inflow,5/16/2026 13:14
+1250,U06,income,1873.1,5/16/2026 13:54,Business,Sales Revenue,,5/17/2026 12:08
+1251,U06,income,892.63,5/16/2026 18:43,Business,Sales Revenue,Business account inflow,5/17/2026 15:35
+1252,U06,expense,16.38,5/18/2026 12:56,Food,Lunch Purchase,,5/18/2026 18:44
+1253,U06,expense,19.05,5/18/2026 20:25,Food,Café Order,Groceries or meals,5/19/2026 4:14
+1254,U06,income,201.12,5/19/2026 19:21,Business,Business Income,Revenue from sales and services,5/20/2026 8:12
+1255,U06,income,564.04,5/22/2026 17:15,Freelance,Project Payment,,5/23/2026 1:08
+1256,U06,expense,8.43,5/22/2026 19:30,Transport,Taxi Fare,,5/23/2026 5:05
+1257,U06,expense,11.83,5/23/2026 16:01,Food,Restaurant Meal,Meal-related purchase,5/24/2026 13:47
+1258,U06,income,940.17,5/25/2026 19:47,Business,POS Settlement,Business account inflow,5/26/2026 0:25
+1259,U06,income,1425.5,5/27/2026 12:55,Business,POS Settlement,Daily merchant settlement,5/28/2026 9:51
+1260,U06,expense,23.1,5/28/2026 21:39,Food,Café Order,,5/29/2026 13:16
+1261,U06,income,570.17,5/29/2026 17:04,Business,POS Settlement,Revenue from sales and services,5/30/2026 23:07
+1262,U06,expense,16.61,5/29/2026 18:11,Shopping,Electronics Purchase,Non-essential household or personal purchase,5/29/2026 23:43
+1263,U06,expense,998.9,5/30/2026 13:20,Savings,Emergency Fund Transfer,Transfer to savings,5/31/2026 23:04
+1264,U06,expense,8.1,5/30/2026 22:32,Food,Restaurant Meal,,5/31/2026 2:03
+1265,U06,expense,42.06,5/31/2026 8:48,Other,Service Fee,Non-categorized expense,5/31/2026 18:21
+1266,U06,expense,74.73,6/1/2026 9:41,Healthcare,Pharmacy Purchase,Clinic or medicine payment,6/2/2026 20:37
+1267,U06,expense,11.4,6/3/2026 19:23,Transport,Uber Ride,Local transport expense,6/4/2026 4:56
+1268,U06,expense,121.42,6/3/2026 22:36,Shopping,Clothing Store Purchase,Retail purchase,6/4/2026 17:02
+1269,U06,expense,881.66,6/4/2026 9:44,Business,Business Income,,6/5/2026 13:05
+1270,U06,expense,60.51,6/5/2026 7:21,Food,Supermarket Grocery Purchase,Groceries or meals,6/5/2026 23:21
+1271,U06,income,350.6,6/5/2026 13:13,Business,Business Income,Daily merchant settlement,6/6/2026 2:47
+1272,U06,expense,4.18,6/5/2026 13:47,Transport,Fuel Purchase,Ride or fuel cost,6/6/2026 8:57
+1273,U06,income,441.96,6/7/2026 15:26,Business,Sales Revenue,Business account inflow,6/7/2026 17:15
+1274,U06,expense,25.65,6/9/2026 20:41,Food,Restaurant Meal,,6/13/2026 10:06
+1275,U06,expense,86.54,6/10/2026 19:39,Shopping,Clothing Store Purchase,Discretionary shopping expense,6/10/2026 20:16
+1276,U06,expense,4.57,6/11/2026 10:08,Transport,Fuel Purchase,Local transport expense,6/11/2026 22:49
+1277,U06,expense,79.49,6/11/2026 16:05,Shopping,Electronics Purchase,Retail purchase,6/12/2026 11:34
+1278,U06,income,413.72,6/12/2026 18:04,Freelance,Client Transfer,,6/17/2026 13:08
+1279,U06,expense,11.79,6/13/2026 16:12,Transport,Uber Ride,Commute or travel cost,6/15/2026 12:16
+1280,U06,expense,23.7,6/13/2026 17:09,Food,Café Order,,6/14/2026 13:52
+1281,U06,expense,14.29,6/15/2026 20:59,Other,Service Fee,Small incidental cost,6/15/2026 22:19
+1282,U06,expense,166.44,6/16/2026 16:36,Shopping,Electronics Purchase,,6/17/2026 12:06
+1283,U06,income,1156.03,6/17/2026 11:47,Business,POS Settlement,,6/18/2026 5:31
+1284,U06,expense,668.41,6/17/2026 16:06,Business,POS Settlement,,6/18/2026 13:44
+1285,U06,expense,19.32,6/17/2026 21:02,Food,Supermarket Grocery Purchase,,6/18/2026 19:44
+1286,U06,income,419.3,6/18/2026 14:45,Freelance,Client Transfer,Project milestone payout,6/18/2026 21:55
+1287,U06,expense,914.99,6/18/2026 16:06,Savings,Savings Transfer,,6/18/2026 23:04
+1288,U06,income,201.86,6/19/2026 17:54,Freelance,Freelance Payout,Payment for completed work,6/20/2026 11:45
+1289,U06,expense,67.78,6/20/2026 8:06,Utilities,Electricity Bill Payment,Household bill payment,6/20/2026 10:20
+1290,U06,expense,20.01,6/20/2026 8:35,Food,Café Order,Meal-related purchase,6/21/2026 1:49
+1291,U06,income,2020.28,6/21/2026 10:38,Salary,Payroll Credit,Employer salary deposit,6/22/2026 21:16
+1292,U06,income,1505.4,6/21/2026 14:36,Business,Sales Revenue,Business account inflow,6/21/2026 21:09
+1293,U06,expense,833.49,6/21/2026 19:25,Business,POS Settlement,,6/21/2026 23:26
+1294,U06,expense,7.19,6/22/2026 6:35,Transport,Metro Ticket,Commute or travel cost,6/23/2026 1:57
+1295,U06,income,1110.08,6/22/2026 16:34,Freelance,Client Transfer,,6/23/2026 19:44
+1296,U06,expense,116.77,6/22/2026 18:05,Investment,Fund Purchase,,6/23/2026 8:34
+1297,U06,expense,10.2,6/22/2026 21:50,Transport,Taxi Fare,,6/23/2026 6:30
+1298,U06,expense,4.69,6/22/2026 22:40,Transport,Taxi Fare,Local transport expense,6/23/2026 4:47
+1299,U06,expense,339.2,6/25/2026 12:44,Business,Sales Revenue,,6/25/2026 15:50
+1300,U06,income,1539.43,6/26/2026 19:03,Business,POS Settlement,Business account inflow,6/26/2026 21:51
+1301,U06,expense,14.44,6/27/2026 14:31,Other,Miscellaneous Expense,Small incidental cost,6/28/2026 4:38
+1302,U06,income,1721.69,6/27/2026 15:27,Freelance,Project Payment,Client settlement transfer,6/28/2026 11:33
+1303,U06,income,644.53,6/28/2026 10:43,Business,Business Income,Revenue from sales and services,6/28/2026 21:56
+1304,U06,expense,5.17,6/28/2026 14:07,Transport,Taxi Fare,Ride or fuel cost,6/30/2026 9:22
+1305,U06,expense,4.51,6/28/2026 22:07,Transport,Fuel Purchase,Commute or travel cost,6/29/2026 8:08
+1306,U06,expense,29.22,6/29/2026 8:21,Food,Restaurant Meal,Meal-related purchase,6/30/2026 1:42
+1307,U06,expense,5.79,6/29/2026 17:31,Transport,Uber Ride,Ride or fuel cost,6/29/2026 22:42
+1308,U06,expense,921.92,6/29/2026 19:46,Business,Business Income,Business account inflow,6/30/2026 19:35
+1309,U06,expense,1824.96,6/30/2026 16:02,Business,Sales Revenue,Daily merchant settlement,7/1/2026 6:31
+1310,U06,expense,10.43,6/30/2026 16:38,Transport,Metro Ticket,,6/30/2026 22:27
+1311,U07,income,3489.29,1/1/2026 13:59,Salary,Payroll Credit,,1/2/2026 9:56
+1312,U07,expense,3.64,1/4/2026 17:35,Food,Café Order,Meal-related purchase,1/5/2026 19:03
+1313,U07,expense,201.58,1/5/2026 12:35,Rent,Apartment Rent,,1/6/2026 5:10
+1314,U07,expense,0.43,1/7/2026 6:43,Transport,Metro Ticket,Commute or travel cost,1/7/2026 17:46
+1315,U07,expense,4.16,1/7/2026 20:19,Food,Restaurant Meal,Daily food spending,1/8/2026 17:04
+1316,U07,expense,0.45,1/8/2026 23:29,Transport,Uber Ride,Ride or fuel cost,1/9/2026 7:53
+1317,U07,expense,2.18,1/9/2026 16:55,Other,Service Fee,Miscellaneous banking or cash-related entry,1/10/2026 0:55
+1318,U07,expense,15.6,1/10/2026 9:18,Utilities,Water Bill Payment,,1/11/2026 17:10
+1319,U07,expense,4.07,1/11/2026 7:36,Food,Restaurant Meal,Meal-related purchase,1/11/2026 21:25
+1320,U07,expense,463.42,1/11/2026 12:21,Investment,Fund Purchase,Capital allocation,1/11/2026 18:12
+1321,U07,expense,3.03,1/13/2026 17:40,Food,Restaurant Meal,Daily food spending,1/14/2026 23:14
+1322,U07,expense,1.05,1/15/2026 15:17,Transport,Fuel Purchase,,1/16/2026 9:23
+1323,U07,expense,1.01,1/16/2026 16:13,Transport,Fuel Purchase,,1/17/2026 18:53
+1324,U07,expense,854.67,1/19/2026 13:31,Savings,Emergency Fund Transfer,,1/19/2026 15:05
+1325,U07,expense,3.27,1/22/2026 20:23,Food,Lunch Purchase,Meal-related purchase,1/23/2026 17:25
+1326,U07,expense,2.31,1/23/2026 8:49,Food,Lunch Purchase,Daily food spending,1/23/2026 17:10
+1327,U07,expense,2.06,1/23/2026 18:28,Food,Lunch Purchase,Meal-related purchase,1/24/2026 12:14
+1328,U07,expense,348.87,1/25/2026 9:50,Savings,Emergency Fund Transfer,Emergency reserve top-up,1/26/2026 6:23
+1329,U07,expense,508.3,2/1/2026 11:49,Investment,Investment Transfer,Transfer into investments,2/1/2026 14:58
+1330,U07,income,3967.17,2/1/2026 20:42,Freelance,Client Transfer,Project milestone payout,2/2/2026 3:26
+1331,U07,expense,158.38,2/2/2026 15:14,Rent,Monthly Rent Payment,Housing payment for the month,2/6/2026 12:21
+1332,U07,expense,492.09,2/3/2026 12:06,Savings,Emergency Fund Transfer,,2/3/2026 19:01
+1333,U07,expense,499.99,2/3/2026 12:34,Investment,Investment Transfer,Transfer into investments,2/5/2026 0:36
+1334,U07,expense,1.24,2/4/2026 12:02,Food,Supermarket Grocery Purchase,Meal-related purchase,2/4/2026 12:30
+1335,U07,expense,3.2,2/5/2026 9:48,Food,Supermarket Grocery Purchase,Groceries or meals,2/5/2026 22:58
+1336,U07,expense,4.19,2/8/2026 10:37,Food,Restaurant Meal,Meal-related purchase,2/9/2026 7:47
+1337,U07,expense,4.17,2/8/2026 22:31,Shopping,Household Shopping,Retail purchase,2/9/2026 15:30
+1338,U07,expense,1.41,2/9/2026 9:53,Other,ATM Withdrawal,Non-categorized expense,2/9/2026 13:36
+1339,U07,expense,430.12,2/10/2026 17:19,Savings,Deposit to Savings,Routine savings allocation,2/10/2026 19:16
+1340,U07,expense,457.84,2/11/2026 14:33,Savings,Deposit to Savings,Emergency reserve top-up,2/11/2026 17:32
+1341,U07,expense,1.7,2/11/2026 17:01,Transport,Taxi Fare,Local transport expense,2/12/2026 19:29
+1342,U07,expense,0.86,2/12/2026 17:37,Transport,Uber Ride,Local transport expense,2/13/2026 14:16
+1343,U07,expense,3.76,2/12/2026 19:11,Food,Lunch Purchase,Meal-related purchase,2/13/2026 23:10
+1344,U07,expense,3.26,2/14/2026 21:05,Food,Café Order,,2/14/2026 22:29
+1345,U07,expense,2.11,2/17/2026 10:19,Food,Restaurant Meal,Groceries or meals,2/17/2026 19:47
+1346,U07,expense,4.2,2/17/2026 16:25,Food,Café Order,Daily food spending,2/18/2026 8:22
+1347,U07,expense,2.87,2/19/2026 10:08,Other,ATM Withdrawal,,2/19/2026 12:03
+1348,U07,expense,1.57,2/20/2026 12:04,Food,Café Order,,2/21/2026 13:51
+1349,U07,expense,7,2/20/2026 14:30,Utilities,Internet Bill Payment,Monthly utility bill,2/21/2026 0:23
+1350,U07,expense,3.07,2/20/2026 15:41,Shopping,Online Shopping,Non-essential household or personal purchase,2/21/2026 12:22
+1351,U07,expense,2.55,2/23/2026 7:10,Food,Café Order,Meal-related purchase,2/24/2026 6:39
+1352,U07,expense,1.4,2/23/2026 18:12,Food,Restaurant Meal,Groceries or meals,2/24/2026 3:53
+1353,U07,expense,215.24,2/24/2026 10:33,Savings,Deposit to Savings,Emergency reserve top-up,2/25/2026 8:10
+1354,U07,expense,4,2/24/2026 18:22,Food,Lunch Purchase,Daily food spending,2/25/2026 3:28
+1355,U07,expense,6.14,2/24/2026 19:26,Food,Café Order,Daily food spending,2/26/2026 4:06
+1356,U07,expense,1.13,2/24/2026 20:07,Transport,Taxi Fare,,2/25/2026 20:47
+1357,U07,expense,0.71,2/28/2026 16:16,Other,ATM Withdrawal,,3/1/2026 14:07
+1358,U07,income,2499.63,3/1/2026 11:10,Salary,Salary Payment,Scheduled salary payment,3/1/2026 15:06
+1359,U07,expense,2.96,3/2/2026 7:33,Food,Café Order,,3/3/2026 20:50
+1360,U07,expense,3.15,3/2/2026 10:29,Food,Café Order,,3/4/2026 0:24
+1361,U07,expense,1.17,3/3/2026 13:03,Food,Supermarket Grocery Purchase,,3/3/2026 19:52
+1362,U07,expense,1.18,3/3/2026 18:13,Transport,Uber Ride,Ride or fuel cost,3/3/2026 20:38
+1363,U07,expense,3.99,3/3/2026 22:31,Food,Café Order,Daily food spending,3/4/2026 15:40
+1364,U07,expense,0.77,3/4/2026 7:57,Transport,Uber Ride,Commute or travel cost,3/4/2026 18:35
+1365,U07,expense,413.41,3/4/2026 10:40,Savings,Savings Transfer,,3/4/2026 23:26
+1366,U07,expense,2.6,3/4/2026 15:30,Other,Bank Charge,Non-categorized expense,3/6/2026 4:15
+1367,U07,expense,122.02,3/4/2026 15:33,Rent,Monthly Rent Payment,Housing payment for the month,3/4/2026 23:00
+1368,U07,expense,6.22,3/6/2026 10:50,Healthcare,Pharmacy Purchase,Medical or pharmacy expense,3/6/2026 20:46
+1369,U07,expense,3.53,3/6/2026 11:42,Food,Supermarket Grocery Purchase,Meal-related purchase,3/6/2026 21:32
+1370,U07,expense,1.37,3/8/2026 20:10,Transport,Fuel Purchase,Ride or fuel cost,3/13/2026 19:48
+1371,U07,expense,215.99,3/10/2026 10:49,Savings,Emergency Fund Transfer,Emergency reserve top-up,3/11/2026 6:58
+1372,U07,expense,327.28,3/10/2026 10:54,Investment,Brokerage Deposit,Periodic portfolio contribution,3/10/2026 22:50
+1373,U07,expense,5.06,3/12/2026 14:59,Shopping,Household Shopping,Non-essential household or personal purchase,3/13/2026 2:13
+1374,U07,expense,0.65,3/12/2026 16:21,Transport,Uber Ride,Local transport expense,3/13/2026 13:30
+1375,U07,expense,4.22,3/13/2026 22:32,Food,Supermarket Grocery Purchase,Groceries or meals,3/14/2026 0:51
+1376,U07,expense,236.65,3/14/2026 11:16,Savings,Savings Transfer,Transfer to savings,3/15/2026 17:37
+1377,U07,expense,0.68,3/16/2026 14:27,Transport,Uber Ride,,3/21/2026 6:30
+1378,U07,expense,12.27,3/17/2026 10:55,Utilities,Water Bill Payment,Service bill settlement,3/18/2026 0:04
+1379,U07,expense,3.74,3/19/2026 16:45,Food,Café Order,,3/24/2026 15:14
+1380,U07,expense,2.36,3/20/2026 22:16,Food,Lunch Purchase,,3/20/2026 23:36
+1381,U07,expense,3.31,3/22/2026 12:08,Food,Café Order,Daily food spending,3/22/2026 14:54
+1382,U07,expense,1.88,3/23/2026 10:16,Food,Café Order,,3/23/2026 18:39
+1383,U07,expense,2.24,3/23/2026 21:53,Food,Café Order,Groceries or meals,3/24/2026 10:12
+1384,U07,expense,1.1,3/24/2026 8:29,Transport,Metro Ticket,,3/24/2026 11:00
+1385,U07,expense,1.1,3/24/2026 11:57,Other,Service Fee,,3/24/2026 23:59
+1386,U07,expense,0.97,3/26/2026 10:36,Transport,Fuel Purchase,Local transport expense,3/27/2026 5:15
+1387,U07,expense,465,3/26/2026 13:49,Savings,Emergency Fund Transfer,Routine savings allocation,3/28/2026 6:55
+1388,U07,expense,1.92,3/26/2026 16:53,Food,Supermarket Grocery Purchase,,3/28/2026 2:49
+1389,U07,expense,3.6,3/28/2026 10:47,Other,Bank Charge,Miscellaneous banking or cash-related entry,3/28/2026 16:55
+1390,U07,expense,0.79,3/28/2026 15:08,Transport,Metro Ticket,Local transport expense,3/28/2026 16:43
+1391,U07,expense,484.36,3/29/2026 13:35,Investment,Brokerage Deposit,Periodic portfolio contribution,3/30/2026 0:25
+1392,U07,expense,169.5,3/30/2026 14:19,Savings,Deposit to Savings,Routine savings allocation,3/31/2026 14:55
+1393,U07,expense,2.46,3/30/2026 22:31,Food,Lunch Purchase,Daily food spending,3/31/2026 1:41
+1394,U07,expense,235.8,3/31/2026 9:36,Investment,Brokerage Deposit,,4/2/2026 1:23
+1395,U07,income,5068.08,4/1/2026 12:18,Salary,Payroll Credit,Regular monthly paycheck,4/2/2026 18:03
+1396,U07,expense,215.5,4/1/2026 13:13,Rent,Apartment Rent,Apartment rent settlement,4/1/2026 23:01
+1397,U07,expense,4.11,4/2/2026 14:29,Food,Supermarket Grocery Purchase,Daily food spending,4/2/2026 20:15
+1398,U07,expense,7.57,4/5/2026 22:05,Food,Lunch Purchase,,4/7/2026 6:31
+1399,U07,expense,2.1,4/6/2026 9:51,Other,ATM Withdrawal,,4/6/2026 19:36
+1400,U07,expense,1.92,4/6/2026 22:19,Food,Lunch Purchase,Groceries or meals,4/7/2026 14:16
+1401,U07,expense,1.04,4/8/2026 6:02,Transport,Taxi Fare,Commute or travel cost,4/9/2026 2:37
+1402,U07,expense,4.9,4/11/2026 11:35,Food,Lunch Purchase,,4/11/2026 13:43
+1403,U07,expense,2,4/11/2026 12:33,Food,Lunch Purchase,,4/11/2026 18:55
+1404,U07,expense,403.72,4/12/2026 12:54,Investment,Investment Transfer,Transfer into investments,4/12/2026 18:46
+1405,U07,expense,1.51,4/13/2026 22:42,Transport,Taxi Fare,Local transport expense,4/13/2026 23:51
+1406,U07,expense,13.66,4/14/2026 15:37,Healthcare,Pharmacy Purchase,,4/15/2026 16:53
+1407,U07,expense,6.12,4/15/2026 8:09,Food,Supermarket Grocery Purchase,,4/16/2026 9:28
+1408,U07,expense,7,4/15/2026 12:50,Utilities,Electricity Bill Payment,Service bill settlement,4/16/2026 15:53
+1409,U07,expense,2.81,4/15/2026 19:35,Food,Lunch Purchase,Groceries or meals,4/16/2026 22:15
+1410,U07,expense,2.68,4/16/2026 13:10,Food,Lunch Purchase,Meal-related purchase,4/17/2026 3:41
+1411,U07,expense,1.19,4/16/2026 20:25,Transport,Uber Ride,Commute or travel cost,4/22/2026 0:29
+1412,U07,expense,2.6,4/16/2026 21:10,Food,Supermarket Grocery Purchase,,4/16/2026 21:44
+1413,U07,expense,412.35,4/17/2026 15:00,Investment,Investment Transfer,Capital allocation,4/18/2026 21:14
+1414,U07,expense,1.5,4/17/2026 19:08,Other,Miscellaneous Expense,,4/18/2026 3:55
+1415,U07,expense,1.43,4/18/2026 20:59,Food,Lunch Purchase,,4/23/2026 2:24
+1416,U07,expense,4.83,4/19/2026 20:17,Shopping,Clothing Store Purchase,,4/20/2026 18:38
+1417,U07,expense,207.1,4/20/2026 9:14,Savings,Savings Transfer,Routine savings allocation,4/20/2026 21:21
+1418,U07,expense,0.64,4/22/2026 17:00,Transport,Taxi Fare,Local transport expense,4/23/2026 10:23
+1419,U07,expense,206.96,4/23/2026 11:49,Savings,Savings Transfer,Emergency reserve top-up,4/23/2026 15:37
+1420,U07,expense,1.22,4/23/2026 21:42,Transport,Metro Ticket,Ride or fuel cost,4/24/2026 13:32
+1421,U07,expense,2.62,4/25/2026 12:58,Food,Supermarket Grocery Purchase,,4/25/2026 23:19
+1422,U07,expense,11.33,4/27/2026 11:03,Healthcare,Pharmacy Purchase,,4/28/2026 0:54
+1423,U07,expense,0.72,4/28/2026 9:50,Transport,Fuel Purchase,,5/2/2026 11:07
+1424,U07,expense,2.92,4/29/2026 9:45,Food,Restaurant Meal,,5/1/2026 0:40
+1425,U07,expense,1.03,4/30/2026 7:16,Transport,Taxi Fare,Ride or fuel cost,5/1/2026 23:23
+1426,U07,expense,385.95,4/30/2026 9:20,Investment,Fund Purchase,Periodic portfolio contribution,5/1/2026 19:26
+1427,U07,expense,142.7,4/30/2026 13:30,Investment,Brokerage Deposit,Periodic portfolio contribution,4/30/2026 16:25
+1428,U07,expense,208.29,5/1/2026 9:47,Investment,Investment Transfer,,5/1/2026 12:23
+1429,U07,income,3015.72,5/1/2026 13:50,Salary,Salary Payment,Regular monthly paycheck,5/2/2026 23:58
+1430,U07,expense,4.18,5/1/2026 17:34,Food,Supermarket Grocery Purchase,,5/1/2026 23:11
+1431,U07,expense,1.15,5/4/2026 7:16,Food,Restaurant Meal,Daily food spending,5/4/2026 21:55
+1432,U07,expense,2.89,5/4/2026 15:16,Food,Lunch Purchase,Meal-related purchase,5/4/2026 21:43
+1433,U07,expense,1.37,5/5/2026 16:38,Food,Supermarket Grocery Purchase,Daily food spending,5/6/2026 21:10
+1434,U07,expense,144.99,5/5/2026 17:46,Rent,Apartment Rent,Apartment rent settlement,5/5/2026 22:36
+1435,U07,expense,2.38,5/6/2026 19:41,Other,Service Fee,Miscellaneous banking or cash-related entry,5/7/2026 22:51
+1436,U07,expense,2.82,5/7/2026 18:55,Other,Bank Charge,,5/9/2026 9:05
+1437,U07,expense,2.52,5/8/2026 12:06,Other,ATM Withdrawal,Small incidental cost,5/9/2026 20:15
+1438,U07,expense,4.51,5/8/2026 19:49,Food,Supermarket Grocery Purchase,Groceries or meals,5/12/2026 7:49
+1439,U07,expense,4.03,5/8/2026 22:01,Food,Supermarket Grocery Purchase,,5/9/2026 21:19
+1440,U07,expense,0.9,5/8/2026 23:43,Transport,Fuel Purchase,,5/9/2026 20:11
+1441,U07,expense,206.63,5/9/2026 11:49,Investment,Brokerage Deposit,Capital allocation,5/10/2026 12:57
+1442,U07,expense,2.99,5/12/2026 20:30,Food,Supermarket Grocery Purchase,,5/13/2026 0:44
+1443,U07,expense,2.51,5/13/2026 20:53,Food,Supermarket Grocery Purchase,Meal-related purchase,5/15/2026 9:54
+1444,U07,expense,0.76,5/15/2026 15:48,Transport,Taxi Fare,,5/16/2026 0:20
+1445,U07,expense,106.6,5/15/2026 16:03,Investment,Fund Purchase,Capital allocation,5/16/2026 3:03
+1446,U07,expense,3.23,5/15/2026 21:31,Food,Restaurant Meal,,5/15/2026 21:42
+1447,U07,expense,112.64,5/17/2026 18:36,Savings,Savings Transfer,Emergency reserve top-up,5/18/2026 3:58
+1448,U07,expense,4.23,5/18/2026 13:33,Food,Café Order,Groceries or meals,5/22/2026 5:06
+1449,U07,expense,9.64,5/18/2026 13:56,Utilities,Water Bill Payment,Monthly utility bill,5/19/2026 16:51
+1450,U07,expense,98.84,5/20/2026 13:40,Investment,Brokerage Deposit,Capital allocation,5/21/2026 6:46
+1451,U07,expense,245.93,5/20/2026 15:47,Savings,Emergency Fund Transfer,Emergency reserve top-up,5/20/2026 17:08
+1452,U07,expense,4.18,5/20/2026 16:52,Food,Lunch Purchase,Groceries or meals,5/21/2026 1:44
+1453,U07,expense,314.32,5/22/2026 16:40,Savings,Emergency Fund Transfer,Routine savings allocation,5/24/2026 10:40
+1454,U07,expense,3.41,5/24/2026 14:35,Food,Café Order,Meal-related purchase,5/25/2026 14:40
+1455,U07,expense,1.08,5/30/2026 16:11,Transport,Fuel Purchase,Commute or travel cost,5/30/2026 17:41
+1456,U07,income,3485.18,6/1/2026 9:10,Salary,Salary Payment,Employer salary deposit,6/4/2026 3:08
+1457,U07,expense,1.04,6/1/2026 15:39,Transport,Uber Ride,Ride or fuel cost,6/3/2026 6:43
+1458,U07,expense,2.48,6/1/2026 19:23,Food,Restaurant Meal,Groceries or meals,6/2/2026 20:10
+1459,U07,expense,167.92,6/4/2026 11:35,Rent,Apartment Rent,Scheduled rent transfer,6/5/2026 12:41
+1460,U07,expense,2.44,6/4/2026 16:07,Other,Miscellaneous Expense,,6/5/2026 7:08
+1461,U07,expense,0.77,6/8/2026 7:35,Transport,Metro Ticket,Ride or fuel cost,6/8/2026 7:59
+1462,U07,expense,1.18,6/8/2026 9:07,Transport,Fuel Purchase,Ride or fuel cost,6/8/2026 21:18
+1463,U07,expense,0.96,6/8/2026 22:48,Transport,Metro Ticket,Commute or travel cost,6/9/2026 19:46
+1464,U07,expense,1.05,6/9/2026 9:13,Transport,Metro Ticket,,6/10/2026 21:01
+1465,U07,expense,3.92,6/10/2026 15:48,Food,Café Order,Daily food spending,6/11/2026 21:58
+1466,U07,expense,1.09,6/10/2026 22:11,Transport,Taxi Fare,,6/11/2026 5:30
+1467,U07,expense,0.62,6/11/2026 8:39,Transport,Uber Ride,,6/11/2026 22:49
+1468,U07,expense,2.95,6/11/2026 17:54,Shopping,Online Shopping,Discretionary shopping expense,6/12/2026 15:00
+1469,U07,expense,626.43,6/12/2026 11:00,Investment,Brokerage Deposit,Transfer into investments,6/13/2026 4:16
+1470,U07,expense,3.19,6/12/2026 13:03,Food,Restaurant Meal,,6/13/2026 18:03
+1471,U07,expense,450.12,6/14/2026 12:59,Savings,Savings Transfer,,6/14/2026 23:00
+1472,U07,expense,1.82,6/15/2026 15:42,Food,Restaurant Meal,Daily food spending,6/17/2026 9:31
+1473,U07,expense,11.8,6/16/2026 10:39,Utilities,Gas Bill Payment,,6/17/2026 10:00
+1474,U07,expense,3.92,6/16/2026 15:51,Food,Lunch Purchase,Meal-related purchase,6/18/2026 7:44
+1475,U07,expense,6.56,6/16/2026 18:18,Shopping,Online Shopping,Discretionary shopping expense,6/17/2026 6:13
+1476,U07,expense,2.29,6/17/2026 21:17,Food,Café Order,,6/18/2026 17:46
+1477,U07,expense,2.03,6/18/2026 19:38,Food,Supermarket Grocery Purchase,Groceries or meals,6/19/2026 8:27
+1478,U07,expense,1.88,6/20/2026 19:11,Food,Café Order,Daily food spending,6/22/2026 7:35
+1479,U07,expense,2.22,6/21/2026 21:04,Food,Supermarket Grocery Purchase,,6/23/2026 17:27
+1480,U07,expense,4.25,6/22/2026 13:24,Food,Restaurant Meal,Meal-related purchase,6/23/2026 4:17
+1481,U07,expense,422.47,6/22/2026 14:55,Savings,Emergency Fund Transfer,Transfer to savings,6/23/2026 18:58
+1482,U07,expense,206.81,6/23/2026 18:33,Investment,Fund Purchase,Transfer into investments,6/24/2026 18:38
+1483,U07,expense,3.88,6/24/2026 10:50,Food,Supermarket Grocery Purchase,Meal-related purchase,6/24/2026 13:33
+1484,U07,expense,97.8,6/25/2026 10:13,Investment,Investment Transfer,Periodic portfolio contribution,6/26/2026 2:50
+1485,U07,expense,1.05,6/25/2026 21:45,Transport,Metro Ticket,Commute or travel cost,6/25/2026 22:41
+1486,U07,expense,4.09,6/26/2026 7:20,Food,Restaurant Meal,Groceries or meals,6/27/2026 2:24
+1487,U07,expense,4.69,6/27/2026 21:54,Food,Lunch Purchase,Meal-related purchase,6/28/2026 1:56
+1488,U07,expense,0.51,6/28/2026 12:11,Transport,Metro Ticket,Local transport expense,6/28/2026 18:15
+1489,U07,expense,2.39,6/28/2026 19:34,Food,Café Order,Groceries or meals,6/28/2026 19:59
+1490,U07,expense,2.07,6/29/2026 15:06,Other,Bank Charge,,6/30/2026 16:38
+1491,U08,income,4336.69,1/1/2026 9:34,Salary,Payroll Credit,,1/1/2026 18:47
+1492,U08,expense,385.08,1/1/2026 12:34,Shopping,Clothing Store Purchase,Non-essential household or personal purchase,1/2/2026 0:57
+1493,U08,expense,22.1,1/1/2026 12:35,Transport,Metro Ticket,Local transport expense,1/2/2026 8:13
+1494,U08,expense,11.9,1/3/2026 11:55,Transport,Metro Ticket,Ride or fuel cost,1/3/2026 13:08
+1495,U08,expense,24.34,1/4/2026 20:25,Other,Bank Charge,,1/5/2026 7:27
+1496,U08,expense,50.74,1/5/2026 8:03,Food,Lunch Purchase,Groceries or meals,1/7/2026 0:19
+1497,U08,expense,6.48,1/5/2026 14:33,Transport,Uber Ride,Ride or fuel cost,1/5/2026 16:30
+1498,U08,expense,281.13,1/7/2026 13:26,Shopping,Electronics Purchase,,1/8/2026 15:21
+1499,U08,expense,455.58,1/9/2026 9:29,Savings,Emergency Fund Transfer,Transfer to savings,1/9/2026 15:43
+1500,U08,expense,21.47,1/9/2026 18:02,Transport,Fuel Purchase,Commute or travel cost,1/10/2026 0:55
+1501,U08,expense,472.6,1/10/2026 15:25,Shopping,Electronics Purchase,,1/13/2026 12:00
+1502,U08,expense,289.73,1/12/2026 16:52,Shopping,Electronics Purchase,,1/12/2026 18:55
+1503,U08,expense,18.1,1/12/2026 20:38,Other,Bank Charge,Non-categorized expense,1/13/2026 18:03
+1504,U08,expense,157.57,1/12/2026 21:02,Entertainment,Streaming Subscription,Leisure or weekend spending,1/13/2026 1:03
+1505,U08,expense,292.04,1/13/2026 13:15,Shopping,Household Shopping,Retail purchase,1/14/2026 12:12
+1506,U08,expense,10.2,1/13/2026 13:46,Transport,Taxi Fare,Local transport expense,1/14/2026 20:34
+1507,U08,expense,16.81,1/14/2026 21:51,Transport,Taxi Fare,Ride or fuel cost,1/15/2026 14:49
+1508,U08,expense,112.44,1/14/2026 21:52,Shopping,Electronics Purchase,,1/15/2026 17:07
+1509,U08,expense,216.29,1/18/2026 23:14,Entertainment,Concert Ticket,Leisure or weekend spending,1/20/2026 8:35
+1510,U08,expense,15.86,1/20/2026 23:05,Transport,Uber Ride,Local transport expense,1/22/2026 1:16
+1511,U08,expense,18.44,1/21/2026 11:00,Other,Bank Charge,Small incidental cost,1/21/2026 17:38
+1512,U08,expense,14.65,1/22/2026 23:55,Transport,Metro Ticket,,1/23/2026 7:49
+1513,U08,expense,7.02,1/24/2026 12:04,Transport,Metro Ticket,Commute or travel cost,1/25/2026 1:19
+1514,U08,expense,137.43,1/24/2026 12:24,Food,Restaurant Meal,Meal-related purchase,1/24/2026 16:09
+1515,U08,expense,32.44,1/27/2026 19:11,Food,Lunch Purchase,Daily food spending,1/28/2026 19:33
+1516,U08,expense,64.48,1/28/2026 11:22,Food,Restaurant Meal,,1/28/2026 15:04
+1517,U08,expense,27.96,1/28/2026 18:24,Food,Supermarket Grocery Purchase,Daily food spending,1/29/2026 0:52
+1518,U08,expense,308.97,1/28/2026 19:28,Shopping,Online Shopping,Discretionary shopping expense,1/29/2026 2:30
+1519,U08,expense,34.94,1/29/2026 11:18,Food,Restaurant Meal,Groceries or meals,2/2/2026 21:52
+1520,U08,income,6086.8,2/1/2026 12:54,Salary,Salary Payment,Regular monthly paycheck,2/2/2026 15:43
+1521,U08,expense,19.18,2/1/2026 16:43,Food,Café Order,Meal-related purchase,2/3/2026 1:26
+1522,U08,expense,163.22,2/1/2026 18:00,Shopping,Clothing Store Purchase,,2/2/2026 13:05
+1523,U08,expense,6.97,2/1/2026 20:59,Transport,Fuel Purchase,Commute or travel cost,2/2/2026 13:24
+1524,U08,expense,47.68,2/3/2026 15:52,Food,Restaurant Meal,,2/4/2026 7:27
+1525,U08,expense,10.78,2/3/2026 18:49,Transport,Fuel Purchase,Ride or fuel cost,2/3/2026 21:08
+1526,U08,expense,11.9,2/5/2026 6:56,Transport,Fuel Purchase,Commute or travel cost,2/5/2026 16:22
+1527,U08,expense,52.31,2/5/2026 7:57,Food,Restaurant Meal,Meal-related purchase,2/5/2026 15:56
+1528,U08,expense,13.91,2/5/2026 23:38,Transport,Uber Ride,Ride or fuel cost,2/6/2026 1:08
+1529,U08,expense,47.33,2/8/2026 20:51,Food,Café Order,Meal-related purchase,2/9/2026 4:20
+1530,U08,expense,25.47,2/9/2026 7:07,Food,Café Order,Meal-related purchase,2/9/2026 8:59
+1531,U08,expense,250.66,2/9/2026 12:42,Shopping,Clothing Store Purchase,Retail purchase,2/9/2026 17:54
+1532,U08,expense,28.92,2/9/2026 17:54,Food,Lunch Purchase,Meal-related purchase,2/11/2026 0:36
+1533,U08,expense,10.18,2/10/2026 6:32,Transport,Uber Ride,Ride or fuel cost,2/10/2026 9:00
+1534,U08,expense,57.95,2/11/2026 17:08,Shopping,Household Shopping,,2/12/2026 4:30
+1535,U08,expense,204.48,2/15/2026 22:02,Entertainment,Movie Ticket,Leisure or weekend spending,2/16/2026 1:05
+1536,U08,expense,577.63,2/16/2026 14:18,Shopping,Household Shopping,,2/17/2026 22:11
+1537,U08,expense,383.67,2/17/2026 23:35,Entertainment,Concert Ticket,,2/18/2026 0:15
+1538,U08,expense,50.08,2/18/2026 22:56,Food,Lunch Purchase,Daily food spending,2/19/2026 8:55
+1539,U08,expense,11.93,2/21/2026 20:26,Transport,Uber Ride,Local transport expense,2/22/2026 10:03
+1540,U08,expense,68.97,2/24/2026 7:03,Food,Lunch Purchase,Groceries or meals,2/25/2026 20:59
+1541,U08,expense,42.67,2/24/2026 18:48,Food,Supermarket Grocery Purchase,Meal-related purchase,2/25/2026 3:55
+1542,U08,income,4213.81,3/1/2026 11:41,Salary,Monthly Salary Deposit,,3/1/2026 15:38
+1543,U08,expense,43.96,3/1/2026 14:21,Food,Lunch Purchase,Daily food spending,3/2/2026 17:05
+1544,U08,expense,49.86,3/1/2026 19:54,Other,Bank Charge,Small incidental cost,3/1/2026 20:55
+1545,U08,expense,76.35,3/1/2026 22:24,Entertainment,Streaming Subscription,,3/2/2026 21:17
+1546,U08,expense,203.95,3/3/2026 15:45,Savings,Emergency Fund Transfer,Routine savings allocation,3/3/2026 19:09
+1547,U08,expense,1399.78,3/4/2026 18:33,Shopping,Electronics Purchase,Retail purchase,3/5/2026 1:30
+1548,U08,expense,35.05,3/6/2026 13:45,Food,Restaurant Meal,Daily food spending,3/6/2026 21:54
+1549,U08,expense,62.95,3/7/2026 8:27,Food,Restaurant Meal,Groceries or meals,3/7/2026 23:48
+1550,U08,expense,13.94,3/9/2026 14:21,Transport,Metro Ticket,Local transport expense,3/9/2026 17:41
+1551,U08,expense,318.12,3/10/2026 22:15,Entertainment,Concert Ticket,,3/12/2026 13:41
+1552,U08,expense,59.89,3/11/2026 9:58,Food,Café Order,Daily food spending,3/12/2026 3:34
+1553,U08,expense,46.09,3/11/2026 13:08,Food,Supermarket Grocery Purchase,,3/16/2026 16:48
+1554,U08,expense,31.64,3/11/2026 13:15,Food,Restaurant Meal,,3/11/2026 17:40
+1555,U08,expense,7.7,3/11/2026 19:11,Transport,Fuel Purchase,Local transport expense,3/12/2026 0:14
+1556,U08,expense,64.07,3/11/2026 20:43,Entertainment,Weekend Restaurant Visit,,3/12/2026 6:32
+1557,U08,expense,12.95,3/12/2026 17:22,Transport,Metro Ticket,Local transport expense,3/13/2026 5:44
+1558,U08,expense,318.27,3/13/2026 18:34,Entertainment,Movie Ticket,Leisure or weekend spending,3/14/2026 10:25
+1559,U08,expense,274.48,3/13/2026 19:23,Entertainment,Streaming Subscription,Social outing expense,3/14/2026 8:19
+1560,U08,expense,55.37,3/13/2026 22:55,Food,Café Order,,3/14/2026 5:12
+1561,U08,expense,289.65,3/14/2026 18:46,Entertainment,Concert Ticket,Leisure or weekend spending,3/15/2026 4:49
+1562,U08,expense,16.4,3/15/2026 16:18,Food,Supermarket Grocery Purchase,Meal-related purchase,3/16/2026 2:46
+1563,U08,expense,10.2,3/16/2026 6:47,Transport,Taxi Fare,Commute or travel cost,3/17/2026 9:09
+1564,U08,expense,36.55,3/17/2026 12:11,Other,Service Fee,Small incidental cost,3/19/2026 0:10
+1565,U08,expense,15.93,3/19/2026 13:12,Transport,Taxi Fare,,3/19/2026 17:24
+1566,U08,expense,319.67,3/19/2026 14:39,Shopping,Clothing Store Purchase,,3/21/2026 3:29
+1567,U08,expense,977.16,3/21/2026 13:52,Shopping,Household Shopping,Non-essential household or personal purchase,3/24/2026 2:37
+1568,U08,expense,69.78,3/24/2026 12:31,Healthcare,Pharmacy Purchase,Medical or pharmacy expense,3/24/2026 19:16
+1569,U08,expense,1388.15,3/25/2026 15:57,Shopping,Online Shopping,Retail purchase,3/25/2026 21:25
+1570,U08,expense,32.98,3/25/2026 18:41,Food,Supermarket Grocery Purchase,Groceries or meals,3/27/2026 2:24
+1571,U08,expense,163.15,3/26/2026 13:37,Shopping,Electronics Purchase,Retail purchase,3/28/2026 3:04
+1572,U08,expense,417.38,3/26/2026 21:11,Shopping,Household Shopping,,3/27/2026 0:12
+1573,U08,expense,30.24,3/27/2026 16:21,Other,ATM Withdrawal,Miscellaneous banking or cash-related entry,3/27/2026 19:04
+1574,U08,expense,104.57,3/27/2026 20:36,Entertainment,Weekend Restaurant Visit,Leisure or weekend spending,3/27/2026 23:56
+1575,U08,expense,103.02,3/27/2026 20:39,Entertainment,Streaming Subscription,Leisure or weekend spending,3/28/2026 15:36
+1576,U08,expense,51.34,3/27/2026 23:49,Entertainment,Weekend Restaurant Visit,Entertainment-related purchase,3/29/2026 10:04
+1577,U08,expense,439.76,3/29/2026 16:03,Shopping,Online Shopping,Discretionary shopping expense,4/2/2026 16:47
+1578,U08,expense,8.52,3/29/2026 21:12,Transport,Metro Ticket,Local transport expense,3/30/2026 21:04
+1579,U08,expense,10.25,3/30/2026 13:36,Transport,Uber Ride,Commute or travel cost,3/31/2026 11:07
+1580,U08,income,3831.18,4/1/2026 11:01,Salary,Monthly Salary Deposit,Employer salary deposit,4/3/2026 4:16
+1581,U08,expense,68.44,4/1/2026 14:17,Food,Restaurant Meal,Groceries or meals,4/2/2026 6:09
+1582,U08,expense,20.64,4/2/2026 6:17,Transport,Metro Ticket,Commute or travel cost,4/3/2026 0:32
+1583,U08,expense,522.92,4/4/2026 15:47,Shopping,Online Shopping,Retail purchase,4/4/2026 18:08
+1584,U08,expense,385.08,4/4/2026 16:47,Shopping,Household Shopping,Discretionary shopping expense,4/5/2026 6:32
+1585,U08,expense,37.88,4/4/2026 18:28,Food,Restaurant Meal,,4/6/2026 2:07
+1586,U08,expense,63.72,4/5/2026 9:17,Food,Supermarket Grocery Purchase,Meal-related purchase,4/5/2026 15:06
+1587,U08,expense,273.48,4/5/2026 20:24,Shopping,Clothing Store Purchase,Retail purchase,4/5/2026 22:58
+1588,U08,expense,349.42,4/5/2026 22:23,Shopping,Online Shopping,Discretionary shopping expense,4/6/2026 14:19
+1589,U08,expense,18.72,4/6/2026 16:39,Transport,Uber Ride,Local transport expense,4/7/2026 10:12
+1590,U08,expense,25.55,4/6/2026 18:35,Other,ATM Withdrawal,Non-categorized expense,4/7/2026 13:21
+1591,U08,expense,197.34,4/10/2026 23:34,Entertainment,Streaming Subscription,Social outing expense,4/11/2026 10:36
+1592,U08,expense,19.84,4/10/2026 23:48,Transport,Metro Ticket,,4/11/2026 22:48
+1593,U08,expense,13.75,4/12/2026 22:27,Transport,Taxi Fare,Ride or fuel cost,4/13/2026 12:51
+1594,U08,expense,411.91,4/13/2026 20:00,Shopping,Electronics Purchase,,4/14/2026 15:19
+1595,U08,expense,8.55,4/15/2026 16:44,Transport,Taxi Fare,Commute or travel cost,4/18/2026 22:19
+1596,U08,expense,16.13,4/16/2026 7:28,Food,Café Order,Groceries or meals,4/16/2026 12:55
+1597,U08,expense,50.78,4/16/2026 13:38,Food,Restaurant Meal,Daily food spending,4/20/2026 18:21
+1598,U08,expense,56.8,4/16/2026 20:30,Food,Café Order,Meal-related purchase,4/18/2026 12:44
+1599,U08,expense,18.41,4/21/2026 15:23,Transport,Fuel Purchase,,4/21/2026 16:57
+1600,U08,expense,47.52,4/22/2026 20:45,Food,Café Order,Daily food spending,4/23/2026 16:31
+1601,U08,expense,167.89,4/23/2026 20:15,Shopping,Online Shopping,Discretionary shopping expense,4/23/2026 23:01
+1602,U08,expense,18.39,4/25/2026 22:30,Transport,Metro Ticket,Ride or fuel cost,4/26/2026 15:55
+1603,U08,expense,32.9,4/26/2026 14:58,Food,Lunch Purchase,Daily food spending,4/26/2026 15:26
+1604,U08,expense,345.03,4/26/2026 20:33,Entertainment,Concert Ticket,Leisure or weekend spending,4/30/2026 15:12
+1605,U08,expense,13.94,4/27/2026 15:42,Food,Lunch Purchase,Meal-related purchase,4/28/2026 16:49
+1606,U08,expense,56.86,4/28/2026 18:54,Food,Restaurant Meal,,4/29/2026 6:42
+1607,U08,expense,59.69,4/29/2026 8:21,Food,Café Order,Meal-related purchase,5/5/2026 6:00
+1608,U08,expense,306.56,4/29/2026 20:42,Shopping,Online Shopping,Retail purchase,5/1/2026 15:40
+1609,U08,expense,62.9,4/30/2026 17:30,Food,Supermarket Grocery Purchase,Daily food spending,5/1/2026 23:30
+1610,U08,income,5800.84,5/1/2026 9:29,Salary,Salary Payment,Employer salary deposit,5/1/2026 21:00
+1611,U08,expense,13.33,5/1/2026 14:21,Transport,Taxi Fare,Commute or travel cost,5/2/2026 11:02
+1612,U08,expense,61.81,5/2/2026 9:34,Food,Restaurant Meal,Daily food spending,5/3/2026 2:33
+1613,U08,expense,20.37,5/2/2026 18:16,Food,Restaurant Meal,Groceries or meals,5/2/2026 22:34
+1614,U08,expense,216,5/2/2026 18:37,Entertainment,Concert Ticket,Leisure or weekend spending,5/3/2026 2:49
+1615,U08,expense,10.39,5/4/2026 9:18,Transport,Taxi Fare,,5/5/2026 3:09
+1616,U08,expense,38.15,5/4/2026 9:31,Food,Restaurant Meal,Meal-related purchase,5/5/2026 10:12
+1617,U08,expense,76.82,5/4/2026 14:39,Shopping,Electronics Purchase,Non-essential household or personal purchase,5/4/2026 15:50
+1618,U08,expense,68.8,5/5/2026 15:39,Food,Restaurant Meal,Daily food spending,5/5/2026 19:54
+1619,U08,expense,285.38,5/5/2026 19:03,Entertainment,Streaming Subscription,Social outing expense,5/6/2026 14:30
+1620,U08,expense,12.5,5/6/2026 10:40,Transport,Taxi Fare,Commute or travel cost,5/6/2026 17:29
+1621,U08,expense,15.35,5/7/2026 18:45,Transport,Taxi Fare,,5/8/2026 16:12
+1622,U08,expense,220.06,5/7/2026 21:11,Entertainment,Concert Ticket,,5/8/2026 10:43
+1623,U08,expense,281.88,5/9/2026 20:40,Entertainment,Streaming Subscription,Social outing expense,5/11/2026 4:23
+1624,U08,expense,15.5,5/11/2026 9:29,Transport,Uber Ride,Local transport expense,5/12/2026 4:03
+1625,U08,expense,35.6,5/11/2026 12:43,Food,Lunch Purchase,,5/11/2026 22:03
+1626,U08,expense,296.65,5/11/2026 20:49,Entertainment,Weekend Restaurant Visit,Leisure or weekend spending,5/12/2026 4:12
+1627,U08,expense,25.04,5/12/2026 20:09,Food,Lunch Purchase,,5/12/2026 23:54
+1628,U08,expense,35.73,5/13/2026 11:13,Food,Supermarket Grocery Purchase,Groceries or meals,5/14/2026 6:04
+1629,U08,expense,57.65,5/13/2026 21:11,Food,Café Order,,5/15/2026 2:32
+1630,U08,expense,227.12,5/15/2026 23:44,Entertainment,Weekend Restaurant Visit,,5/16/2026 6:18
+1631,U08,expense,18.99,5/16/2026 19:28,Transport,Metro Ticket,Commute or travel cost,5/17/2026 13:47
+1632,U08,expense,96.07,5/17/2026 18:51,Shopping,Clothing Store Purchase,Non-essential household or personal purchase,5/18/2026 15:46
+1633,U08,expense,38.42,5/17/2026 20:46,Food,Restaurant Meal,Meal-related purchase,5/19/2026 3:55
+1634,U08,expense,26.45,5/18/2026 10:04,Food,Café Order,Meal-related purchase,5/18/2026 15:52
+1635,U08,expense,18.38,5/18/2026 14:34,Food,Restaurant Meal,,5/19/2026 1:38
+1636,U08,expense,41.5,5/20/2026 16:08,Food,Café Order,,5/21/2026 23:49
+1637,U08,expense,159.58,5/20/2026 17:23,Shopping,Clothing Store Purchase,Retail purchase,5/22/2026 5:12
+1638,U08,expense,49.03,5/22/2026 20:05,Entertainment,Concert Ticket,Social outing expense,5/23/2026 2:58
+1639,U08,expense,453.3,5/26/2026 22:53,Shopping,Electronics Purchase,Retail purchase,5/27/2026 18:57
+1640,U08,expense,301.09,5/27/2026 20:23,Shopping,Electronics Purchase,,5/29/2026 9:46
+1641,U08,expense,187.71,5/28/2026 12:00,Shopping,Household Shopping,,5/28/2026 16:52
+1642,U08,expense,17.71,5/28/2026 17:57,Food,Lunch Purchase,Meal-related purchase,5/30/2026 6:08
+1643,U08,expense,64.84,5/29/2026 12:42,Food,Café Order,Groceries or meals,5/30/2026 2:50
+1644,U08,expense,24.8,5/29/2026 20:15,Food,Restaurant Meal,Meal-related purchase,5/30/2026 11:53
+1645,U08,expense,19.74,5/30/2026 11:12,Transport,Fuel Purchase,Commute or travel cost,5/31/2026 19:36
+1646,U08,expense,24.72,5/31/2026 18:00,Food,Supermarket Grocery Purchase,Meal-related purchase,5/31/2026 19:00
+1647,U08,income,4352.26,6/1/2026 11:39,Salary,Payroll Credit,Scheduled salary payment,6/1/2026 18:50
+1648,U08,expense,63.31,6/1/2026 12:15,Food,Restaurant Meal,Groceries or meals,6/1/2026 18:08
+1649,U08,expense,382.74,6/2/2026 10:16,Shopping,Electronics Purchase,Retail purchase,6/3/2026 5:28
+1650,U08,expense,40.87,6/2/2026 11:17,Food,Lunch Purchase,Groceries or meals,6/2/2026 21:51
+1651,U08,expense,63.53,6/3/2026 20:37,Food,Supermarket Grocery Purchase,Daily food spending,6/4/2026 12:58
+1652,U08,expense,60.3,6/6/2026 21:22,Entertainment,Movie Ticket,Leisure or weekend spending,6/11/2026 9:50
+1653,U08,expense,28.71,6/9/2026 9:07,Food,Café Order,,6/9/2026 11:33
+1654,U08,expense,17.76,6/9/2026 21:08,Transport,Uber Ride,Commute or travel cost,6/11/2026 10:58
+1655,U08,expense,15.42,6/11/2026 13:00,Transport,Metro Ticket,Local transport expense,6/12/2026 3:15
+1656,U08,expense,485.55,6/12/2026 15:39,Shopping,Electronics Purchase,Discretionary shopping expense,6/13/2026 3:10
+1657,U08,expense,488.89,6/12/2026 22:27,Shopping,Household Shopping,Discretionary shopping expense,6/14/2026 8:16
+1658,U08,expense,13.23,6/13/2026 6:48,Transport,Metro Ticket,,6/13/2026 17:22
+1659,U08,expense,371.14,6/20/2026 18:24,Entertainment,Concert Ticket,,6/22/2026 8:52
+1660,U08,expense,7,6/21/2026 6:59,Transport,Metro Ticket,Ride or fuel cost,6/22/2026 10:10
+1661,U08,expense,567.94,6/21/2026 21:02,Shopping,Online Shopping,Non-essential household or personal purchase,6/22/2026 2:06
+1662,U08,expense,14.79,6/23/2026 11:55,Transport,Fuel Purchase,Ride or fuel cost,6/24/2026 8:30
+1663,U08,expense,13.36,6/24/2026 17:11,Transport,Uber Ride,Ride or fuel cost,6/24/2026 22:38
+1664,U08,expense,585.89,6/25/2026 17:48,Shopping,Household Shopping,Retail purchase,6/26/2026 22:55
+1665,U08,expense,7,6/27/2026 8:27,Transport,Uber Ride,,6/27/2026 17:31
+1666,U08,expense,212.23,6/27/2026 19:51,Entertainment,Movie Ticket,Leisure or weekend spending,6/28/2026 1:28
+1667,U08,expense,60.83,6/28/2026 15:38,Food,Café Order,,6/29/2026 1:18
+1668,U08,expense,18,6/28/2026 16:21,Transport,Fuel Purchase,Ride or fuel cost,6/29/2026 4:40
+1669,U08,expense,458.93,6/28/2026 20:33,Entertainment,Movie Ticket,Entertainment-related purchase,6/29/2026 3:27
+1670,U08,expense,16.24,6/29/2026 21:41,Transport,Uber Ride,Ride or fuel cost,6/30/2026 4:45
+1671,U09,expense,878.44,1/1/2026 12:38,Rent,Apartment Rent,Scheduled rent transfer,1/2/2026 17:06
+1672,U09,expense,34.31,1/1/2026 16:12,Food,Supermarket Grocery Purchase,Daily food spending,1/2/2026 14:22
+1673,U09,expense,22.79,1/3/2026 11:00,Food,Supermarket Grocery Purchase,Meal-related purchase,1/4/2026 7:48
+1674,U09,income,6353.01,1/3/2026 14:04,Gift,Birthday Gift,Personal transfer received,1/6/2026 16:50
+1675,U09,expense,10.26,1/3/2026 22:54,Transport,Taxi Fare,,1/3/2026 23:31
+1676,U09,expense,13.03,1/4/2026 22:05,Food,Supermarket Grocery Purchase,Meal-related purchase,1/5/2026 11:29
+1677,U09,expense,37.54,1/5/2026 17:39,Food,Café Order,Daily food spending,1/6/2026 12:22
+1678,U09,expense,21.62,1/6/2026 17:05,Food,Restaurant Meal,,1/8/2026 4:35
+1679,U09,expense,38.82,1/6/2026 18:47,Food,Lunch Purchase,Groceries or meals,1/7/2026 7:26
+1680,U09,expense,154.17,1/8/2026 13:59,Shopping,Electronics Purchase,,1/9/2026 0:44
+1681,U09,expense,11.33,1/8/2026 15:26,Transport,Metro Ticket,Ride or fuel cost,1/9/2026 13:59
+1682,U09,expense,36.41,1/8/2026 18:14,Food,Lunch Purchase,Daily food spending,1/9/2026 7:10
+1683,U09,expense,11.36,1/8/2026 23:16,Transport,Uber Ride,Ride or fuel cost,1/12/2026 14:18
+1684,U09,expense,7,1/8/2026 23:24,Transport,Uber Ride,,1/9/2026 11:24
+1685,U09,expense,115.07,1/9/2026 18:32,Shopping,Clothing Store Purchase,Discretionary shopping expense,1/11/2026 8:55
+1686,U09,expense,121.14,1/9/2026 18:48,Utilities,Gas Bill Payment,Service bill settlement,1/10/2026 17:01
+1687,U09,expense,9.16,1/11/2026 13:13,Transport,Taxi Fare,Commute or travel cost,1/12/2026 19:28
+1688,U09,expense,34.61,1/12/2026 17:58,Food,Café Order,Meal-related purchase,1/13/2026 1:42
+1689,U09,expense,32.76,1/13/2026 20:38,Food,Supermarket Grocery Purchase,,1/14/2026 17:12
+1690,U09,expense,35.58,1/13/2026 21:38,Shopping,Household Shopping,Retail purchase,1/14/2026 11:50
+1691,U09,expense,14.04,1/13/2026 22:51,Food,Café Order,,1/15/2026 1:19
+1692,U09,expense,7.83,1/14/2026 6:55,Transport,Metro Ticket,Local transport expense,1/14/2026 11:39
+1693,U09,expense,38.37,1/14/2026 10:58,Food,Supermarket Grocery Purchase,Daily food spending,1/14/2026 16:11
+1694,U09,expense,5.75,1/14/2026 16:03,Transport,Metro Ticket,Commute or travel cost,1/14/2026 23:14
+1695,U09,expense,13.86,1/16/2026 15:47,Other,Service Fee,Non-categorized expense,1/16/2026 21:54
+1696,U09,expense,326.02,1/17/2026 18:35,Savings,Emergency Fund Transfer,,1/18/2026 7:35
+1697,U09,expense,20.31,1/20/2026 10:04,Food,Café Order,Daily food spending,1/21/2026 14:27
+1698,U09,expense,5.11,1/20/2026 17:15,Transport,Uber Ride,Local transport expense,1/23/2026 16:38
+1699,U09,expense,171.63,1/20/2026 18:06,Shopping,Online Shopping,Non-essential household or personal purchase,1/21/2026 11:57
+1700,U09,expense,23.44,1/22/2026 13:33,Other,Bank Charge,Small incidental cost,1/24/2026 1:09
+1701,U09,expense,6.66,1/23/2026 17:36,Other,Bank Charge,Miscellaneous banking or cash-related entry,1/23/2026 21:44
+1702,U09,expense,11.24,1/24/2026 7:42,Transport,Uber Ride,Local transport expense,1/25/2026 5:27
+1703,U09,expense,26.72,1/25/2026 13:39,Food,Lunch Purchase,Daily food spending,1/27/2026 3:53
+1704,U09,expense,13.45,1/25/2026 21:39,Transport,Uber Ride,,1/27/2026 4:39
+1705,U09,expense,12.1,1/26/2026 19:03,Transport,Uber Ride,Ride or fuel cost,1/27/2026 2:09
+1706,U09,expense,9.43,1/26/2026 19:49,Transport,Metro Ticket,Local transport expense,1/27/2026 17:25
+1707,U09,expense,5.75,1/27/2026 6:00,Transport,Metro Ticket,Local transport expense,1/27/2026 15:01
+1708,U09,expense,12,1/27/2026 6:34,Transport,Metro Ticket,Local transport expense,1/28/2026 3:06
+1709,U09,expense,6.67,1/27/2026 13:13,Transport,Uber Ride,Ride or fuel cost,1/28/2026 1:23
+1710,U09,expense,12.89,1/27/2026 20:21,Food,Restaurant Meal,Groceries or meals,2/1/2026 21:58
+1711,U09,expense,25.34,1/28/2026 11:00,Food,Restaurant Meal,Groceries or meals,1/29/2026 7:22
+1712,U09,expense,31.26,1/29/2026 17:27,Food,Café Order,Groceries or meals,1/30/2026 23:15
+1713,U09,expense,10.14,2/2/2026 10:47,Transport,Taxi Fare,Commute or travel cost,2/4/2026 21:48
+1714,U09,expense,28.59,2/2/2026 18:06,Food,Café Order,Groceries or meals,2/7/2026 20:15
+1715,U09,income,9443.27,2/3/2026 9:31,Salary,Salary Payment,Employer salary deposit,2/3/2026 19:23
+1716,U09,expense,39.24,2/4/2026 18:55,Food,Lunch Purchase,,2/5/2026 15:42
+1717,U09,expense,11.13,2/5/2026 9:40,Transport,Taxi Fare,,2/6/2026 19:01
+1718,U09,expense,1051.15,2/5/2026 14:52,Rent,Monthly Rent Payment,,2/6/2026 11:25
+1719,U09,expense,21.87,2/9/2026 10:30,Food,Café Order,Daily food spending,2/10/2026 1:25
+1720,U09,expense,320.15,2/11/2026 17:14,Savings,Savings Transfer,Routine savings allocation,2/11/2026 22:21
+1721,U09,expense,20.95,2/11/2026 22:44,Other,Service Fee,Non-categorized expense,2/17/2026 2:47
+1722,U09,expense,6.3,2/12/2026 12:52,Transport,Metro Ticket,Local transport expense,2/12/2026 15:36
+1723,U09,expense,37.71,2/12/2026 19:14,Food,Lunch Purchase,Groceries or meals,2/12/2026 23:34
+1724,U09,expense,127.06,2/14/2026 12:43,Healthcare,Clinic Payment,Clinic or medicine payment,2/15/2026 23:13
+1725,U09,expense,32.8,2/14/2026 13:00,Food,Supermarket Grocery Purchase,Groceries or meals,2/14/2026 18:45
+1726,U09,expense,38.67,2/14/2026 19:42,Entertainment,Streaming Subscription,,2/16/2026 4:26
+1727,U09,expense,200.52,2/16/2026 9:10,Education,Course Fee,Study cost,2/22/2026 22:38
+1728,U09,expense,19.81,2/16/2026 12:05,Food,Café Order,,2/17/2026 0:35
+1729,U09,expense,24.61,2/17/2026 21:12,Food,Lunch Purchase,Daily food spending,2/18/2026 10:51
+1730,U09,expense,28.71,2/18/2026 18:58,Food,Lunch Purchase,Groceries or meals,2/20/2026 4:51
+1731,U09,expense,5.5,2/19/2026 7:17,Transport,Fuel Purchase,Ride or fuel cost,2/20/2026 10:24
+1732,U09,expense,80.68,2/19/2026 14:35,Healthcare,Clinic Payment,Health-related purchase,2/20/2026 23:34
+1733,U09,expense,13.01,2/19/2026 15:27,Food,Restaurant Meal,,2/19/2026 15:40
+1734,U09,expense,31.05,2/19/2026 22:44,Food,Supermarket Grocery Purchase,Meal-related purchase,2/20/2026 1:32
+1735,U09,expense,132.8,2/21/2026 9:19,Utilities,Gas Bill Payment,Service bill settlement,2/22/2026 11:24
+1736,U09,expense,64.45,2/21/2026 9:27,Food,Lunch Purchase,Groceries or meals,2/21/2026 17:32
+1737,U09,expense,41.77,2/22/2026 14:43,Food,Supermarket Grocery Purchase,Groceries or meals,2/24/2026 5:19
+1738,U09,expense,23.36,2/23/2026 11:22,Other,ATM Withdrawal,,2/23/2026 23:19
+1739,U09,expense,39.21,2/24/2026 12:12,Food,Supermarket Grocery Purchase,Meal-related purchase,2/26/2026 0:12
+1740,U09,expense,19.29,2/24/2026 19:27,Food,Supermarket Grocery Purchase,Meal-related purchase,2/25/2026 3:43
+1741,U09,expense,27.8,2/25/2026 15:44,Food,Lunch Purchase,Meal-related purchase,2/25/2026 17:31
+1742,U09,expense,21.94,2/25/2026 16:03,Food,Café Order,Meal-related purchase,2/25/2026 18:31
+1743,U09,expense,11.17,2/26/2026 22:33,Transport,Metro Ticket,Commute or travel cost,2/27/2026 8:19
+1744,U09,expense,188.32,3/2/2026 12:27,Shopping,Clothing Store Purchase,,3/2/2026 14:04
+1745,U09,expense,21.41,3/3/2026 9:05,Food,Café Order,Meal-related purchase,3/4/2026 12:30
+1746,U09,expense,560.96,3/3/2026 10:51,Savings,Emergency Fund Transfer,Routine savings allocation,3/3/2026 14:19
+1747,U09,income,5258.45,3/3/2026 13:08,Salary,Salary Payment,Regular monthly paycheck,3/4/2026 6:59
+1748,U09,expense,40.97,3/3/2026 16:49,Food,Restaurant Meal,Groceries or meals,3/4/2026 18:23
+1749,U09,expense,526.11,3/4/2026 17:15,Rent,Monthly Rent Payment,,3/5/2026 13:01
+1750,U09,expense,14.06,3/6/2026 10:16,Transport,Taxi Fare,Ride or fuel cost,3/6/2026 22:51
+1751,U09,expense,35.54,3/6/2026 17:43,Food,Supermarket Grocery Purchase,,3/7/2026 4:08
+1752,U09,expense,35.13,3/7/2026 16:59,Food,Lunch Purchase,Meal-related purchase,3/8/2026 11:15
+1753,U09,expense,115.36,3/10/2026 9:47,Utilities,Internet Bill Payment,Service bill settlement,3/10/2026 18:09
+1754,U09,expense,32.08,3/12/2026 10:24,Food,Café Order,Groceries or meals,3/13/2026 21:50
+1755,U09,expense,13.8,3/13/2026 8:47,Transport,Fuel Purchase,Commute or travel cost,3/13/2026 22:29
+1756,U09,expense,61.8,3/15/2026 13:24,Shopping,Electronics Purchase,,3/20/2026 9:06
+1757,U09,expense,34.46,3/16/2026 15:34,Food,Café Order,Daily food spending,3/16/2026 20:51
+1758,U09,expense,31.17,3/18/2026 10:37,Shopping,Online Shopping,Discretionary shopping expense,3/20/2026 5:19
+1759,U09,expense,152.29,3/18/2026 11:29,Education,Tuition Payment,Books or tuition payment,3/19/2026 3:52
+1760,U09,expense,37.31,3/18/2026 12:29,Food,Restaurant Meal,Meal-related purchase,3/18/2026 14:29
+1761,U09,expense,12.39,3/20/2026 12:55,Food,Restaurant Meal,Meal-related purchase,3/21/2026 23:31
+1762,U09,expense,422.22,3/21/2026 12:53,Savings,Emergency Fund Transfer,,3/22/2026 9:32
+1763,U09,expense,20.57,3/22/2026 7:57,Food,Restaurant Meal,Groceries or meals,3/22/2026 12:29
+1764,U09,expense,23.88,3/23/2026 7:48,Food,Lunch Purchase,Meal-related purchase,3/24/2026 5:49
+1765,U09,expense,18.73,3/23/2026 9:42,Food,Restaurant Meal,Daily food spending,3/28/2026 3:11
+1766,U09,expense,13.61,3/23/2026 14:56,Food,Lunch Purchase,Groceries or meals,3/23/2026 22:50
+1767,U09,expense,25.76,3/23/2026 22:48,Food,Café Order,Daily food spending,3/24/2026 9:25
+1768,U09,expense,6.27,3/24/2026 6:42,Transport,Taxi Fare,Ride or fuel cost,3/24/2026 11:42
+1769,U09,expense,18.3,3/25/2026 7:17,Food,Lunch Purchase,,3/25/2026 16:02
+1770,U09,expense,29.73,3/26/2026 14:17,Food,Café Order,Groceries or meals,3/28/2026 2:09
+1771,U09,expense,55.45,3/28/2026 20:29,Entertainment,Movie Ticket,Entertainment-related purchase,3/29/2026 3:07
+1772,U09,expense,25.11,3/30/2026 8:20,Food,Café Order,,3/30/2026 14:08
+1773,U09,expense,21.06,3/30/2026 15:50,Food,Café Order,Daily food spending,3/31/2026 6:57
+1774,U09,expense,300.31,3/30/2026 15:51,Savings,Emergency Fund Transfer,Emergency reserve top-up,3/30/2026 23:26
+1775,U09,expense,21.57,3/30/2026 17:02,Food,Restaurant Meal,Meal-related purchase,3/31/2026 15:30
+1776,U09,expense,41.16,4/1/2026 7:01,Food,Restaurant Meal,Daily food spending,4/1/2026 21:31
+1777,U09,expense,43.56,4/1/2026 18:40,Food,Lunch Purchase,Groceries or meals,4/3/2026 7:38
+1778,U09,expense,10.06,4/2/2026 18:34,Transport,Metro Ticket,Commute or travel cost,4/3/2026 8:55
+1779,U09,income,9578.72,4/3/2026 12:36,Gift,Birthday Gift,Personal transfer received,4/4/2026 11:07
+1780,U09,expense,463.86,4/4/2026 11:46,Savings,Deposit to Savings,Emergency reserve top-up,4/5/2026 17:27
+1781,U09,expense,179.99,4/4/2026 12:15,Shopping,Clothing Store Purchase,Discretionary shopping expense,4/5/2026 21:33
+1782,U09,expense,21.05,4/4/2026 20:57,Food,Lunch Purchase,Groceries or meals,4/5/2026 4:16
+1783,U09,expense,999.89,4/5/2026 10:55,Rent,Monthly Rent Payment,Scheduled rent transfer,4/6/2026 11:17
+1784,U09,expense,66.74,4/5/2026 18:17,Shopping,Online Shopping,Retail purchase,4/5/2026 23:51
+1785,U09,expense,7.77,4/6/2026 11:57,Transport,Uber Ride,Commute or travel cost,4/6/2026 22:48
+1786,U09,expense,25.7,4/8/2026 15:38,Other,Bank Charge,Small incidental cost,4/9/2026 19:47
+1787,U09,expense,12.72,4/10/2026 7:28,Transport,Uber Ride,Commute or travel cost,4/11/2026 4:36
+1788,U09,expense,32.41,4/10/2026 18:38,Food,Lunch Purchase,Groceries or meals,4/11/2026 13:14
+1789,U09,expense,335.3,4/13/2026 11:10,Savings,Deposit to Savings,Emergency reserve top-up,4/13/2026 18:22
+1790,U09,expense,20.38,4/14/2026 9:03,Food,Restaurant Meal,,4/14/2026 22:18
+1791,U09,expense,11.71,4/14/2026 15:59,Transport,Fuel Purchase,Local transport expense,4/15/2026 9:44
+1792,U09,expense,5.99,4/14/2026 18:13,Transport,Fuel Purchase,Commute or travel cost,4/14/2026 21:56
+1793,U09,expense,12.44,4/15/2026 19:30,Transport,Uber Ride,,4/20/2026 16:33
+1794,U09,expense,23.6,4/17/2026 13:50,Other,Service Fee,,4/18/2026 15:54
+1795,U09,expense,157.29,4/17/2026 16:06,Utilities,Electricity Bill Payment,Monthly utility bill,4/17/2026 22:20
+1796,U09,expense,51.08,4/19/2026 17:47,Education,Course Fee,,4/19/2026 18:32
+1797,U09,expense,34.37,4/20/2026 16:39,Food,Café Order,Meal-related purchase,4/22/2026 2:40
+1798,U09,expense,14.7,4/20/2026 21:56,Transport,Taxi Fare,Ride or fuel cost,4/22/2026 18:42
+1799,U09,expense,7.63,4/22/2026 15:34,Transport,Metro Ticket,Ride or fuel cost,4/23/2026 10:30
+1800,U09,expense,579.44,4/22/2026 17:16,Savings,Deposit to Savings,Transfer to savings,4/22/2026 17:32
+1801,U09,expense,148.99,4/22/2026 20:34,Education,Tuition Payment,,4/23/2026 6:23
+1802,U09,expense,8.15,4/23/2026 12:14,Transport,Uber Ride,,4/25/2026 0:14
+1803,U09,expense,9.35,4/23/2026 13:16,Transport,Uber Ride,Local transport expense,4/23/2026 15:57
+1804,U09,expense,13.76,4/23/2026 15:40,Food,Café Order,,4/24/2026 20:07
+1805,U09,expense,11.85,4/26/2026 6:55,Transport,Metro Ticket,Local transport expense,4/26/2026 16:15
+1806,U09,expense,33.49,4/26/2026 8:34,Food,Restaurant Meal,Meal-related purchase,4/27/2026 2:12
+1807,U09,expense,25.97,4/27/2026 16:32,Food,Restaurant Meal,Groceries or meals,4/27/2026 18:47
+1808,U09,expense,12.22,4/27/2026 23:40,Transport,Metro Ticket,Local transport expense,4/28/2026 20:45
+1809,U09,expense,18.36,4/28/2026 13:51,Food,Restaurant Meal,Meal-related purchase,4/30/2026 8:10
+1810,U09,expense,26.12,4/29/2026 10:42,Food,Lunch Purchase,Meal-related purchase,4/30/2026 23:04
+1811,U09,expense,43.87,4/29/2026 12:28,Food,Restaurant Meal,Groceries or meals,4/29/2026 20:06
+1812,U09,expense,500,5/2/2026 18:57,Rent,Apartment Rent,Apartment rent settlement,5/3/2026 9:10
+1813,U09,expense,15.9,5/2/2026 19:20,Food,Supermarket Grocery Purchase,Groceries or meals,5/3/2026 20:01
+1814,U09,income,9686.72,5/3/2026 12:02,Salary,Payroll Credit,Regular monthly paycheck,5/3/2026 14:41
+1815,U09,expense,32.85,5/3/2026 14:22,Food,Restaurant Meal,,5/4/2026 1:48
+1816,U09,expense,4.99,5/4/2026 18:39,Transport,Taxi Fare,Local transport expense,5/5/2026 12:38
+1817,U09,expense,22.59,5/4/2026 22:00,Other,Service Fee,Miscellaneous banking or cash-related entry,5/5/2026 0:49
+1818,U09,expense,123.3,5/5/2026 10:14,Education,Book Purchase,,5/6/2026 11:14
+1819,U09,expense,11.54,5/6/2026 6:56,Transport,Fuel Purchase,Ride or fuel cost,5/6/2026 21:31
+1820,U09,expense,14.77,5/6/2026 16:35,Food,Café Order,,5/7/2026 9:20
+1821,U09,expense,11.59,5/7/2026 14:32,Transport,Uber Ride,Local transport expense,5/7/2026 18:56
+1822,U09,expense,13.83,5/7/2026 22:29,Transport,Uber Ride,Local transport expense,5/8/2026 16:34
+1823,U09,expense,28.67,5/8/2026 14:50,Shopping,Household Shopping,Discretionary shopping expense,5/10/2026 4:21
+1824,U09,expense,8.21,5/9/2026 14:54,Transport,Fuel Purchase,,5/9/2026 19:34
+1825,U09,expense,35.52,5/10/2026 13:08,Food,Café Order,Groceries or meals,5/10/2026 15:17
+1826,U09,expense,6.13,5/10/2026 13:50,Other,Miscellaneous Expense,Small incidental cost,5/11/2026 3:57
+1827,U09,expense,23.6,5/10/2026 15:42,Food,Café Order,Groceries or meals,5/10/2026 18:35
+1828,U09,expense,8.39,5/11/2026 16:48,Transport,Taxi Fare,Commute or travel cost,5/11/2026 21:00
+1829,U09,expense,164.05,5/12/2026 12:00,Utilities,Gas Bill Payment,Service bill settlement,5/13/2026 21:30
+1830,U09,expense,196.75,5/12/2026 18:54,Savings,Deposit to Savings,,5/13/2026 2:55
+1831,U09,expense,7,5/13/2026 18:44,Transport,Taxi Fare,Ride or fuel cost,5/14/2026 12:20
+1832,U09,expense,19.77,5/14/2026 8:19,Food,Lunch Purchase,,5/14/2026 13:30
+1833,U09,expense,455.42,5/15/2026 10:44,Savings,Deposit to Savings,,5/15/2026 11:17
+1834,U09,expense,8.27,5/15/2026 20:17,Transport,Fuel Purchase,Local transport expense,5/16/2026 12:22
+1835,U09,expense,55.8,5/16/2026 13:11,Food,Restaurant Meal,Meal-related purchase,5/17/2026 11:26
+1836,U09,expense,182.75,5/18/2026 11:54,Shopping,Online Shopping,Retail purchase,5/19/2026 3:37
+1837,U09,expense,29.82,5/18/2026 20:24,Food,Restaurant Meal,Groceries or meals,5/19/2026 22:38
+1838,U09,expense,11.06,5/19/2026 16:41,Transport,Taxi Fare,,5/21/2026 0:04
+1839,U09,expense,14.44,5/19/2026 23:25,Transport,Uber Ride,Local transport expense,5/20/2026 4:01
+1840,U09,expense,11.95,5/20/2026 6:30,Transport,Metro Ticket,Ride or fuel cost,5/21/2026 18:01
+1841,U09,expense,6.11,5/20/2026 14:56,Transport,Uber Ride,,5/20/2026 23:30
+1842,U09,expense,29.36,5/20/2026 18:29,Food,Supermarket Grocery Purchase,Groceries or meals,5/20/2026 23:44
+1843,U09,expense,48.81,5/21/2026 13:01,Food,Supermarket Grocery Purchase,Daily food spending,5/21/2026 23:57
+1844,U09,expense,31.62,5/21/2026 15:53,Food,Supermarket Grocery Purchase,Meal-related purchase,5/22/2026 18:17
+1845,U09,expense,32.4,5/21/2026 16:17,Food,Restaurant Meal,Meal-related purchase,5/22/2026 2:30
+1846,U09,expense,40.94,5/22/2026 21:52,Food,Supermarket Grocery Purchase,Daily food spending,5/23/2026 8:30
+1847,U09,expense,6.42,5/23/2026 9:59,Transport,Uber Ride,Ride or fuel cost,5/28/2026 10:38
+1848,U09,expense,23.07,5/23/2026 19:41,Food,Restaurant Meal,Groceries or meals,5/25/2026 15:12
+1849,U09,expense,34.35,5/24/2026 7:28,Food,Supermarket Grocery Purchase,,5/25/2026 14:12
+1850,U09,expense,31.37,5/24/2026 7:42,Food,Lunch Purchase,Daily food spending,5/24/2026 12:29
+1851,U09,expense,54.12,5/24/2026 22:02,Entertainment,Movie Ticket,Entertainment-related purchase,5/25/2026 9:48
+1852,U09,expense,68.46,5/26/2026 9:32,Food,Lunch Purchase,Daily food spending,5/26/2026 18:38
+1853,U09,expense,14.59,5/26/2026 13:41,Food,Restaurant Meal,Meal-related purchase,5/27/2026 12:02
+1854,U09,expense,17.16,5/26/2026 14:15,Food,Restaurant Meal,Meal-related purchase,5/27/2026 3:17
+1855,U09,expense,77.2,5/26/2026 15:01,Healthcare,Clinic Payment,Medical or pharmacy expense,5/31/2026 4:44
+1856,U09,expense,26.6,5/27/2026 13:30,Food,Café Order,Groceries or meals,6/1/2026 11:29
+1857,U09,expense,14.31,5/28/2026 11:14,Food,Café Order,Meal-related purchase,5/28/2026 20:49
+1858,U09,expense,5.48,5/29/2026 14:55,Transport,Metro Ticket,Commute or travel cost,5/30/2026 3:46
+1859,U09,expense,143.87,5/30/2026 16:13,Education,Tuition Payment,Study cost,5/30/2026 23:20
+1860,U09,expense,16.99,5/31/2026 16:21,Food,Supermarket Grocery Purchase,Daily food spending,5/31/2026 17:18
+1861,U09,expense,5.26,6/2/2026 22:41,Transport,Metro Ticket,Ride or fuel cost,6/4/2026 7:58
+1862,U09,income,6474.41,6/3/2026 13:34,Salary,Salary Payment,,6/4/2026 5:17
+1863,U09,expense,311.8,6/4/2026 12:56,Savings,Deposit to Savings,Routine savings allocation,6/4/2026 18:22
+1864,U09,expense,27.3,6/4/2026 15:28,Food,Supermarket Grocery Purchase,Meal-related purchase,6/5/2026 9:32
+1865,U09,expense,22.95,6/4/2026 16:18,Food,Lunch Purchase,,6/6/2026 0:45
+1866,U09,expense,787.37,6/4/2026 16:24,Rent,Apartment Rent,Housing payment for the month,6/5/2026 9:25
+1867,U09,expense,4.01,6/4/2026 23:42,Transport,Fuel Purchase,,6/5/2026 7:18
+1868,U09,expense,19.7,6/5/2026 8:22,Food,Lunch Purchase,,6/6/2026 4:53
+1869,U09,expense,61.44,6/8/2026 9:38,Utilities,Internet Bill Payment,Monthly utility bill,6/9/2026 15:35
+1870,U09,expense,83.68,6/8/2026 11:39,Shopping,Electronics Purchase,Retail purchase,6/8/2026 21:27
+1871,U09,expense,11.57,6/8/2026 14:23,Transport,Metro Ticket,Commute or travel cost,6/11/2026 18:34
+1872,U09,expense,37.24,6/8/2026 17:13,Food,Lunch Purchase,Daily food spending,6/8/2026 20:27
+1873,U09,expense,25.84,6/10/2026 15:44,Food,Supermarket Grocery Purchase,Daily food spending,6/11/2026 16:06
+1874,U09,expense,289.92,6/11/2026 9:43,Savings,Savings Transfer,,6/11/2026 12:11
+1875,U09,expense,224.11,6/12/2026 20:14,Education,Course Fee,Learning-related expense,6/13/2026 15:10
+1876,U09,expense,11.89,6/16/2026 9:29,Food,Lunch Purchase,,6/16/2026 9:44
+1877,U09,expense,7.79,6/17/2026 18:58,Transport,Metro Ticket,,6/17/2026 19:41
+1878,U09,expense,9.87,6/18/2026 12:39,Transport,Metro Ticket,Local transport expense,6/18/2026 13:34
+1879,U09,expense,7.92,6/18/2026 19:07,Other,Service Fee,Non-categorized expense,6/24/2026 3:05
+1880,U09,expense,60.93,6/19/2026 21:56,Entertainment,Concert Ticket,Leisure or weekend spending,6/23/2026 8:52
+1881,U09,expense,163.19,6/24/2026 14:18,Shopping,Household Shopping,,6/25/2026 11:20
+1882,U09,expense,14.64,6/25/2026 18:16,Transport,Metro Ticket,,6/25/2026 21:39
+1883,U09,expense,33.02,6/27/2026 11:36,Food,Lunch Purchase,,7/1/2026 0:28
+1884,U09,expense,5.99,6/27/2026 19:22,Transport,Metro Ticket,Commute or travel cost,6/27/2026 23:20
+1885,U09,expense,20.42,6/28/2026 13:44,Food,Restaurant Meal,Meal-related purchase,6/29/2026 8:07
+1886,U09,expense,356.87,6/29/2026 10:33,Savings,Savings Transfer,Routine savings allocation,6/30/2026 1:54
+1887,U09,expense,29.85,6/30/2026 7:22,Food,Restaurant Meal,Groceries or meals,7/1/2026 1:36
+1888,U09,expense,12.63,6/30/2026 15:35,Food,Café Order,Meal-related purchase,7/1/2026 2:32
+1889,U09,expense,14.2,6/30/2026 16:05,Transport,Fuel Purchase,Commute or travel cost,7/1/2026 0:12
+1890,U09,expense,4.94,6/30/2026 17:06,Transport,Fuel Purchase,Ride or fuel cost,7/1/2026 14:15
+1891,U10,expense,172,1/1/2026 22:11,Shopping,Clothing Store Purchase,Retail purchase,1/6/2026 7:09
+1892,U10,expense,6.78,1/3/2026 15:08,Transport,Fuel Purchase,Local transport expense,1/7/2026 20:24
+1893,U10,expense,659.66,1/5/2026 11:12,Rent,Monthly Rent Payment,Apartment rent settlement,1/5/2026 17:02
+1894,U10,income,2505.92,1/5/2026 13:32,Salary,Monthly Salary Deposit,Regular monthly paycheck,1/5/2026 22:33
+1895,U10,expense,4.74,1/7/2026 12:08,Transport,Fuel Purchase,Ride or fuel cost,1/7/2026 22:11
+1896,U10,expense,4.06,1/8/2026 8:29,Transport,Uber Ride,Local transport expense,1/9/2026 10:10
+1897,U10,expense,5.39,1/9/2026 7:07,Transport,Fuel Purchase,Local transport expense,1/9/2026 22:11
+1898,U10,expense,52.73,1/11/2026 9:24,Savings,Emergency Fund Transfer,Routine savings allocation,1/12/2026 17:21
+1899,U10,expense,10.3,1/11/2026 19:44,Food,Restaurant Meal,Daily food spending,1/13/2026 0:12
+1900,U10,expense,5.53,1/14/2026 18:03,Other,Bank Charge,Miscellaneous banking or cash-related entry,1/14/2026 18:52
+1901,U10,expense,5.15,1/15/2026 10:39,Transport,Uber Ride,Local transport expense,1/16/2026 18:18
+1902,U10,expense,2.11,1/15/2026 12:31,Transport,Metro Ticket,Local transport expense,1/16/2026 16:59
+1903,U10,expense,5.22,1/17/2026 22:08,Other,ATM Withdrawal,Miscellaneous banking or cash-related entry,1/18/2026 4:08
+1904,U10,expense,33.83,1/19/2026 8:45,Utilities,Gas Bill Payment,Service bill settlement,1/20/2026 9:39
+1905,U10,expense,233.98,1/19/2026 17:32,Savings,Emergency Fund Transfer,Emergency reserve top-up,1/19/2026 18:14
+1906,U10,expense,28.24,1/20/2026 16:48,Shopping,Household Shopping,Retail purchase,1/21/2026 18:45
+1907,U10,expense,14.85,1/21/2026 15:08,Food,Café Order,Daily food spending,1/23/2026 1:33
+1908,U10,expense,10.88,1/22/2026 19:31,Food,Café Order,Groceries or meals,1/24/2026 0:51
+1909,U10,expense,10.97,1/25/2026 22:42,Food,Lunch Purchase,,1/26/2026 15:21
+1910,U10,expense,9.68,1/27/2026 8:46,Food,Lunch Purchase,Meal-related purchase,1/28/2026 4:39
+1911,U10,expense,2.07,1/28/2026 15:48,Transport,Metro Ticket,Local transport expense,1/29/2026 11:10
+1912,U10,expense,15.8,1/29/2026 10:56,Food,Restaurant Meal,Daily food spending,1/30/2026 12:13
+1913,U10,expense,3.64,1/30/2026 10:19,Transport,Metro Ticket,,1/31/2026 5:39
+1914,U10,expense,2.97,2/1/2026 8:11,Other,Bank Charge,Miscellaneous banking or cash-related entry,2/1/2026 13:49
+1915,U10,expense,7.97,2/2/2026 14:22,Food,Restaurant Meal,,2/4/2026 0:10
+1916,U10,expense,2.37,2/2/2026 19:14,Transport,Uber Ride,Commute or travel cost,2/3/2026 5:38
+1917,U10,expense,6.45,2/3/2026 14:21,Transport,Fuel Purchase,Local transport expense,2/4/2026 8:00
+1918,U10,expense,346.28,2/4/2026 18:10,Rent,Monthly Rent Payment,Scheduled rent transfer,2/6/2026 0:33
+1919,U10,income,1510.87,2/5/2026 10:15,Salary,Salary Payment,Scheduled salary payment,2/6/2026 16:19
+1920,U10,expense,12.82,2/6/2026 21:12,Food,Lunch Purchase,Meal-related purchase,2/7/2026 7:50
+1921,U10,expense,4.15,2/6/2026 21:51,Transport,Taxi Fare,Commute or travel cost,2/8/2026 0:28
+1922,U10,expense,1.92,2/7/2026 19:47,Transport,Uber Ride,Local transport expense,2/8/2026 1:28
+1923,U10,expense,5.13,2/7/2026 22:11,Transport,Uber Ride,Local transport expense,2/8/2026 22:28
+1924,U10,expense,10.59,2/9/2026 18:47,Food,Café Order,Groceries or meals,2/9/2026 19:11
+1925,U10,expense,6.34,2/11/2026 10:57,Food,Supermarket Grocery Purchase,Groceries or meals,2/12/2026 10:52
+1926,U10,expense,5,2/11/2026 15:22,Food,Lunch Purchase,Groceries or meals,2/12/2026 3:41
+1927,U10,expense,8.83,2/14/2026 15:35,Food,Restaurant Meal,Daily food spending,2/14/2026 23:16
+1928,U10,expense,5.17,2/15/2026 12:19,Transport,Uber Ride,,2/15/2026 20:05
+1929,U10,expense,24.45,2/15/2026 14:22,Food,Lunch Purchase,,2/16/2026 9:29
+1930,U10,expense,84.47,2/16/2026 15:36,Utilities,Water Bill Payment,Household bill payment,2/17/2026 14:50
+1931,U10,expense,15.09,2/16/2026 20:39,Food,Café Order,,2/17/2026 6:37
+1932,U10,expense,8.26,2/19/2026 14:38,Food,Restaurant Meal,Daily food spending,2/19/2026 18:59
+1933,U10,expense,5.4,2/19/2026 20:12,Food,Restaurant Meal,Daily food spending,2/20/2026 1:26
+1934,U10,expense,8.49,2/25/2026 13:16,Food,Lunch Purchase,,2/27/2026 0:18
+1935,U10,expense,13.62,2/25/2026 19:07,Other,Bank Charge,Non-categorized expense,2/26/2026 6:05
+1936,U10,expense,7.52,2/25/2026 21:11,Food,Café Order,Daily food spending,2/25/2026 22:46
+1937,U10,expense,45.17,2/28/2026 18:26,Entertainment,Weekend Restaurant Visit,,3/2/2026 3:44
+1938,U10,expense,22.78,3/1/2026 11:38,Food,Café Order,Meal-related purchase,3/1/2026 20:17
+1939,U10,expense,640.26,3/1/2026 13:24,Rent,Monthly Rent Payment,Housing payment for the month,3/2/2026 21:31
+1940,U10,expense,153.81,3/3/2026 17:27,Savings,Emergency Fund Transfer,Routine savings allocation,3/7/2026 6:06
+1941,U10,income,1910.31,3/5/2026 13:14,Salary,Salary Payment,Employer salary deposit,3/5/2026 17:02
+1942,U10,expense,3.42,3/5/2026 21:37,Transport,Metro Ticket,Ride or fuel cost,3/6/2026 10:04
+1943,U10,expense,10.33,3/8/2026 20:42,Entertainment,Weekend Restaurant Visit,,3/10/2026 11:58
+1944,U10,expense,14.63,3/10/2026 11:16,Food,Supermarket Grocery Purchase,,3/11/2026 6:24
+1945,U10,expense,2.62,3/13/2026 13:09,Transport,Taxi Fare,Ride or fuel cost,3/13/2026 13:41
+1946,U10,expense,13.27,3/13/2026 15:06,Food,Café Order,Groceries or meals,3/13/2026 18:04
+1947,U10,expense,17.98,3/13/2026 20:15,Entertainment,Streaming Subscription,Entertainment-related purchase,3/19/2026 12:56
+1948,U10,expense,37.7,3/14/2026 15:34,Utilities,Water Bill Payment,Monthly utility bill,3/15/2026 6:00
+1949,U10,expense,7.07,3/16/2026 22:51,Food,Supermarket Grocery Purchase,Meal-related purchase,3/18/2026 10:38
+1950,U10,expense,2.28,3/20/2026 6:43,Transport,Uber Ride,Commute or travel cost,3/21/2026 14:51
+1951,U10,expense,16.47,3/21/2026 20:38,Food,Supermarket Grocery Purchase,,3/22/2026 18:16
+1952,U10,expense,3.65,3/22/2026 9:10,Transport,Metro Ticket,Local transport expense,3/22/2026 14:20
+1953,U10,expense,15.2,3/26/2026 8:49,Food,Café Order,Daily food spending,3/26/2026 10:18
+1954,U10,expense,55.66,3/26/2026 15:04,Healthcare,Pharmacy Purchase,Clinic or medicine payment,3/27/2026 18:23
+1955,U10,expense,1.92,3/27/2026 6:11,Transport,Metro Ticket,,3/28/2026 20:06
+1956,U10,expense,9.99,3/29/2026 13:50,Other,ATM Withdrawal,Non-categorized expense,3/29/2026 14:08
+1957,U10,expense,9.33,3/30/2026 14:13,Food,Café Order,Meal-related purchase,4/2/2026 23:52
+1958,U10,expense,9.36,4/2/2026 14:14,Food,Café Order,Meal-related purchase,4/2/2026 21:39
+1959,U10,expense,250,4/2/2026 15:10,Rent,Monthly Rent Payment,Apartment rent settlement,4/2/2026 17:24
+1960,U10,expense,11.35,4/3/2026 9:30,Food,Lunch Purchase,Daily food spending,4/3/2026 15:26
+1961,U10,expense,12.12,4/3/2026 13:43,Food,Restaurant Meal,Groceries or meals,4/4/2026 3:26
+1962,U10,expense,17.89,4/5/2026 7:45,Food,Supermarket Grocery Purchase,Groceries or meals,4/5/2026 15:08
+1963,U10,income,1651.69,4/5/2026 11:37,Gift,Birthday Gift,Occasional gift income,4/6/2026 22:47
+1964,U10,expense,11.19,4/6/2026 13:07,Other,Bank Charge,Non-categorized expense,4/7/2026 2:39
+1965,U10,expense,2.66,4/7/2026 13:00,Transport,Taxi Fare,Local transport expense,4/7/2026 17:07
+1966,U10,expense,3.07,4/7/2026 18:37,Transport,Uber Ride,Ride or fuel cost,4/7/2026 19:28
+1967,U10,expense,117.88,4/8/2026 19:27,Shopping,Electronics Purchase,Retail purchase,4/10/2026 11:37
+1968,U10,expense,4.7,4/8/2026 20:58,Entertainment,Weekend Restaurant Visit,Leisure or weekend spending,4/10/2026 5:14
+1969,U10,expense,137.97,4/9/2026 13:53,Savings,Emergency Fund Transfer,,4/10/2026 16:37
+1970,U10,expense,17.33,4/11/2026 22:35,Food,Café Order,Groceries or meals,4/12/2026 22:11
+1971,U10,expense,8.58,4/12/2026 11:16,Food,Lunch Purchase,Daily food spending,4/12/2026 19:33
+1972,U10,expense,6.39,4/12/2026 13:41,Food,Restaurant Meal,Daily food spending,4/12/2026 19:16
+1973,U10,expense,15.35,4/12/2026 17:35,Food,Restaurant Meal,Daily food spending,4/13/2026 22:35
+1974,U10,expense,8.32,4/12/2026 19:56,Food,Lunch Purchase,Meal-related purchase,4/13/2026 23:12
+1975,U10,expense,5.02,4/12/2026 22:41,Food,Supermarket Grocery Purchase,Meal-related purchase,4/13/2026 9:14
+1976,U10,expense,79.42,4/16/2026 12:53,Utilities,Electricity Bill Payment,Service bill settlement,4/17/2026 6:22
+1977,U10,expense,11.53,4/16/2026 16:49,Food,Restaurant Meal,Daily food spending,4/17/2026 2:42
+1978,U10,expense,3.89,4/16/2026 23:28,Transport,Metro Ticket,,4/17/2026 2:15
+1979,U10,expense,12.38,4/18/2026 22:06,Food,Café Order,Meal-related purchase,4/19/2026 10:02
+1980,U10,expense,4.05,4/19/2026 8:54,Transport,Uber Ride,Local transport expense,4/20/2026 12:59
+1981,U10,expense,12.46,4/20/2026 11:07,Food,Restaurant Meal,Meal-related purchase,4/22/2026 1:42
+1982,U10,expense,4.97,4/20/2026 16:14,Transport,Taxi Fare,,4/20/2026 17:48
+1983,U10,expense,12.16,4/24/2026 7:09,Food,Restaurant Meal,,4/24/2026 10:02
+1984,U10,expense,49.41,4/24/2026 18:44,Shopping,Online Shopping,Non-essential household or personal purchase,4/24/2026 21:41
+1985,U10,expense,92.27,4/25/2026 17:33,Healthcare,Pharmacy Purchase,,4/27/2026 6:03
+1986,U10,expense,13.65,4/26/2026 12:33,Food,Lunch Purchase,Meal-related purchase,4/27/2026 5:53
+1987,U10,expense,41.02,4/26/2026 20:59,Shopping,Household Shopping,Retail purchase,4/27/2026 8:34
+1988,U10,expense,7.58,5/2/2026 22:46,Food,Café Order,Daily food spending,5/2/2026 23:48
+1989,U10,expense,363.19,5/3/2026 16:03,Rent,Monthly Rent Payment,Scheduled rent transfer,5/4/2026 1:42
+1990,U10,income,2547.75,5/5/2026 11:28,Salary,Payroll Credit,Regular monthly paycheck,5/6/2026 3:11
+1991,U10,expense,7.23,5/6/2026 16:40,Food,Café Order,Groceries or meals,5/7/2026 4:04
+1992,U10,expense,25.37,5/7/2026 13:52,Food,Supermarket Grocery Purchase,Daily food spending,5/7/2026 17:28
+1993,U10,expense,4.11,5/9/2026 9:37,Food,Café Order,,5/10/2026 5:51
+1994,U10,expense,2.13,5/9/2026 10:15,Transport,Metro Ticket,,5/10/2026 8:56
+1995,U10,expense,3,5/9/2026 15:25,Other,Service Fee,Non-categorized expense,5/9/2026 19:08
+1996,U10,expense,10.59,5/10/2026 9:43,Food,Café Order,Meal-related purchase,5/11/2026 8:10
+1997,U10,expense,18.02,5/10/2026 13:05,Food,Supermarket Grocery Purchase,Meal-related purchase,5/10/2026 16:17
+1998,U10,expense,11.04,5/10/2026 19:22,Food,Supermarket Grocery Purchase,Daily food spending,5/12/2026 8:21
+1999,U10,expense,1.71,5/12/2026 15:23,Transport,Uber Ride,,5/13/2026 19:50
+2000,U10,expense,34.09,5/12/2026 17:24,Healthcare,Pharmacy Purchase,Medical or pharmacy expense,5/13/2026 1:28
+2001,U10,expense,5.64,5/13/2026 11:56,Food,Supermarket Grocery Purchase,Meal-related purchase,5/17/2026 20:35
+2002,U10,expense,77.75,5/13/2026 18:17,Utilities,Water Bill Payment,Monthly utility bill,5/13/2026 18:32
+2003,U10,expense,8.01,5/14/2026 14:32,Food,Café Order,Meal-related purchase,5/15/2026 5:17
+2004,U10,expense,4.56,5/15/2026 12:57,Transport,Metro Ticket,Commute or travel cost,5/16/2026 22:37
+2005,U10,expense,24.1,5/15/2026 14:47,Healthcare,Doctor Visit,Clinic or medicine payment,5/17/2026 1:58
+2006,U10,expense,15.36,5/16/2026 18:13,Food,Lunch Purchase,Daily food spending,5/17/2026 2:51
+2007,U10,expense,83.65,5/17/2026 11:56,Healthcare,Clinic Payment,Health-related purchase,5/17/2026 17:07
+2008,U10,expense,15.41,5/17/2026 16:50,Food,Supermarket Grocery Purchase,Daily food spending,5/17/2026 19:37
+2009,U10,expense,5.25,5/20/2026 20:29,Transport,Metro Ticket,Ride or fuel cost,5/21/2026 6:29
+2010,U10,expense,6.07,5/24/2026 18:03,Other,Service Fee,,5/25/2026 9:28
+2011,U10,expense,8.01,5/24/2026 19:32,Food,Lunch Purchase,Groceries or meals,5/25/2026 13:40
+2012,U10,expense,8.11,5/25/2026 10:23,Food,Lunch Purchase,,5/25/2026 18:38
+2013,U10,expense,3.09,5/27/2026 10:31,Transport,Taxi Fare,Local transport expense,5/28/2026 23:11
+2014,U10,expense,5.71,5/30/2026 11:12,Transport,Fuel Purchase,,5/31/2026 7:10
+2015,U10,expense,41.42,5/30/2026 14:05,Healthcare,Clinic Payment,Health-related purchase,6/4/2026 19:58
+2016,U10,expense,9.52,5/31/2026 13:55,Food,Supermarket Grocery Purchase,Groceries or meals,6/1/2026 0:16
+2017,U10,expense,4.05,5/31/2026 15:24,Transport,Uber Ride,,5/31/2026 17:34
+2018,U10,expense,516.4,6/2/2026 18:16,Rent,Apartment Rent,Housing payment for the month,6/2/2026 20:48
+2019,U10,expense,14.34,6/2/2026 18:47,Food,Restaurant Meal,Meal-related purchase,6/3/2026 21:50
+2020,U10,expense,3.2,6/4/2026 14:00,Transport,Fuel Purchase,Ride or fuel cost,6/4/2026 17:23
+2021,U10,income,2404.3,6/5/2026 19:00,Gift,Family Gift,Personal transfer received,6/6/2026 20:19
+2022,U10,expense,4.84,6/7/2026 13:32,Transport,Fuel Purchase,,6/7/2026 18:40
+2023,U10,expense,9.24,6/7/2026 22:45,Entertainment,Streaming Subscription,Entertainment-related purchase,6/9/2026 1:35
+2024,U10,expense,14.55,6/9/2026 10:09,Food,Lunch Purchase,Meal-related purchase,6/9/2026 20:07
+2025,U10,expense,40.31,6/10/2026 19:33,Utilities,Electricity Bill Payment,,6/10/2026 21:36
+2026,U10,expense,5.95,6/11/2026 19:35,Transport,Metro Ticket,Commute or travel cost,6/11/2026 22:44
+2027,U10,expense,5.37,6/13/2026 15:36,Food,Lunch Purchase,Groceries or meals,6/13/2026 19:52
+2028,U10,expense,3.46,6/14/2026 13:09,Transport,Taxi Fare,Ride or fuel cost,6/15/2026 11:19
+2029,U10,expense,7.2,6/16/2026 15:22,Food,Lunch Purchase,Groceries or meals,6/17/2026 19:51
+2030,U10,expense,4.72,6/19/2026 21:36,Food,Lunch Purchase,,6/20/2026 13:13
+2031,U10,expense,6.33,6/22/2026 11:08,Food,Restaurant Meal,Daily food spending,6/27/2026 8:52
+2032,U10,expense,48.41,6/22/2026 18:26,Shopping,Electronics Purchase,Discretionary shopping expense,6/23/2026 22:07
+2033,U10,expense,4.81,6/24/2026 9:32,Transport,Taxi Fare,Local transport expense,6/25/2026 23:47
+2034,U10,expense,12.09,6/25/2026 13:10,Food,Supermarket Grocery Purchase,Daily food spending,6/27/2026 3:35
+2035,U10,expense,6.86,6/25/2026 21:09,Food,Café Order,Meal-related purchase,6/26/2026 9:24
+2036,U10,expense,19.05,6/26/2026 20:03,Food,Café Order,Groceries or meals,6/26/2026 22:26
+2037,U10,expense,11.79,6/27/2026 13:27,Other,Service Fee,Non-categorized expense,6/27/2026 14:09
+2038,U10,expense,4.54,6/28/2026 9:52,Food,Café Order,,6/29/2026 21:35
+2039,U10,expense,5.55,6/28/2026 14:22,Transport,Fuel Purchase,Commute or travel cost,6/28/2026 16:38
+2040,U10,expense,8.73,6/29/2026 22:11,Food,Restaurant Meal,Groceries or meals,6/30/2026 13:11
